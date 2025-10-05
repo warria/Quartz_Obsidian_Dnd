@@ -1,7 +1,11 @@
 ---
-dg-home: null
-dg-publish: false
+title: Tehtävät
+draft: false
+tags:
+  -
 ---
+ 
+
 # Jaconian kahleet
 # Phandalin kylä Tehtävälistat
 ---

@@ -1,7 +1,11 @@
 ---
-dg-publish: true
-dg-home:
+title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+draft: false
+tags:
+  - 
 ---
+ 
+
 # Jaconian kahleet – Session 3 
 # Pako ja juhlat
 ---

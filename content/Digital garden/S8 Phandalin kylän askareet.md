@@ -1,7 +1,11 @@
 ---
-dg-home:
-dg-publish: true
+title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+draft: false
+tags:
+  - 
 ---
+ 
+
 # Jaconian kahleet – Session 8
 # Phandalin kylän askareet
 ---
