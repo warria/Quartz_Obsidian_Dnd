@@ -5,7 +5,6 @@ tags:
   -
 ---
 
-# Welcome to Jaconia
 
 **[[Jaconian Alku|Tervetuloa Jaconiaan]]** – ihmeiden ja taikuuden maahan… tai oikeammin siihen, mitä siitä on jäljellä.
 
