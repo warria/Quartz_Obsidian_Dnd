@@ -7,3 +7,23 @@
 header h1 {
   font-weight: 700 !important;
 }
+
+// Image zoom on hover
+.page-listing img,
+article img,
+.popover-hint img {
+  transition: transform 0.3s ease;
+  cursor: zoom-in;
+}
+
+.page-listing img:hover,
+article img:hover,
+.popover-hint img:hover {
+  transform: scale(1.1);
+}
+
+// Prevent layout shift when zooming
+.page-listing,
+article {
+  overflow: hidden;
+}
