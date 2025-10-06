@@ -1,12 +1,9 @@
 ---
-title: Tehtävät
+title: Tehtävä taulu
 draft: false
 tags:
   -
 ---
- 
-
-# Jaconian kahleet
 # Phandalin kylä Tehtävälistat
 ---
 
