@@ -33,3 +33,16 @@ b {
 [saved-theme="dark"] b {
   color: #cd853f !important;
 }
+
+/* Scroll to top button styling */
+#back-to-top {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  opacity: 0.7;
+  transition: opacity 0.3s;
+}
+
+#back-to-top:hover {
+  opacity: 1;
+}
