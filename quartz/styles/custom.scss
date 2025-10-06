@@ -8,3 +8,14 @@ header h1 {
   font-weight: 700 !important;
 }
 
+// More spacing for bullet lists
+article ul li {
+  margin-bottom: 1.2em;
+  line-height: 1.6;
+}
+
+// Extra spacing specifically for NPC list items with bold names
+article ul li strong {
+  display: inline-block;
+  margin-bottom: 0.3em;
+}
