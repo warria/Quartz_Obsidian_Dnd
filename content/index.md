@@ -1,11 +1,9 @@
 ---
-title: Welcome to Jaconia Garde
+title: Welcome to Jaconia
 draft: false
 tags:
   -
 ---
-
-
 **[[Jaconian Alku|Tervetuloa Jaconiaan]]** – ihmeiden ja taikuuden maahan… tai oikeammin siihen, mitä siitä on jäljellä.
 
 Jaconia on pieni, pyöreä maa-alue muinaisen maailman raunioiden keskellä. Sen rajat määrittää **Suden autiomaa**, joka suojaa asukkaita ulkopuolella levittäytyvältä **Borvarialta** – mustan magian ja hirviöiden hallitsemalta rauniomaalta.
