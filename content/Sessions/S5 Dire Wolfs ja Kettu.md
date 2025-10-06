@@ -43,8 +43,6 @@ Nykyhetkessä Jaconia on jakautunut ihmisten ja taikaolentojen kesken, mutta rau
 - Sho kertoo, että dire wolfien ilmestyminen näin kauas on poikkeuksellista – niiden pitäisi pysyä Warthin raunioiden alueella.
 - Petoeläinten lisääntyminen on saanut muun eläimistön katoamaan, mikä vihjaa suuremmasta epätasapainosta luonnossa.
 ---
-![[Dire_susia.jpg]]
-
 ![[yö_metsä.jpg]]
 
 ---
