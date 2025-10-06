@@ -24,26 +24,22 @@ Nykyhetkessä maa on jakautunut ihmisten ja taikaolentojen kesken. Rauha on kuit
     - Varjoissa liikkuva rosvo, joka vaihtaa nimeä jokaisessa kylässä välttääkseen menneisyytensä. Häntä ajaa kunnianhimo olla yksi aikansa parhaista varkaista.
     
     - Todellinen identiteetti on hämärän peitossa – jopa häneltä itseltään, sillä hän ei enää muista omaa oikeaa nimeään.
-
-
+---
 - **Ippu** → **Ena**, Half Elf Warlock
     - Sidottu salaperäiseen suojelijaan, jonka kuiskaukset tarjoavat neuvoja – ja ajoittain kauhuja. Hänen voimansa lähde on arvoitus, eikä sen todellisia motiiveja tunne edes Ena itse.
     
     - Selviytyy karismansa, musiikkinsa ja illuusioidensa avulla, tasapainoillen houkutusten ja vaarojen rajamailla.
-
-
+---
 - **Eemeli** → **Lucifer**, Vampire Bard
     - Karismaattinen ja lumoava esiintyjä, jonka hurmaavan ulkokuoren alla piilee sammumaton verenjano.
     
     - Häntä ajaa levoton halu kiertää maailmaa, etsiä seikkailuja ja jättää jälkensä Jaconian tarinoihin.
-
-
+---
 - **Rain** → **Xin-Xin**, Vulpin Monk
     - Ahne matkailija, joka etsii seikkailua ja rikkauksia.
     
     - Hänen luonteensa johti hänen moniin ongelmiin ja etsii seuraa joka voisi olla hänelle hyödyksi.
-
-
+---
 ![[Party.png]]
 
 ---
