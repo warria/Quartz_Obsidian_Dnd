@@ -19,14 +19,3 @@ article ul li strong {
   display: inline-block;
   margin-bottom: 0.3em;
 }
-
-/* Bold text colors - yellowish in dark mode, brownish in light mode */
-.darkmode strong,
-.darkmode b {
-  color: #e8c547 !important;
-}
-
-:root strong,
-:root b {
-  color: #8b4513 !important;
-}
