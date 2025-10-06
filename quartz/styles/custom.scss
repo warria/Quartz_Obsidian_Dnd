@@ -46,3 +46,40 @@ b {
 #back-to-top:hover {
   opacity: 1;
 }
+
+/* Image modal - click to enlarge */
+article img {
+  cursor: zoom-in;
+  transition: transform 0.3s ease;
+}
+
+article img:hover {
+  opacity: 0.9;
+}
+
+/* Modal overlay */
+.image-modal {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.9);
+  cursor: zoom-out;
+}
+
+.image-modal img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 95%;
+  max-height: 95%;
+  cursor: zoom-out;
+}
+
+.image-modal:hover img {
+  opacity: 1;
+}
