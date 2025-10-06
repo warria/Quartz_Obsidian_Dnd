@@ -1,5 +1,5 @@
 ---
-title: Jaconian kahleet – Session 7
+title: Session 7
 draft: false
 tags:
   -

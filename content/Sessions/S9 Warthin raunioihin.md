@@ -1,5 +1,5 @@
 ---
-title: Jaconian kahleet – Session 9
+title: Session 9
 draft: false
 tags:
   -

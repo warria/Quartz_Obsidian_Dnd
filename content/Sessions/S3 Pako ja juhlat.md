@@ -1,5 +1,5 @@
 ---
-title: Jaconian kahleet – Session 3
+title: Session 3
 draft: false
 tags:
   -
