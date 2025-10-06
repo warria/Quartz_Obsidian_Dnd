@@ -212,3 +212,36 @@ if (!customElements.get("route-announcer")) {
     },
   )
 }
+
+// Image modal functionality
+function setupImageModal() {
+  const images = document.querySelectorAll("article img")
+  
+  images.forEach((img) => {
+    if (img.hasAttribute("data-modal-setup")) return
+    img.setAttribute("data-modal-setup", "true")
+    
+    img.addEventListener("click", function(e) {
+      e.preventDefault()
+      e.stopPropagation()
+      
+      const modal = document.createElement("div")
+      modal.className = "image-modal"
+      modal.style.display = "block"
+      
+      const modalImg = document.createElement("img")
+      modalImg.src = (this as HTMLImageElement).src
+      modalImg.alt = (this as HTMLImageElement).alt || ""
+      
+      modal.appendChild(modalImg)
+      document.body.appendChild(modal)
+      
+      modal.addEventListener("click", function() {
+        modal.remove()
+      })
+    })
+  })
+}
+
+document.addEventListener("nav", setupImageModal)
+setupImageModal()
