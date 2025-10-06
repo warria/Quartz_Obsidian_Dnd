@@ -13,13 +13,9 @@ Muinaiset **Velhokuninkaat** ovat kuolleet kauan sitten, eikä kukaan enää mui
 Nykyhetkessä maa on jakautunut ihmisten ja taikaolentojen kesken. Rauha on kuitenkin hauras: taikuutta pelätään, taikaolentoja halveksitaan ja pohjoisessa sodan uhka kasvaa. Maan keski osassa sijaitseva Jaconian pääkaupunki **Farrignia** se on valtakunnan sydän – ja seikkailujen lähtöpiste.
 
 ---
-
 ![[kartta_jaettu.png]]
-
----
-
 # Pelaajat & hahmot
-
+---
 - **Silja** → **Nerefina**, Elf Rogue
     - Varjoissa liikkuva rosvo, joka vaihtaa nimeä jokaisessa kylässä välttääkseen menneisyytensä. Häntä ajaa kunnianhimo olla yksi aikansa parhaista varkaista.
     
