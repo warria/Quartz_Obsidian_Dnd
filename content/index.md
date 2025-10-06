@@ -18,28 +18,23 @@ Nykyhetkessä maa on jakautunut ihmisten ja taikaolentojen kesken. Rauha on kuit
 ---
 - **Silja** → **Nerefina**, Elf Rogue
     - Varjoissa liikkuva rosvo, joka vaihtaa nimeä jokaisessa kylässä välttääkseen menneisyytensä. Häntä ajaa kunnianhimo olla yksi aikansa parhaista varkaista.
-    
     - Todellinen identiteetti on hämärän peitossa – jopa häneltä itseltään, sillä hän ei enää muista omaa oikeaa nimeään.
 ---
 - **Ippu** → **Ena**, Half Elf Warlock
     - Sidottu salaperäiseen suojelijaan, jonka kuiskaukset tarjoavat neuvoja – ja ajoittain kauhuja. Hänen voimansa lähde on arvoitus, eikä sen todellisia motiiveja tunne edes Ena itse.
-    
     - Selviytyy karismansa, musiikkinsa ja illuusioidensa avulla, tasapainoillen houkutusten ja vaarojen rajamailla.
 ---
 - **Eemeli** → **Lucifer**, Vampire Bard
     - Karismaattinen ja lumoava esiintyjä, jonka hurmaavan ulkokuoren alla piilee sammumaton verenjano.
-    
     - Häntä ajaa levoton halu kiertää maailmaa, etsiä seikkailuja ja jättää jälkensä Jaconian tarinoihin.
 ---
 - **Rain** → **Xin-Xin**, Vulpin Monk
     - Ahne matkailija, joka etsii seikkailua ja rikkauksia.
-    
     - Hänen luonteensa johti hänen moniin ongelmiin ja etsii seuraa joka voisi olla hänelle hyödyksi.
 ---
 ![[Party.png]]
 
 ---
-
 ## 🌍 Maailma lyhyesti
 
 **Tervetuloa Jaconiaan** – maahan, joka seisoo muinaisten raunioiden keskellä ja yrittää rakentaa itseään uudelleen.  
@@ -52,14 +47,12 @@ Silti taikuuden jäänteitä virtaa yhä maailmassa – hiljaisina, vaarallisina
 
 Vanhojen linnojen varjot kuitenkin kuiskivat menneisyyden salaisuuksia, ja pohjoisessa **sota laajenee päivä päivältä**.
 ___
-
 ## ⚔️ Pohjoinen sota
 
 Jaconia on jakautunut kahteen kilpailevaan valtakuntaan – **Marquisatiin** ja **Eyrieen** – jotka käyvät katkeraa sotaa vallasta ja uskosta tulevaisuuteen.  
 Etelässä taas huhutaan taikaolentojen muodostamasta liitosta, joka pyrkii pakenemaan ihmisten verenvuodatusta.
 
 ---
-
 ### 🔴 **Marquisat – Läntinen Jaconia**  
 
 **Pääkaupunki:** Farrignia  
@@ -78,7 +71,6 @@ Sen muurien sisälle pakenevat sekä ihmiset että taikaolennot – toivoen, ett
 Sen voima lepää järjestyksessä, kurinalaisuudessa ja resurssien hallinnassa, mutta jatkuva laajentuminen ruokkii myös tyytymättömyyttä sen rajojen sisällä.
 
 ---
-
 ### 🔵 **Eyrie – Itäinen Jaconia**  
 
 **Pääkaupunki:** Piperia  
@@ -96,7 +88,6 @@ Eyrie pitää itseään uuden aikakauden airuena – vastavoimana Farrignian kor
 Heidän voimansa kasvaa oppineiden linnakkeiden myötä, mutta liiallinen kunnianhimo voi kääntyä heitä itseään vastaan – sisäinen kaaos odottaa niitä, jotka unohtavat oman järjestyksensä.
 
 ---
-
 ### 🟢 **Etelän liittouma – Huhuttu turvapaikka**
 
 **Sijainti:** Eteläinen Jaconia
@@ -107,8 +98,6 @@ Etelässä kerrotaan **taikaolentojen liitosta** turvapaikasta jonne taikaolenno
 Heidän uskotaan etsivän tapaa rakentaa maailma, jossa magia ei ole rikos ja taikaolennoilla on samoja oikeuksia kuin ihmisilläkin.
 
 ___
-
-
 ## 🧑‍🤝‍🧑 Tärkeimmät NPC:t
 
 * **Andrew**  – Blondi vartija, kömpelö mutta yrittää parhaansa. Ystävällinen kaikille, näytti olevan läheinen Romenoorin kanssa (Meni metsän reunaan juomaan Romenoorin kanssa).
