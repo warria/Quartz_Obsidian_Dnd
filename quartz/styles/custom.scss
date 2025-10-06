@@ -8,22 +8,21 @@ header h1 {
   font-weight: 700 !important;
 }
 
-// Image zoom on hover
-.page-listing img,
+// Image zoom on hover - improved for Quartz
 article img,
-.popover-hint img {
-  transition: transform 0.3s ease;
+.popover-hint img,
+.center img,
+p img {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
   cursor: zoom-in;
 }
 
-.page-listing img:hover,
 article img:hover,
-.popover-hint img:hover {
-  transform: scale(1.1);
-}
-
-// Prevent layout shift when zooming
-.page-listing,
-article {
-  overflow: hidden;
+.popover-hint img:hover,
+.center img:hover,
+p img:hover {
+  transform: scale(1.15);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  z-index: 10;
+  position: relative;
 }
