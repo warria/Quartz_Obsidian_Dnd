@@ -8,21 +8,3 @@ header h1 {
   font-weight: 700 !important;
 }
 
-// Image zoom on hover - improved for Quartz
-article img,
-.popover-hint img,
-.center img,
-p img {
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  cursor: zoom-in;
-}
-
-article img:hover,
-.popover-hint img:hover,
-.center img:hover,
-p img:hover {
-  transform: scale(1.15);
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
-  z-index: 10;
-  position: relative;
-}
