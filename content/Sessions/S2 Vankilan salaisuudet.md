@@ -39,6 +39,9 @@ Nykyhetkessä Jaconia on jakautunut ihmisten ja taikaolentojen kesken, mutta rau
 - Party saa takaisin varusteensa -> Vankilan johtajan huoneessa on henkilökohtaiset paperit sekä kartta katakombeihin.
 - Taistelu Vartijan johtajan kanssa
 ---
+![[Vankila.jpg]]
+
+---
 
 ## Tapahtumat
 
