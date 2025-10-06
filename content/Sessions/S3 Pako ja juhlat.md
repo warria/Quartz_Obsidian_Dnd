@@ -1,12 +1,9 @@
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+title: Jaconian kahleet – Session 3
 draft: false
 tags:
-  - 
+  -
 ---
- 
-
-# Jaconian kahleet – Session 3 
 # Pako ja juhlat
 ---
 
