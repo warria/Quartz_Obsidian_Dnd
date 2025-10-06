@@ -29,26 +29,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#f4e8d0",
-          lightgray: "#d4c4a8",
-          gray: "#8b7355",
-          darkgray: "#4a3728",
-          dark: "#2b1f14",
-          secondary: "#8b4513",
-          tertiary: "#a0522d",
+          light: "#f4e8d0",        // Warm parchment
+          lightgray: "#d4c4a8",    // Aged paper
+          gray: "#8b7355",         // Brown-gray
+          darkgray: "#4a3728",     // Dark brown
+          dark: "#2b1f14",         // Nearly black brown
+          secondary: "#8b4513",    // Saddle brown
+          tertiary: "#a0522d",     // Sienna
           highlight: "rgba(139, 69, 19, 0.15)",
           textHighlight: "#daa52088",
         },
         darkMode: {
-          light: "#1a1410",
-          lightgray: "#2d2620",
-          gray: "#6b5d4f",
-          darkgray: "#c4b5a0",
-          dark: "#f4e8d0",
-          secondary: "#cd853f",
-          tertiary: "#daa520",
-          highlight: "rgba(205, 133, 63, 0.15)",
-          textHighlight: "#daa52088",
+          light: "#2b1f14",        // Dark leather/wood
+          lightgray: "#3d2f1f",    // Slightly lighter
+          gray: "#6b5d4f",         // Warm gray
+          darkgray: "#c4b5a0",     // Light parchment text
+          dark: "#e8dcc8",         // Cream text
+          secondary: "#cd853f",    // Peru/copper
+          tertiary: "#daa520",     // Goldenrod
+          highlight: "rgba(205, 133, 63, 0.2)",
+          textHighlight: "#daa52066",
         },
       },
     },
