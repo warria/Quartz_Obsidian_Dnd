@@ -40,7 +40,9 @@ Nykyhetkessä Jaconia on jakautunut ihmisten ja taikaolentojen kesken, mutta rau
 - Party oppivat Sholta kasvaneista uhkista/petoeläimistä lähi metsissä. Oppivat että Sho ei ole nukkunut hetkeen ja että uni tekisi hänelle hyvää.
 - Yöntullessa Party, Sho ja Kulta Tuuli sopii vahdinta vuoroista -> Lusifer ensimmäinen vahti yöllä ja kuulee susien ulvontaa; hän oppii Sholta uhkasta ja väsymyksestä.
 ---
+![[Sho_ja_Kulta.jpg]]
 
+---
 ## Tapahtumat
 
 - Party näkee yöllä kirottua unta -> Loitsu unessa.
