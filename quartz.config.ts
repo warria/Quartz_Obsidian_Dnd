@@ -40,8 +40,8 @@ const config: QuartzConfig = {
           textHighlight: "#daa52088",
         },
         darkMode: {
-          light: "#2b1f14",        // Dark leather/wood
-          lightgray: "#3d2f1f",    // Slightly lighter
+          light: "#1a120c",        // Much darker brown/black (was #2b1f14)
+          lightgray: "#2b1f14",    // Dark leather (was #3d2f1f)
           gray: "#6b5d4f",         // Warm gray
           darkgray: "#c4b5a0",     // Light parchment text
           dark: "#e8dcc8",         // Cream text
