@@ -69,7 +69,7 @@ Nykyhetkessä Jaconia on jakautunut ihmisten ja taikaolentojen kesken, mutta rau
 ---
 ## monologi Session 5 
 
-Lusifer 
+Lucifer 
 
 Kuu on korkeimmillaan taivaalla, sen kylmä valo kylvää maan pimeyteen, antaen ainoan valon ympärillesi. Leirinuotion tuli roihuaa vielä, sen liekit tanssivat epävakaasti tuulessa, mutta tuon tulen kirkas valo ei yllä metsän reunoille asti. Kaikki muu on mustaa ja hiljaista. Pimeys on syvä, mutta taivaalta virtaa kirkasta kuunvaloa, joka saa metsän ääriviivat piirtymään hämärinä varjoina.
 
