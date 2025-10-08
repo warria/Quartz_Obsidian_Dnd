@@ -49,6 +49,8 @@ Samalla lusifer kysyi lisä tietoa tehtävästä joka koski kadonnutta lehmää,
 
 Ennen lähtöä Nerefina auttoi vanhusta ja tutki vielä yhden questin mahdollisuutta, Lucifer tarkisti toisen majatalon, joka oli jo konkurssissa, ja Xin-Xin leikki kissan pentujen kanssa ja jatkoi auttamista maatilalla. keskipäivällä kaikki kokoontuivat, nousivat hevosten selkään ja jatkoivat matkaa kohti Warthin raunioita.
 
+![[Phandalin_Night.webp]]
+
 ---
 
 ## Tapahtumat

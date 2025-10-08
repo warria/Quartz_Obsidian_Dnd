@@ -61,8 +61,8 @@ Kun Ena iski eldritch blastilla yhtä sutta suoraa päähän lima muodostui siih
 ---
 ### NPC:t
 
-- **Kadonneen maatilan tyttären veli** (kuolleena limakasassa)
-- **Mainittu tiedemies tehtävästä** (Luultavasti myös kuolleena limakasassa)
+- **Kadonneen maatilan tyttären veli** (kuolleena limakasana)
+- **Mainittu tiedemies tehtävästä** (Luultavasti myös kuolleena limakasana)
 
 ---
 
