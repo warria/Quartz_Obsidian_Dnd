@@ -7,11 +7,10 @@ tags:
 # Warthin raunioihin
 ---
 
-**Päiväys:** 21.07.2025
+**Päiväys:** 20.07.2025  
 **Sijainti:** Warthin raunioiden laitamat
 
 ---
-
 ## Pelaajat & hahmot
 
 - **Silja** → Nerefina, Elf Rogue
