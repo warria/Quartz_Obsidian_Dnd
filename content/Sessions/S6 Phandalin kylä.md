@@ -81,7 +81,7 @@ Nykyhetkessä Jaconia on jakautunut ihmisten ja taikaolentojen kesken, mutta rau
 ## Listat
 
 - **[[Tehtävät]] (helpoista vaikeisiin)**
-- **[[Armeijan tehtävät]]**
+- **[[Tehtävät|Armeijan tehtävät]]**
 - **[[Etsintäkuulutukset]]**
 - **[[Propaganda]] ja huhut**
 
