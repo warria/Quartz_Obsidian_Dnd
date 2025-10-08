@@ -35,7 +35,7 @@ Nykyhetkessä Jaconia on jakautunut ihmisten ja taikaolentojen kesken, mutta rau
 
 - Uusi pelaaja Xin-Xin saapuu leiriin pakomatkalla ja liittyy partyyn.
 - Xin-Xinin perässä saapuu lauma dire wolf -susia, jotka hyökkäävät leiriin ja aloittavat suuren taistelun.
-- Party yhdistää voimansa ja voittaa taistelun, vaikka tilanne käy vaaralliseksi.
+- Party taisteli yhdessä ja selvisi voittajana, vaikka tilanne kävi hetkittäin hengenvaaralliseksi. Jotkut heistä kiipesivät puihin saadakseen paremmat asemat taistelun aikana. (Taistelun lopulta kaikki korkealla asemalla olevat tulivat taidokaasti alas, paitsi Nerefina joka tippui puusta pääedellä alas (lol se oli hyvin noloa...))
 - Nerefina kerää susien jäänteistä turkiksia ja lihaa hyötykäyttöön.
 - Party viettää yön puissa turvassa, sillä yötä on vielä paljon jäljellä ennen aamun tuloa jatkavet vahtivuoroja läpi yön.
 - Aamun valjetessa party suorittaa aamutoimiaan (mm. Nerefina herättää Luciferin tökkimällä tikulla), siivoaa taistelun jäljet ja valmistautuu lähtöön.
