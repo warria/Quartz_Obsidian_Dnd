@@ -94,6 +94,7 @@ _“Time is running out. Get more power.”_
 
 - **Neljän hevosen ryhmä** (Palkkio paketin ja kirjeen viennistä)
 - **5 kultaa** (Nerefina -> tehtävästä (Huijasi vanhalta mieheltä enemmän palkkaa))
-- **Rex Maximuksen wanted-juliste** (Nerefina otti talteen).
+- **Nerefina wanted-juliste** (Nerefina otti talteen).
+- **Rex Maximuksen wanted-juliste** -> paikan vaihto kylän keskustan tauluun (Nerefina siirsi).
 
 ---
