@@ -7,7 +7,7 @@ tags:
 # Warthin raunioihin
 ---
 
-**Päiväys:** 21.07.2025 
+**Päiväys:** 21.07.2025
 **Sijainti:** Warthin raunioiden laitamat
 
 ---
@@ -27,7 +27,7 @@ Jaconia on pieni maa muinaisen kulttuurin raunioiden keskellä. Sen rajat määr
 
 Nykyhetkessä Jaconia on jakautunut ihmisten ja taikaolentojen kesken, mutta rauhaa ei ole: taikuus on pelättyä, taikaolennot halveksittuja ja pohjoisessa sodan uhka kasvaa. Keskellä maata sijaitseva Farrignia on valtakunnan sydän ja kampanjan lähtöpiste.
 
-![[Jaconia.png]]
+![[Jaconia_color.jpg]]
 
 ---
 
