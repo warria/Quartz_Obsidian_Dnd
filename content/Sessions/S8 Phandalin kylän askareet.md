@@ -33,23 +33,21 @@ Nykyhetkessä Jaconia on jakautunut ihmisten ja taikaolentojen kesken, mutta rau
 
 ## Yhteenveto
 
-Session alku vei ryhmän takaisin Livian majataloon, jossa he nauttivat aamupalan ja yrittivät palautua edellisillan tapahtumista. **Ena** näki kuitenkin levottoman painajaisen — hän seisoi palavassa vankilassa, sitten ajelehti veneessä keskellä mustaa merta ennen kuin oma vääristynyt heijastuksensa veti hänet pimeyteen. Hänen patroninsa ääni kuiskasi: _“Tik tok, tik tok… time is running out. Gain more power.”_
+Session alussa kaikki lepäsivät majatalossa, mutta Ena näki painajaisen jossa hän oli palavassa vankilassa ja sitten veneesä keskellä mustaa merta ja sitten vedettynä pimeyteen omalta vääristetyltä heijastukselta. Unessa hänen patroninsa varoitti ajan loppumisesta ja kehotti häntä hankkimaan lisää voimaa. Aamulla Livia tarjosi aamiaisen ja pyysi Ena’a viemään ruuan Andrewle, joka paljasti tuntevansa itsensä tyhjäksi vankilan tuhouduttua.
 
-Aamulla **Livia** tarjosi aamiaisen ja pyysi **Enaa** viemään ruoan **Andrewille**, joka paljasti tuntevansa olonsa eksyneeksi ja merkityksettömäksi vankilan tuhon jälkeen. Pian muutkin liittyivät pöytään. **Nerefina** huomasi ilmoitustaululla kuuluisan kilpailijansa **Rex Maximuksen** etsintäkuulutuksen ja repäisi sen seinältä raivostuneena.
+Muut liittyivät vähitellen aamiaiselle. Nerefina huomasi guest boardilla kuuluisan kilpailijansa Rex Maximusin wanted-julisteen ja raivostui. Party sai Livialta tehtävän viedä paketin maatilalle sekä varoituksen Warthin raunioista. Andrew jätettiin kylään auttamaan Liviaa ja suojelemaan majataloa, koska armeija lähestyy.
 
-**Livia** antoi ryhmälle tehtävän viedä paketin lähimaatilalle ja varoitti heitä **Warthin raunioista**. Koska armeijan joukot olivat liikkumassa kohti kylää, **Andrew** päätettiin jättää majatalolle auttamaan ja suojelemaan paikkaa.
+Kylässä party tapasi maatilan tytön kissansa Fukussin kanssa, sekä kalastajan pojan Carp’in joka asuu tällä hetkellä maatilalla isänsä ollessa sodassa. Farmilla Xin-Xin vietti aikaa kissojen kanssa, ja paketista paljastui parantavia juomia joitka Livian oli lähetänyt maatilan isännälle parantaqmaan tämän kipeenä olevaa vaimoa. Vastineeksi party sai neljä hevosta. 
 
-Maatilalla ryhmä tapasi tytön, tämän kissan **Fukusin**, sekä kalastajan pojan **Carpin**, joka asui siellä isänsä ollessa sodassa. Paketista paljastui parantavia taikajuomia, jotka Livia oli lähettänyt maatilan isännälle tämän sairasta vaimoa varten. Kiitokseksi ryhmä sai neljä hevosta – jokaiselle omanlaisensa:
-### Hevoset
-- **Nerefina** → suuri ja majesteettinen, kuin Zeldan ratsu
-- **Ena** → leikkisä ja eloisa
-- **Lucifer** → hohtavan valkoinen, elegantti ja ylpeä
-- **Xin-Xin** → pieni ja tumma “edge pony”
+#### Hevoset:
+- Nerefina → Iso hevonen kuin Zeldassa
+- Ena → Normaalin näkoinen hyvin leikkisä
+- Lucifer → kokonaan valkoinen very elegand
+- Xin-Xin → edge pony
 
-**Lucifer** kuuli samalla huhuja kadonneesta lehmistä – yksi niistä oli kuulunut juuri tälle tilalle ja ollut läheinen pojan kanssa, joka nyt taisteli sodassa.  
-**Nerefina** auttoi kylän vanhusta ja tutki muita questimahdollisuuksia, **Lucifer** tarkisti toisen, konkurssiin menneen majatalon, ja **Xin-Xin** vietti aikaa maatilan kissojen kanssa.
+Samalla lusifer kysyi lisä tietoa tehtävästä joka koski kadonnutta lehmää, ja sai tietää että lehmä kuuluu juuri tälle maatilalle ja että lehmä oikestaan oli hyvin läheinen maatilan poikaan joka on myös joutunut lähtemään sotaan.
 
-Iltapäivällä ryhmä kokoontui jälleen yhteen, nousi hevosten selkään ja suuntasi kohti **Warthin raunioita** – paikkaa, jonka varjoista Livia oli heitä varoittanut.
+Ennen lähtöä Nerefina auttoi vanhusta ja tutki vielä yhden questin mahdollisuutta, Lucifer tarkisti toisen majatalon, joka oli jo konkurssissa, ja Xin-Xin leikki kissan pentujen kanssa ja jatkoi auttamista maatilalla. keskipäivällä kaikki kokoontuivat, nousivat hevosten selkään ja jatkoivat matkaa kohti Warthin raunioita.
 
 ---
 
