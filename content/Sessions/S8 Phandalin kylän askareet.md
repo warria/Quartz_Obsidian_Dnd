@@ -73,6 +73,7 @@ Iltapäivällä ryhmä kokoontui jälleen yhteen, nousi hevosten selkään ja su
 ## monologi Session 8 
 
 (Enan unessa oleva haijastus sanoo)
+
 _“Tik tok… tik tok…”_  
 _“Time is running out. Get more power.”_
 
