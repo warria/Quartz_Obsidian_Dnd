@@ -55,7 +55,7 @@ Nykyhetkessä Jaconia on jakautunut ihmisten ja taikaolentojen kesken, mutta rau
 - Hetkeä myöhemmin puiden rajasta ryntää useita jättimäisiä dire wolfeja, suuria kuin hevoset, harmaanhopeinen turkki kiiltäen kuunvalossa.
 - Taistelu syttyy – Sho tarttuu miekkaansa ja Kulta Tuuli ampuu nuolia metsän pimeyteen, kun taas party valmistautuu tappeluun.
 - Nerefina liikkuu varjoissa ja iskee nopeasti, Ena kutsuu esiin taikuuttaan, Lucifer nostattaa musiikin rytmin vahvistamaan tovereitaan ja Xin-Xin iskee salamannopeilla potkuilla.
-- Viimeinen susista koittaa juosta kakuun mutta Nerevina ampuu sen kallon läpi nuolen, pysäyttäen sen yrityksen paeta.
+- Viimeinen susista koittaa juosta karkuun mutta Nerefina ampuu sen kallon läpi nuolen, pysäyttäen sen yrityksen paeta.
 - Hiljaisuuden palatessa party kokoontuu yhteen, hengitys höyryten yön kylmässä ilmassa; Sho toteaa, ettei susien pitäisi koskaan tulla näin kauas Warthin raunioilta.
 - Nerefina alkaa kerätä talteen turkiksia ja lihaa hyötykäyttöön, kun muut tarkastavat haavojaan ja siivoavat taistelun jälkiä.
 - Andrew nähdään aluksi auttamassa taistelussa, mutta hän katoaa kaaoksen keskellä metsään -> juoksi pakoon/piiloon dire wolf -laumaa.
@@ -64,8 +64,9 @@ Nykyhetkessä Jaconia on jakautunut ihmisten ja taikaolentojen kesken, mutta rau
 - Sho ja Kulta Tuuli ilmoittavat kulkevansa samaan suuntaan ja tarjoavat apuaan oppaina kohti lähintä kylää, Phandalinia.
 - Matkalla Sho kertoo, että petoeläinten lisääntyminen ja dire wolfien levittäytyminen viittaavat epätasapainoon luonnossa – jokin vanha voima on herännyt, ja sen vaikutus alkaa näkyä kaikkialla.
 
----
+![[dire_wolff.webp]]
 
+---
 ## monologi Session 5 
 
 Lusifer 
