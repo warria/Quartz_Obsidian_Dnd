@@ -48,8 +48,8 @@ Nykyhetkessä Jaconia on jakautunut ihmisten ja taikaolentojen kesken, mutta rau
 - **Nerefina** ja **Ena** pääsivät liitymään keskusteluun ja saivat tärkeää tietoa **Warthin raunioista**, **armeijan liikkeistä** ja **Romenoorista**.
 - **Livia** korvasi osan tavaroista, jotka Romenoor oli aiemmin ryöstänyt ryhmältä.
 - Session loppu: jokainen hahmo vetäytyi nukkumaan.
-
-![[Livian_majatalo.png]]
+### Livian huone:
+![[Livian_huone1.jpg]]
 
 ---
 
@@ -66,7 +66,7 @@ Nykyhetkessä Jaconia on jakautunut ihmisten ja taikaolentojen kesken, mutta rau
 - Livia korvasi osan Romenoorin aiheuttamista vahingoista.
 - Lopuksi ryhmä vetäytyi lepäämään yön varjoon.
 
-![[Livian_majatalo.png]]
+![[Livian_työpöytä1.jpg]]
 
 ---
 
