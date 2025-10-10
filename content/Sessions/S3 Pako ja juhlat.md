@@ -26,7 +26,7 @@ Jaconia on pieni maa muinaisen kulttuurin raunioiden keskellä. Sen rajat määr
 
 Nykyhetkessä Jaconia on jakautunut ihmisten ja taikaolentojen kesken, mutta rauhaa ei ole: taikuus on pelättyä, taikaolennot halveksittuja ja pohjoisessa sodan uhka kasvaa. Keskellä maata sijaitseva Farrignia on valtakunnan sydän ja kampanjan lähtöpiste.
 
-![[Dnd Ei nettisivulla/Kuvat/kartta_jaettu.png]]
+![[kartta_jaettu.png]]
 ___
 
 ## Yhteenveto
@@ -39,7 +39,7 @@ ___
 - Nestor antoi kolmen muinaisen taikaesineen sijainnit ennen lähtöään.
 - Party meni nukkumaan väsyneenä pitkän päivän ja yön jälkeen.
 ---
-![[Dnd Ei nettisivulla/Kuvat/vankila-pako.png]]
+![[vankila-pako.png]]
 
 ---
 
