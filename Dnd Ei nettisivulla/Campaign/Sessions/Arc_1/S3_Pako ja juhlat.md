@@ -46,7 +46,7 @@ darkmode: false ### markermarker: Kaupunki (Marquise),569,1072,Ci,,-0.5,
 - [[Romenoor]] palaa murtuneena, katuvana, mutta liittyy joukkoon.  
 - Vangit pääsevät ulos, ja juhlat nuotion äärellä sisältävät tanssia, tarinoita, musiikkia ja juomaa.  
 
-![[Dnd Ei nettisivulla/Kuvat/vankila-pako.png]]
+![[content/Kuvat/vankila-pako.png]]
 
 ---
 

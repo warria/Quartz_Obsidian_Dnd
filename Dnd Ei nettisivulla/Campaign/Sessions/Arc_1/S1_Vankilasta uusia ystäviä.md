@@ -48,7 +48,7 @@ darkmode: false ### markermarker: Kaupunki (Marquise),569,1072,Ci,,-0.5,
 - Vangit lähetetään eturintamalle, mutta party onnistuu välttämään teloituksen.  
 - Pakoyritys epäonnistuu osittain, mutta pelaajat onnistuvat pakenemaan vartijoiden saapuessa.  
 
-![[Dnd Ei nettisivulla/Kuvat/vankila.png]]
+![[content/Kuvat/vankila.png]]
 
 ---
 
