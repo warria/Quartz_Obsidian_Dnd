@@ -13,7 +13,7 @@ Muinaiset **Velhokuninkaat** ovat kuolleet kauan sitten, eikä kukaan enää mui
 Nykyhetkessä maa on jakautunut ihmisten ja taikaolentojen kesken. Rauha on kuitenkin hauras: taikuutta pelätään, taikaolentoja halveksitaan ja pohjoisessa sodan uhka kasvaa. Maan keski osassa sijaitseva Jaconian pääkaupunki **Farrignia** se on valtakunnan sydän – ja seikkailujen lähtöpiste.
 
 ---
-![[kartta_jaettu.png]]
+![[content/Kuvat_kartat/kartta_jaettu.png]]
 # Pelaajat & hahmot
 ---
 - **Silja** → **Nerefina**, Elf Rogue
@@ -32,7 +32,7 @@ Nykyhetkessä maa on jakautunut ihmisten ja taikaolentojen kesken. Rauha on kuit
     - Ahne matkailija, joka etsii seikkailua ja rikkauksia.
     - Hänen luonteensa johti hänen moniin ongelmiin ja etsii seuraa joka voisi olla hänelle hyödyksi.
 ---
-![[Party.png]]
+![[content/Kuvat_kartat/Party.png]]
 
 ---
 ## 🌍 Maailma lyhyesti

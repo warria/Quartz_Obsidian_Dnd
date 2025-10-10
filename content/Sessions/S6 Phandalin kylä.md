@@ -27,7 +27,7 @@ Jaconia on pieni maa muinaisen kulttuurin raunioiden keskellä. Sen rajat määr
 
 Nykyhetkessä Jaconia on jakautunut ihmisten ja taikaolentojen kesken, mutta rauhaa ei ole: taikuus on pelättyä, taikaolennot halveksittuja ja pohjoisessa sodan uhka kasvaa. Keskellä maata sijaitseva Farrignia on valtakunnan sydän ja kampanjan lähtöpiste.
 
-![[kartta_jaettu.png]]
+![[Dnd Ei nettisivulla/Kuvat/kartta_jaettu.png]]
 
 ---
 
@@ -43,7 +43,7 @@ Nykyhetkessä Jaconia on jakautunut ihmisten ja taikaolentojen kesken, mutta rau
 - Sisällä he näkivät lentäviä ruokia, maagisia koristeita ja ilmoitustaulun täynnä tehtäviä, etsintäkuulutuksia ja propagandaa.
 - Session loppu: Party tapasi Livian, majatalon omistajan, ja jäi tutkimaan paikan salaperäistä tunnelmaa.
 
-![[Phandalin.webp]]
+![[Dnd Ei nettisivulla/Kuvat/Phandalin.webp]]
 
 ---
 
@@ -59,7 +59,7 @@ Nykyhetkessä Jaconia on jakautunut ihmisten ja taikaolentojen kesken, mutta rau
 
 ## Livian Majatalo
 
-![[Livian_majatalo.png]]
+![[Dnd Ei nettisivulla/Kuvat/Livian_majatalo.png]]
 
 ---
 

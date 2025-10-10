@@ -17,7 +17,7 @@ Jaconia on jakautunut kahteen kilpailevaan valtakuntaan – **Marquisatiin** ja 
 Sinut on pidätetty ja viety **Farrignian vankilaan**, täyteen pakattu muilla taikaolennoilla. Ulkomaailma jää taakse, mutta tämä ei ole loppu –  
 **vaan alku Tarinallesi ja jollekin suurelle.**
 
-![[kartta_jaettu.png]]
+![[content/Kuvat_kartat/kartta_jaettu.png]]
 ___
 
 ## Koko Maailman alku

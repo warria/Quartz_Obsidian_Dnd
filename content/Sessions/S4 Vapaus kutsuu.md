@@ -26,7 +26,7 @@ Jaconia on pieni maa muinaisen kulttuurin raunioiden keskellä. Sen rajat määr
 
 Nykyhetkessä Jaconia on jakautunut ihmisten ja taikaolentojen kesken, mutta rauhaa ei ole: taikuus on pelättyä, taikaolennot halveksittuja ja pohjoisessa sodan uhka kasvaa. Keskellä maata sijaitseva Farrignia on valtakunnan sydän ja kampanjan lähtöpiste.
 
-![[kartta_jaettu.png]]
+![[Dnd Ei nettisivulla/Kuvat/kartta_jaettu.png]]
 
 ---
 
