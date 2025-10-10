@@ -231,7 +231,9 @@ Sen viisi päätä kääntyilevät arvaamattomasti eri suuntiin. Mustaa limaa va
 Raajoja on liikaa laskea, ja niiden joukossa voi nähdä tutut raajat, jotka kuuluivat ystävällenne, joka seisoi vierellänne vielä hetki sitten.
 
 Edessänne kohoaa nyt jotain, joka ei tunne armoa. Musta lima liikkuu, venyy ja syöksyy eteenpäin. Kaikki, mikä on sen tiellä, on alistettu sen tahdolle.
-  
+
+![[5_hedes_wolf.png]]
+
 ---
 
 ### Musiikki & tunnelma

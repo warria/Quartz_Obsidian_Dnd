@@ -128,3 +128,6 @@ Alla lista [[Jaconia]]n kartassa näkyvistä nimetyistä paikoista:
 - Monet [[Ihmiset]] ja [[Taikaolennot]] ovat joutuneet pakenemaan kotiseuduiltaan.
 - Turvaa haetaan pääkaupungin muurien sisältä.
 - Toivo: että ahneuden aloittama sota lopulta sammuu.
+
+
+![[5_hedes_wolf.png]]
