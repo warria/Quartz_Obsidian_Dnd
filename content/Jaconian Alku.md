@@ -43,9 +43,9 @@ Tarinanne alkaa **Jaconian pääkaupungista, Farrigniasta**.
 Farrignian valtakunta sijaitsee Jaconian keskiosassa, ja sen kautta kulkee kauppa ja tieto kaikkialta maailmasta.
 
 Kaupungissa elää yli puoli miljoonaa ihmistä, mutta sen rajojen sisällä on lukuisia pienempiä kaupunkeja ja maalaiskyliä.  
-Koko valtakunnan väkilukua ei tiedetä tarkasti, mutta sen uskotaan ylittävän kymmenen miljoonan rajan – ja kasvavan yhä, sillä sota pohjoisessa ajaa pakolaisia etelään.
+Koko valtakunnan väkilukua ei tunneta tarkasti, mutta sen arvioidaan ylittävän kymmenen miljoonaa – ja kasvavan jatkuvasti, kun pohjoisen sota ajaa yhä useampia pakolaisia Farrigniaan.
 
-Monet ihmiset ja taikaolennot ovat joutuneet jättämään kotinsa, etsien turvaa Farrignian muurien sisältä, toivoen, että ahneus ja veri saisi sodan päättymään.
+Monet ovat joutuneet jättämään kotinsa, ihmiset ja taikaolennot yhtä lailla, etsien turvaa kaupungin muurien sisäpuolelta ja toivoten ahneuden aloittaman sodan loppua.
 
 ---
 Jaconia on jakautunut kahteen kilpailevaan valtakuntaan – **Marquisatiin** ja **Eyrieen** – jotka käyvät katkeraa sotaa vallasta ja uskosta tulevaisuuteen.  
