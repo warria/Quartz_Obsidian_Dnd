@@ -10,7 +10,7 @@ Jaconia on pieni, pyöreä maa-alue muinaisen maailman raunioiden keskellä. Sen
 
 Muinaiset **Velhokuninkaat** ovat kuolleet kauan sitten, eikä kukaan enää muista aikaa ennen heidän valtakuntansa tuhoa. Nykyinen Jaconia seisoo raunioiden keskellä, menneisyyden varjossa.
 
-Nykyhetkessä maa on jakautunut ihmisten ja taikaolentojen kesken. Rauha on kuitenkin hauras: taikuutta pelätään, taikaolentoja halveksitaan ja pohjoisessa sodan uhka kasvaa. Maan keski osassa sijaitseva Jaconian pääkaupunki **Farrignia** se on valtakunnan sydän – ja seikkailujen lähtöpiste.
+Nykyhetkessä maa on jakautunut ihmisten ja taikaolentojen kesken. Rauha on kuitenkin hauras: taikuutta pelätään, taikaolentoja halveksitaan ja pohjoisessa ihmisten välinen sodan uhka kasvaa. Maan keski osassa sijaitseva Jaconian pääkaupunki **Farrignia** se on valtakunnan sydän – ja seikkailujen lähtöpiste.
 
 ---
 ![[kartta_jaettu.png]]
@@ -39,12 +39,12 @@ Nykyhetkessä maa on jakautunut ihmisten ja taikaolentojen kesken. Rauha on kuit
 ## 🌍 Maailma lyhyesti
 
 **Tervetuloa Jaconiaan** – maahan, joka seisoo muinaisten raunioiden keskellä ja yrittää rakentaa itseään uudelleen.  
-Sen ympärillä leviää **Borvaria**, kadotettu maa, jossa taikuus on muuttunut kiroukseksi ja hirviöiden valtakunnaksi.
+Sen ympärillä leviää **Borvaria**, kirottu raunioiden meri, jossa menneiden aikojen taikuus on herättänyt vain hirviöitä ja kuolemaa.
 
 **Taikuutta pelätään ja sen harjoittaminen on kielletty lähes kaikkialla.**  
-Sen sijaan, että magiaa tutkittaisiin, siitä vaietaan – ja ne, joilla voima vielä elää suonissaan, oppivat kätkemään sen kuin synnin.  
+Sen sijaan, että magiaa tutkittaisiin, siitä vaietaan - ja ne, joilla voima vielä elää suonissaan, oppivat kätkemään sen kuin synnin.  
 Vanhojen aikojen loitsut ja rituaalit ovat muuttuneet taruiksi, joita kuiskitaan vain pimeissä nurkissa ja lasten iltasaduissa.  
-Silti taikuuden jäänteitä virtaa yhä maailmassa – hiljaisina, vaarallisina ja väistämättöminä.
+Silti taikuuden jäänteitä virtaa yhä maailmassa - hiljaisina, vaarallisina ja väistämättöminä.
 
 Vanhojen linnojen varjot kuitenkin kuiskivat menneisyyden salaisuuksia, ja pohjoisessa **sota laajenee päivä päivältä**.
 ___

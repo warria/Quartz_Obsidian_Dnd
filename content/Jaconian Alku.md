@@ -8,13 +8,11 @@ tags:
 # Maailman alku
 ---
 ## **Yhteenveto**
-Jaconia on pieni saari kaaoksen keskellä, ympäröity **Suden autiomaalla** ja Borvarian hirviöiden täyttämällä, mustan magian alueella. Muinaisten velhokuninkaiden kuoltua maailma on muuttunut, ja taikuus elää vain varjoina ihmisten ja taikaolentojen keskuudessa.
+Jaconia on pieni saari kaaoksen keskellä, ympäröity **Suden autiomaalla**, joka pitää jaconian suojassa **Borvarian** pimeydeltä – maasta, jossa musta magia ja hirviöt hallitsevat raunioita. Muinaisten velhokuninkaiden kuoltua maailma on muuttunut, ja taikuus elää vain varjoina ihmisten ja taikaolentojen keskuudessa.
 
-Pohjoisessa sijaitsevat tiheästi asutut kylät, linnoitukset ja muinaisten palatsien yliopistot, joissa tiede ja teknologia ovat syrjäyttäneet taikuuden. Etelässä huhutaan taikaolentojen liitosta, joka pyrkii pakenemaan ihmisten verenvuodatusta.
+Jaconia on jakautunut kahteen kilpailevaan valtakuntaan – **Marquisatiin** ja **Eyrieen** – jotka ovat käyneet sotaa yli **kolmenkymmenen** vuoden ajan. Sodan seuraukset näkyvät kaikkialla, ja pakolaiset etsivät turvaa pääkaupunki **Farrigniasta**, kaupungista, jossa tarinamme sankareiden - sinun matka alkaa.
 
-Jaconia on jakautunut kahteen kilpailevaan valtakuntaan – **Marquisatiin** ja **Eyrieen** – jotka ovat käyneet sotaa yli kolmenkymmenen vuoden ajan. Sodan seuraukset näkyvät kaikkialla, ja pakolaiset etsivät turvaa pääkaupunki **Farrigniasta**, kaupungista, jossa tarinasi alkaa.
-
-Sinut on pidätetty ja viety **Farrignian vankilaan**, täyteen pakattu muilla taikaolennoilla. Ulkomaailma jää taakse, mutta tämä ei ole loppu –  
+Sinut on pidätetty ilman syytä ja viety **Farrignian vankilaan**, joka on täyteen pakattu muilla taikaolennoilla. Ulkomaailma jää taakse, mutta tämä ei ole loppu –  
 **vaan alku Tarinallesi ja jollekin suurelle.**
 
 ![[kartta_jaettu.png]]
@@ -27,11 +25,11 @@ Jaconia on pyöreä maa-alue keskellä ammoin kuolleen muinaiskulttuurin rauniok
 
 Nyt maailman raja on **Suden autiomaa**, joka kiertää koko Jaconian, suojaten maan kaikelta pahalta, joka voisi tulla toiselta puolelta – sieltä, missä levittäytyy **Borvaria**, mustan magian ja hirviöiden kansoittama helvetillinen raunioiden meri. Se on niin laaja, että sen keskelle jäävä Jaconia on vain pieni saari kaaoksen keskellä. Kukaan ei tiedä, mitä Borvarian takana on. Monet uskovat, että siellä voisi olla pelastus, luvattu maa… tai jopa jumalten oma valtakunta.
 
-Useita tutkimusmatkoja on tehty tuolle mainitulle helvetin autiomaalle. Onnekkaiksi sanotaan niitä, jotka kuolivat matkallaan. Ne, jotka jäivät henkiin, palasivat muuttuneina – traumatisoituneina, hulluina, mielensä menettäneinä. Ja ne harvat, jotka yhä pystyivät puhumaan, eivät halunneet kertoa mitään.
+Useita tutkimusmatkoja on tehty tuolle mainitulle helvetin autiomaalle. Onnekkaiksi sanotaan niitä, jotka kuolivat matkallaan. Ne, jotka jäivät henkiin, palasivat muuttuneina – traumatisoituneina, hulluina, mielensä menettäneinä. Ja ne harvat, jotka yhä pystyivät puhumaan, eivät halua puhua tapahtuneesta.
 
 ---
 **Palataan nykyhetkeen**. Tutkimusmatkat Borvariaan unohtuneina.
-Tällä pienellä maapläntillä joka on nimetty **Jaconiaksi** asustaa ihmiset ja lukuisat taikaolennot yhdessä, muttei niinkään sovussa.. Taikuus ja taikaolennot ovat pelättyjä ja halveksittuja ihmisten joukossa. Niiltä harvoilta, joilla on voima käyttää taikoja, odotetaan että he tekevät sen ihmiskunnan hyväksi, eivät itseään varten.
+Tällä pienellä maapläntillä joka on nimetty **Jaconiaksi** asustaa ihmiset ja lukuisat taikaolennot yhdessä, muttei niinkään sovussa... Taikuus ja taikaolennot ovat pelättyjä ja halveksittuja ihmisten joukossa. Niiltä harvoilta, joilla on voima käyttää taikoja, odotetaan että he tekevät sen ihmiskunnan hyväksi, eivät itseään varten.
 
 Pohjoisessa Jaconia on tiheään asuttu. 
 Maalaiskylät näkevät toisensa yli peltotilkkujen ja matalien kukkuloiden. Korkeammilla mailla kohoaa linnoja ja ritareiden kartanoita, joita muinaiset velhot rakensivat itselleen tai orjia valvoville ja joiden nykyisillä asukkailla ei ole aavistustakaan asuinpaikkansa synkistä ja unohdetuista salaisuuksista.
