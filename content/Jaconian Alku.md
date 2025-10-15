@@ -48,22 +48,21 @@ Koko valtakunnan väkilukua ei tunneta tarkasti, mutta sen arvioidaan ylittävä
 Monet ovat joutuneet jättämään kotinsa, ihmiset ja taikaolennot yhtä lailla, etsien turvaa kaupungin muurien sisäpuolelta ja toivoten ahneuden aloittaman sodan loppua.
 
 ---
-Jaconia on jakautunut kahteen kilpailevaan valtakuntaan – **Marquisatiin** ja **Eyrieen** – jotka käyvät katkeraa sotaa vallasta ja uskosta tulevaisuuteen.  
+Jaconia on jakautunut kahteen kilpailevaan valtakuntaan – **Marquisatiin** ja **Eyrieen**, jotka käyvät katkeraa sotaa vallasta ja uskosta tulevaisuuteen.  
 Etelässä taas huhutaan taikaolentojen muodostamasta liitosta, joka pyrkii pakenemaan ihmisten verenvuodatusta.
 
 Sota on kestänyt kolmekymmentä vuotta.  
 Sen juuret ovat unohdetut, mutta sen seuraukset näkyvät kaikkialla.  
-Sodasta on tullut perintö, jota kukaan ei enää osaa lopettaa.
 
 Sodan varjossa Jaconia murenee.
 
 ---
 Olet ollut Farrigniassa muutamia viikkoja.  
-Ehkä löysit työtä, asutusta, uuden alun – tai olit vain ohikulkumatkalla, suuntaamassa etelään pois ihmisten sodista.
+Ehkä löysit työtä, asutusta, uuden alun – tai olit vain ohikulkumatkalla väärässä paikassa väärään aikaan.
 
 Mutta kohtalo pääti eri tavalla.
 
-Syystä tai toisesta – toden tai tekaistun – Sinut pidätettiin.  
+Syystä tai toisesta sinut pidätetäänm kertomatta kunnolla syytä miksi.
 Syyllisenä tai syytömänä, sinut vietiin kaupungin muurien ulkopuolelle, **Farrignian vankilaan,** joka on täynteen pakattu taika olennoilla, tuomittu samoista rikoksista kuin sinut.
 
 Vankilan ovet sulkeutuvat takanasi, ja ulkomaailma jää kauas – sodan, pelon ja taikuuden kaikuina.
