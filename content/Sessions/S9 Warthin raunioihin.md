@@ -13,10 +13,10 @@ tags:
 ---
 ## Pelaajat & hahmot
 
-- **Silja** → Nerefina, Elf Rogue
-- **Ippu** → Ena, Half Elf Warlock
-- **Eemeli** → Lucifer, Vampire Bard
-- **Rain** → Xin-Xin, Vulpin Monk
+- **Silja** → [[Nerefina]], Elf Rogue
+- **Ippu** → [[Ena]], Half Elf Warlock
+- **Eemeli** → [[Lucifer]], Vampire Bard
+- **Rain** → [[Xin-Xin]], Vulpin Monk
     
 ---
 

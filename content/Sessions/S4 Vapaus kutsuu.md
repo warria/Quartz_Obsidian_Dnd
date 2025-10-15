@@ -14,9 +14,9 @@ tags:
 
 ## Pelaajat & hahmot
 
-- **Silja** → Nerefina, Elf Rogue
-- **Ippu** → Ena, Half Elf Warlock
-- **Eemeli** → Lucifer, Vampire Bard
+- **Silja** → [[Nerefina]], Elf Rogue
+- **Ippu** → [[Ena]], Half Elf Warlock
+- **Eemeli** → [[Lucifer]], Vampire Bard
     
 ---
 
