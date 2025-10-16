@@ -19,26 +19,36 @@ draft:
 
 ---
 
-## **Varusteet/Inventori**
+## 🧳 **Varusteet / Inventori**
 
-- 
+- **Rapier** – Kevyt ja tarkka pistomiekka, täydellinen salamurhaajalle.
+- **Shortbow & 20 nuolta** – Hiljainen ja tehokas kaukoase.
+- **Leather Armor** – Kevyt nahkahaarniska, tarjoaa liikkuvuutta ja suojaa.
+- **2 Daggers** – Nopeat, helposti piilotettavat terät lähitaisteluun.
+- **Thieves’ Tools** – Lukkojen ja ansojen mestarin perusvarustus.
+- **Burglar’s Pack** – Sisältää köyden, lyhdyn, öljyä, viisi soihdun, ruokaa ja juomaleilin – kaikki, mitä yön varjo tarvitsee.
+- **Alchemist’s Tools** – Käytetään myrkkyjen, happojen ja pienten taikaseosten luomiseen.
+- **Letter of Introduction** – Enemmän symbolinen kuin käytännöllinen.
+- **Traveler’s Clothes** – Käytännölliset ja kuluneet vaatteet, mukautuvat erilaisiin valeasuihin.
+- **Pouch (31 gp)** – Pieni rahapussi, jossa kolikot kilisevät hiljaa.
 
 ---
 
 ## 📊 **Hahmoyhteenveto**
 
-| Stat          | Arvo                                             | Muuta                                                               |
-| ------------- | ------------------------------------------------ | ------------------------------------------------------------------- |
-| **Pelaaja**   | Silja                                            |                                                                     |
-| **Nimi**      | [REDACTED]                                       | Tunnetaan myös nimillä *Nerefina*, joku nimi, joku toinen nimi, jne |
-| **Rotu**      | Elf/Haltia                                       |                                                                     |
-| **Luokka**    | Rogue (Assassin)                                 |                                                                     |
-| **Taso**      | 4                                                |                                                                     |
-| **Suuntaus**  | Chaotic Neutral                                  |                                                                     |
-| **Ikä**       | 247 (näyttää ~25)                                |                                                                     |
-| **Sukupuoli** | Nainen                                           |                                                                     |
-| **Koti**      | Koti kylä Aeston (Whartin raunioiden vieressä)   |                                                                     |
-| **Kieli(t)**  | Yleiskieli, Haltia, Varkaiden, goblin, salakieli |                                                                     |
+| Stat           | Arvo                                             | Muuta                                                               |
+| -------------- | ------------------------------------------------ | ------------------------------------------------------------------- |
+| **Pelaaja**    | Silja                                            |                                                                     |
+| **Nimi**       | [REDACTED]                                       | Tunnetaan myös nimillä *Nerefina*, joku nimi, joku toinen nimi, jne |
+| **Rotu**       | Elf/Haltia                                       |                                                                     |
+| **Luokka**     | Rogue (Assassin)                                 |                                                                     |
+| **Background** | Guild Artisan                                    |                                                                     |
+| **Taso**       | 4                                                |                                                                     |
+| **Suuntaus**   | Chaotic Neutral                                  |                                                                     |
+| **Ikä**        | 247 (näyttää ~25)                                |                                                                     |
+| **Sukupuoli**  | Nainen                                           |                                                                     |
+| **Koti**       | Koti kylä Aeston (Whartin raunioiden vieressä)   |                                                                     |
+| **Kieli(t)**   | Yleiskieli, Haltia, Varkaiden, goblin, salakieli |                                                                     |
 
 ---
 
@@ -69,9 +79,12 @@ draft:
 
 ## ✨ **Erikois Kyvyt**
 
-| Kyky             | Arvo | Mod                                           | Huomio |
-| ---------------- | ---- | --------------------------------------------- | ------ |
-| **Sneak Attack** | +3d6 | kerran/turn, jos etu tai liittolainen lähellä |        |
+| Kyky                          | Arvo / Taso | Mod / Käyttöehdot                                                        | Huomio                                             |
+| ----------------------------- | ----------- | ------------------------------------------------------------------------ | -------------------------------------------------- |
+| **Sneak Attack**              | +3d6        | Kerran / vuoro, jos hyökkäyksessä on etu tai liittolainen 5 ft kohteesta | Lisävahinko salaisista iskuista                    |
+| **Cunning Action**            | –           | Bonus Action: Dash / Disengage / Hide                                    | Nopeus ja varjot suojaavat sinua                   |
+| **Assassinate**               | –           | Etu vihollisia vastaan, jotka eivät ole toimineet taistelussa            | Yllätyshyökkäykset ovat automaattisesti kriittisiä |
+| **Thieves’ Cant**             | –           | Rikollisten salakieli                                                    | Käytetään viestintään muiden varjojen kanssa       |
 
 ---
 
