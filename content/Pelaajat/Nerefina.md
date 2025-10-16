@@ -11,7 +11,7 @@ draft:
 
 - **Hiukset:** Hopeanharmaat ja silkkiset, pituus vaihtelee usein auki tai hupun alla (Hiustyyli vaihtelee eri valeasuihin sopivaksi).  
 - **Silmät:** harmahtavan pinkit, hohtavat kuin jalokivet hämärässä.  
-- **Iho:** Kalpea, varjojen kuluttama.  
+- **Iho:** Vaalea, lähes hehkuva, kuin kosketettu auringonnousun ensi säteillä.
 - **Varustus:** Kevyet, nahkaiset panssarit ruskean ja tummanvihreän sävyissä. Pitkä, tummanruskea viitta ja vihreä vyö. Korkeat saappaat ja ohuet hansikkaat viimeistelevät asun.
 - **Liikkeet:** Hiljaiset ja täsmälliset – kuin ei tuotaisi ääntä olenkaan.
 ---
@@ -36,19 +36,19 @@ draft:
 
 ## 📊 **Hahmoyhteenveto**
 
-| Stat           | Arvo                                             | Muuta                                                               |
-| -------------- | ------------------------------------------------ | ------------------------------------------------------------------- |
-| **Pelaaja**    | Silja                                            |                                                                     |
-| **Nimi**       | [REDACTED]                                       | Tunnetaan myös nimillä *Nerefina*, joku nimi, joku toinen nimi, jne |
-| **Rotu**       | Elf/Haltia                                       |                                                                     |
-| **Luokka**     | Rogue (Assassin)                                 |                                                                     |
-| **Background** | Guild Artisan                                    |                                                                     |
-| **Taso**       | 4                                                |                                                                     |
-| **Suuntaus**   | Chaotic Neutral                                  |                                                                     |
-| **Ikä**        | 247 (näyttää ~25)                                |                                                                     |
-| **Sukupuoli**  | Nainen                                           |                                                                     |
-| **Koti**       | Koti kylä Aeston (Whartin raunioiden vieressä)   |                                                                     |
-| **Kieli(t)**   | Yleiskieli, Haltia, Varkaiden, goblin, salakieli |                                                                     |
+| Stat           | Arvo                                           | Muuta                                                               |
+| -------------- | ---------------------------------------------- | ------------------------------------------------------------------- |
+| **Pelaaja**    | Silja                                          |                                                                     |
+| **Nimi**       | [REDACTED]                                     | Tunnetaan myös nimillä *Nerefina*, joku nimi, joku toinen nimi, jne |
+| **Rotu**       | Elf/Haltia                                     |                                                                     |
+| **Luokka**     | Rogue (Assassin)                               |                                                                     |
+| **Background** | Guild Artisan                                  |                                                                     |
+| **Taso**       | 4                                              |                                                                     |
+| **Suuntaus**   | Chaotic Neutral                                |                                                                     |
+| **Ikä**        | 247 (näyttää ~25)                              |                                                                     |
+| **Sukupuoli**  | Nainen                                         |                                                                     |
+| **Koti**       | Koti kylä Aeston (Whartin raunioiden vieressä) |                                                                     |
+| **Kieli(t)**   | Common, Elvish, Varkaiden, goblin, salakieli   |                                                                     |
 
 ---
 
