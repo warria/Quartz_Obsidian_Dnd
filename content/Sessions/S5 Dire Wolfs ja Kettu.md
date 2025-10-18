@@ -17,7 +17,7 @@ tags:
 - **Silja** → [[Nerefina]], Elf Rogue
 - **Ippu** → [[Ena]], Half Elf Warlock
 - **Eemeli** → [[Lucifer]], Vampire Bard
-- **Rain** → [[Xin-Xin]], Vulpin Monk
+- **Raine** → [[Xin-Xin]], Vulpin Monk
     
 ---
 

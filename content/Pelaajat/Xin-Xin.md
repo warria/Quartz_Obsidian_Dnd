@@ -86,7 +86,7 @@ draft:
 | **Andrew**      |       |        |
 | **Sam**         |       |        |
 | **Ret**         |       |        |
-| **Nestor **     |       |        |
+| **Nestor**      |       |        |
 | **Romenoor**    |       |        |
 | **Sho**         |       |        |
 | **Kulta Tuuli** |       |        |

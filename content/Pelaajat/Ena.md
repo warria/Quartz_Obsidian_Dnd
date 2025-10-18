@@ -96,7 +96,7 @@ Ena on nuori puolihaltia, joka on sitonut sielunsa demoniseen suojelijaan – ei
 | **Andrew**      |       |        |
 | **Sam**         |       |        |
 | **Ret**         |       |        |
-| **Nestor **     |       |        |
+| **Nestor**      |       |        |
 | **Romenoor**    |       |        |
 | **Sho**         |       |        |
 | **Kulta Tuuli** |       |        |
