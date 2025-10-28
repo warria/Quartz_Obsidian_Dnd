@@ -38,7 +38,7 @@ Nykyhetkessä maa on jakautunut ihmisten ja taikaolentojen kesken. Rauha on kuit
     - Ahne matkailija, joka etsii seikkailua ja rikkauksia.
     - Hänen luonteensa johti hänen moniin ongelmiin ja etsii seuraa joka voisi olla hänelle hyödyksi.
 ---
-![[Party.png]]
+![[party2.png]]
 
 ---
 ## 🌍 Maailma lyhyesti
