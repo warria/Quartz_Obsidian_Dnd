@@ -18,7 +18,7 @@ draft:
 ![[REDACTED.png]]
 
 
-![[(redacted).png]]
+
 
 ---
 
