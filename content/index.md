@@ -141,5 +141,7 @@ ___
 - Sessio 9 – [[S9 Warthin raunioihin]] 
 
 - Sessio 10 – [[S10 Warthin Verilöylly]]
+  
+- Sessio 11 – [[S10 Warthin Verilöylly]]
 
 ---

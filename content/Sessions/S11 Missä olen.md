@@ -6,7 +6,7 @@ draft:
 # Warthin raunioihin
 ---
 
-**Päiväys:** 18.10.2025  
+**Päiväys:** 19.10.2025  
 **Sijainti:** Warthin raunioiden laitamat
 
 ---
