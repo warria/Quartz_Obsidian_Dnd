@@ -29,12 +29,12 @@ Nykyhetkessä maa on jakautunut ihmisten ja taikaolentojen kesken. Rauha on kuit
     - Karismaattinen ja lumoava esiintyjä, jonka hurmaavan ulkokuoren alla piilee sammumaton verenjano.
     - Häntä ajaa levoton halu kiertää maailmaa, etsiä seikkailuja ja jättää jälkensä Jaconian tarinoihin.
 ---
-- **Rain**e → **[[Xin-Ger]]**, Curseborn Cleric
+- **Raine** → **[[Xin-Ger]]**, Curseborn Cleric
 	- 
 	- 
-
+	
 ---
-- **Rain**e → **[[💀 Xin-Xin]]**, Vulpin Monk
+- **Raine** → **[[💀 Xin-Xin]]**, Vulpin Monk
     - Ahne matkailija, joka etsii seikkailua ja rikkauksia.
     - Hänen luonteensa johti hänen moniin ongelmiin ja etsii seuraa joka voisi olla hänelle hyödyksi.
 ---
