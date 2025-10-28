@@ -17,6 +17,9 @@ draft:
 ---
 ![[REDACTED.png]]
 
+
+![[(redacted).png]]
+
 ---
 
 ## 🧳 **Varusteet / Inventori**
