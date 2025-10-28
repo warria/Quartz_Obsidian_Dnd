@@ -18,7 +18,7 @@
   - Lumoava ja arvoituksellinen esiintyjä, jonka charmikkuus kätkee verenhimon.  
   - Ei pelkästään taiteilija, vaan myös selviytyjä maailmassa, joka pelkää hänen kaltaisiaan.  
 
-- **Rain** → [[Xin-Xin]], Vulpin Monk  
+- **Rain** → [[💀 Xin-Xin]], Vulpin Monk  
   - Kurinalainen, rauhaa etsivä matkailija, joka hallitsee kehon ja mielen tasapainon.  
   - Hänen vaelluksensa tuo hänet vieraalle mantereelle, missä hän etsii tietoa ja sisäistä valaistusta.  
 

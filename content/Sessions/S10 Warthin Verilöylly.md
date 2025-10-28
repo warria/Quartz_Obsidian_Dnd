@@ -1,9 +1,9 @@
 ---
 tags:
-title:
+title: Session 10
 draft:
 ---
-# Warthin raunioihin
+# Warthin Verilöylly
 ---
 
 **Päiväys:** 18.10.2025  
@@ -15,7 +15,8 @@ draft:
 - **Silja** → [[Nerefina]], Elf Rogue
 - **Ippu** → [[Ena]], Half Elf Warlock
 - **Eemeli** → [[Lucifer]], Vampire Bard
-- **Raine** → [[Xin-Xin]], Vulpin Monk
+- **Raine** → [[💀 Xin-Xin]], Vulpin Monk
+- **Raine** → [[Xin-Ger]], Vulpin Monk
     
 ---
 

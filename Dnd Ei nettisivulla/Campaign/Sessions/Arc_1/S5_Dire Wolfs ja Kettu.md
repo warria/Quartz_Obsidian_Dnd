@@ -10,7 +10,7 @@
 - **Silja** → [[Nerefina]], Elf Rogue
 - **Ippu** → [[Ena]], Elf Warlock
 - **Eemeli** → [[Lucifer]], Vampire Bard
-- **Rain** → [[Xin-Xin]], Vulpin Monk
+- **Rain** → [[💀 Xin-Xin]], Vulpin Monk
 ---
 
 # Jaconia lyhyesti
@@ -41,7 +41,7 @@ darkmode: false ### markermarker: Kaupunki (Marquise),569,1072,Ci,,-0.5,
 
 ## Yhteenveto
 
-Uudi pelaaja -> [[Xin-Xin]] liittyi partyyn mukanaan johta partyn leirintäpaikalle lauman  [[dire wolf]]veja, mikä johti suureen taisteluun. Voiton jälkeen  [[Nerefina]] keräsi susien jäänteistä turkit ja lihat, Party viettivät yön puissa vahtivuoroja pitäen ja aamutoimia suorittaen (mm. [[Nerefina]] herätti [[Lucifer]]in tökkimällä tikulla).
+Uudi pelaaja -> [[💀 Xin-Xin]] liittyi partyyn mukanaan johta partyn leirintäpaikalle lauman  [[dire wolf]]veja, mikä johti suureen taisteluun. Voiton jälkeen  [[Nerefina]] keräsi susien jäänteistä turkit ja lihat, Party viettivät yön puissa vahtivuoroja pitäen ja aamutoimia suorittaen (mm. [[Nerefina]] herätti [[Lucifer]]in tökkimällä tikulla).
 
 Aamulla party siivosi tapetut sudet. [[Sho]] tarjoutui oppaaksi ja aikoo yhdessä [[Kulta Tuuli|Kulta Tuulen]] kanssa viedä ryhmän [[Phandalin]]-kylään, jossa heillä on hoidettavia asioita. Sho myös kertoi, että on outoa nähdä [[dire wolf]]eja täällä, sillä niiden reviirin pitäisi olla [[Warthin rauniot|Warthin raunioilla]] – petoeläinten lisääntyminen on vähentänyt muuta eläimistöä.
 
@@ -57,7 +57,7 @@ Aamulla party siivosi tapetut sudet. [[Sho]] tarjoutui oppaaksi ja aikoo yhdess�
 
 ## Tapahtumat
 
-- [[Xin-Xin]] pakenee leiriin ja liittyy partyyn.
+- [[💀 Xin-Xin]] pakenee leiriin ja liittyy partyyn.
 - Taistelu jättiläissusien kanssa.
 - Yön vietto puissa ja vahtivuorot.
 - Aamutoimet (mm. tikkuherätys).

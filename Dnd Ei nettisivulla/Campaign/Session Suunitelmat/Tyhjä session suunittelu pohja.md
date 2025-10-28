@@ -10,7 +10,7 @@
 - **Silja** → [[Nerefina]], Elf Rogue
 - **Ippu** → [[Ena]], Elf Warlock
 - **Eemeli** → [[Lucifer]], Vampire Bard
-- **Rain** → [[Xin-Xin]], Vulpin Monk
+- **Rain** → [[💀 Xin-Xin]], Vulpin Monk
 ---
 
 # Jaconia lyhyesti

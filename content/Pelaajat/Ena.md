@@ -1,5 +1,5 @@
 ---
-title:
+title: Ena
 tags:
 draft:
 ---
@@ -42,7 +42,7 @@ Ena on nuori puolihaltia, joka on sitonut sielunsa demoniseen suojelijaan – ei
 | **Rotu**       | Half-Elf (Puolihaltia) |                                                |
 | **Luokka**     | Warlock                | Patron: Fraz-Urb’luu (The Prince of Deception) |
 | **Background** | Entertainer            | Vuosia eristyksissä kuiskauksia kuunnellen     |
-| **Taso**       | 4                      |                                                |
+| **Taso**       | 5                      |                                                |
 | **Suuntaus**   | Chaotic Good           | Hyväsydäminen, mutta kapinallinen              |
 | **Ikä**        | 23                     |                                                |
 | **Sukupuoli**  | Nainen                 |                                                |
@@ -105,12 +105,5 @@ Ena on nuori puolihaltia, joka on sitonut sielunsa demoniseen suojelijaan – ei
 
 ---
 
-
-## 💬 **Lainauksia**
-
-* 
-* 
-
----
 
 (Sanokaa jos tarvitaan jotain täytettävää)

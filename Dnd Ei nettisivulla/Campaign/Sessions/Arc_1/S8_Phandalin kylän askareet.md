@@ -10,7 +10,7 @@
 - **Silja** → [[Nerefina]], Elf Rogue
 - **Ippu** → [[Ena]], Elf Warlock
 - **Eemeli** → [[Lucifer]], Vampire Bard
-- **Rain** → [[Xin-Xin]], Vulpin Monk
+- **Rain** → [[💀 Xin-Xin]], Vulpin Monk
 ---
 
 # Jaconia lyhyesti
@@ -51,7 +51,7 @@ Hevoset:
 - [[Nerefina]] → Iso hevonen kuin Zeldassa
 - [[Ena]] → Normaalin näkoinen hyvin leikkisä
 - [[Lucifer]] → kokonaan valkoinen very elegand
-- [[Xin-Xin]] → edge pony
+- [[💀 Xin-Xin]] → edge pony
 
 Samalla lusifer kysyi lisä tietoa tehtävästä joka koski kadonnutta lehmää, ja sai tietää että lehmä kuuluu juuri tälle maatilalle ja että lehmä oikestaan oli hyvin läheinen maatilan poikaan joka on myös joutunut lähtemään sotaan.
 

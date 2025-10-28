@@ -1,5 +1,5 @@
 ---
-title:
+title: Lucifer
 tags:
 draft:
 ---
@@ -39,7 +39,7 @@ draft:
 | **Rotu**       | Vampire                  |                    |
 | **Luokka**     | Bard                     | College of Glamour |
 | **Background** | Guild Artisan            |                    |
-| **Taso**       | 4                        |                    |
+| **Taso**       | 5                        |                    |
 | **Suuntaus**   | Neutral                  |                    |
 | **Ikä**        | 24                       |                    |
 | **Sukupuoli**  | Mies                     |                    |
@@ -107,12 +107,5 @@ draft:
 
 ---
 
-
-## 💬 **Lainauksia**
-
-* 
-* 
-
----
 
 (Sanokaa jos tarvitaan jotain täytettävää)

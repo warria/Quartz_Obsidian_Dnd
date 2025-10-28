@@ -10,7 +10,7 @@
 - **Silja** → [[Nerefina]], Elf Rogue
 - **Ippu** → [[Ena]], Elf Warlock
 - **Eemeli** → [[Lucifer]], Vampire Bard
-- **Rain** → [[Xin-Xin]], Vulpin Monk
+- **Rain** → [[💀 Xin-Xin]], Vulpin Monk
 ---
 
 # Jaconia lyhyesti
@@ -43,7 +43,7 @@ darkmode: false ### markermarker: Kaupunki (Marquise),569,1072,Ci,,-0.5,
 
 Session 7 alkoi, kun [[Lucifer]] flirttaili majatalon orkki-portsarin [[Mona]]n kanssa ja sai kutsun hänen huoneeseensa. Party tutki majatalon ilmoitustaulua, jossa oli sekä tehtäviä että etsintäkuulutuksia. He myös ostivat Livianin majatalosta, mm. [[Andrew]]lle siviilivaatteet, kiven joka osuu aina siihen henkilöön kun ajattelee heittäessä ja taikajuoman, jonka avulla saa minkä tahansa esineen palaamaan omistajalle.
 
-[[Kulta Tuuli]] järkyttyi nähdessään oman etsintäkuulutuksensa ja vajosi masennukseen ja juomaan. [[Sho]] meni keskustelemaan [[Livia]]n kanssa, sillä välin kun party hajaantui: [[Xin-Xin]] nukkumaan, [[Lucifer]] Monan huoneeseen, ja [[Nerefina]] sekä [[Ena]] salakuuntelemaan Livian ja Shon keskustelua.
+[[Kulta Tuuli]] järkyttyi nähdessään oman etsintäkuulutuksensa ja vajosi masennukseen ja juomaan. [[Sho]] meni keskustelemaan [[Livia]]n kanssa, sillä välin kun party hajaantui: [[💀 Xin-Xin]] nukkumaan, [[Lucifer]] Monan huoneeseen, ja [[Nerefina]] sekä [[Ena]] salakuuntelemaan Livian ja Shon keskustelua.
 
 Salakuuntelu päättyi nolosti heidän kaatuessaan huoneeseen, missä oli myös humalassa oleva Kulta Tuuli. Keskustelussa paljastui uutta tietoa [[Warthin rauniot|Warthin-raunioista]], armeijasta ja [[Romenoor]]ista. [[Livia]] myös korvasi osan vahingoista, joita Romenoor oli aiheuttanut ryöstämällä partyltä tavaroita. Session lopussa koko ryhmä meni nukkumaan.
 

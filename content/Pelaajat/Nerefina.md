@@ -46,7 +46,7 @@ draft:
 | **Rotu**       | Elf/Haltia                                     |                                                                     |
 | **Luokka**     | Rogue (Assassin)                               |                                                                     |
 | **Background** | Guild Artisan                                  |                                                                     |
-| **Taso**       | 4                                              |                                                                     |
+| **Taso**       | 5                                              |                                                                     |
 | **Suuntaus**   | Chaotic Neutral                                |                                                                     |
 | **Ikä**        | 247 (näyttää ~25)                              |                                                                     |
 | **Sukupuoli**  | Nainen                                         |                                                                     |
@@ -108,14 +108,6 @@ draft:
 | **Kulta Tuuli** |       |        |
 | **Livia**       |       |        |
 | **Mona**        |       |        |
-
----
-
-
-## 💬 **Lainauksia**
-
-* 
-* 
 
 ---
 

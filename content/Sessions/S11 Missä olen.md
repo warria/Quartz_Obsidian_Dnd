@@ -1,13 +1,13 @@
 ---
 tags:
-title:
+title: Session 11
 draft:
 ---
-# Warthin raunioihin
+# Missä olen
 ---
 
 **Päiväys:** 19.10.2025  
-**Sijainti:** Warthin raunioiden laitamat
+**Sijainti:** Warthin Rauniot -> Warthin Linna
 
 ---
 ## Pelaajat & hahmot
@@ -15,7 +15,7 @@ draft:
 - **Silja** → [[Nerefina]], Elf Rogue
 - **Ippu** → [[Ena]], Half Elf Warlock
 - **Eemeli** → [[Lucifer]], Vampire Bard
-- **Raine** → [[Xin-Xin]], Vulpin Monk
+- **Raine** → [[💀 Xin-Xin]], Vulpin Monk
     
 ---
 

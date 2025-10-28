@@ -10,7 +10,7 @@
 - **Silja** → [[Nerefina]], Elf Rogue
 - **Ippu** → [[Ena]], Elf Warlock
 - **Eemeli** → [[Lucifer]], Vampire Bard
-- **Rain** → [[Xin-Xin]], Vulpin Monk
+- **Rain** → [[💀 Xin-Xin]], Vulpin Monk
 ---
 
 # Jaconia lyhyesti
@@ -198,7 +198,7 @@ Ennen kuin ehditte reagoida, pedot syöksyvät teitä kohti
 
 Raunioiden hiljaisuus katkeaa yhdellä, kaukaa kantautuvalla, läpitunkevalla huudolla — niin äkillisesti ettette tiedä onko se varoitus vai avun pyyntö,
 
-[[Xin-Xin]], vain sinä tunnistat tämän tutun äänen.
+[[💀 Xin-Xin]], vain sinä tunnistat tämän tutun äänen.
 
 Nosta katseesi ja näette [[Pelaajat|partysi]], kumppaneidesi kasvot — täynnä kauhua. Ja silloin tunnet sen.
 
@@ -214,13 +214,13 @@ Kaukaisuudessa hahmo juoksee — nopeammin kuin mikään ihminen voisi. Juoksuas
 
 ### Kuvaus Susien mutaatoimisesta
 
-[[Xin-Xin]]in veri alkaa virrata puroina maata pitkin, muodostaen kiemurtelevia polkuja.
+[[💀 Xin-Xin]]in veri alkaa virrata puroina maata pitkin, muodostaen kiemurtelevia polkuja.
 
 Kuolleet, rikkoutuneet ruumiit – joista on jäljellä vain limaisia kasoja – alkavat nykiä maassa.  
-Tahmeat massat luikertelevat eteenpäin [[Xin-Xin]]in verta pitkin, liukuen kohti kehoa.
+Tahmeat massat luikertelevat eteenpäin [[💀 Xin-Xin]]in verta pitkin, liukuen kohti kehoa.
 
 Lima liikkuu uutta kuollutta ruumista kohti kuin nälkäinen peto, valmiina repimään saaliinsa paloiksi, energiaksi.  
-Se kietoutuu [[Xin-Xin]]in ympärille tahmeana, vetelänä massana, imen elinvoimaa jokaisesta solusta ja jokaisesta jäljellä olevasta voimasta – veren, lihan ja jäänteiden hengen rippeistä.
+Se kietoutuu [[💀 Xin-Xin]]in ympärille tahmeana, vetelänä massana, imen elinvoimaa jokaisesta solusta ja jokaisesta jäljellä olevasta voimasta – veren, lihan ja jäänteiden hengen rippeistä.
 
 Se alkaa kasvaa, muuntua.
 
@@ -353,7 +353,7 @@ Edessänne kohoaa nyt jotain, joka ei tunne armoa. Musta lima liikkuu, venyy ja 
 
 ## Salaisuudet / käänteet
 
-* [[Xin-Xin]] kuolee -> sisko liityy partyyn
+* [[💀 Xin-Xin]] kuolee -> sisko liityy partyyn
 - [[Sho]] on seurannut [[Pelaajat|partyä]]
 - [[Velhokuninkaat|Viisi vanhaa velhokuningasta]] -> tarina paljastuu [[Muinaiset_Taikaesineet|Muinaisista taikaesineistä]] 
 - [[Romenoor]] on täälä -> tyttären paljastuminen

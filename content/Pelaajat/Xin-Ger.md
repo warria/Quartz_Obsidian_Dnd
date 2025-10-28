@@ -1,6 +1,6 @@
 ---
-title:
 tags:
+title: Xin-Ger
 draft:
 ---
 
@@ -15,7 +15,8 @@ draft:
 - **Varustus:** 
 - **Liikkeet:** 
 ---
-![[Xin-Xin.png]]
+
+![[Xin-gerr.png]]
 
 ---
 
@@ -30,13 +31,13 @@ draft:
 | Stat          | Arvo      | Muuta |
 | ------------- | --------- | ----- |
 | **Pelaaja**   | Rain      |       |
-| **Nimi**      | Xin - Xin |       |
+| **Nimi**      | Xin - Ger |       |
 | **Rotu**      |           |       |
 | **Luokka**    |           |       |
-| **Taso**      |           |       |
+| **Taso**      | 5         |       |
 | **Suuntaus**  |           |       |
 | **Ikä**       |           |       |
-| **Sukupuoli** | Mies      |       |
+| **Sukupuoli** | Nainen    |       |
 | **Koti**      |           |       |
 | **Kieli(t)**  |           |       |
 
@@ -44,13 +45,13 @@ draft:
 
 ## ⚔️ **Taisteluarvot**
 
-| Ominaisuus            | Arvo    | Huomio                                        |
-| --------------------- | ------- | --------------------------------------------- |
-| **Armor Class (AC)**  | 17      | Kevyt nahkapanssari                           |
-| **Hit Points (HP)**   | 36 / 36 |                                               |
-| **Speed**             | 30 ft   |                                               |
-| **Proficiency Bonus** | +2      |                                               |
-| **Initiative**        | +4      | Nopeus ja refleksejä                          |
+| Ominaisuus            | Arvo | Huomio |
+| --------------------- | ---- | ------ |
+| **Armor Class (AC)**  |      |        |
+| **Hit Points (HP)**   |      |        |
+| **Speed**             |      |        |
+| **Proficiency Bonus** |      |        |
+| **Initiative**        |      |        |
 
 ---
 
@@ -92,14 +93,6 @@ draft:
 | **Kulta Tuuli** |       |        |
 | **Livia**       |       |        |
 | **Mona**        |       |        |
-
----
-
-
-## 💬 **Lainauksia**
-
-* 
-* 
 
 ---
 
