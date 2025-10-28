@@ -15,7 +15,7 @@ draft:
 - **Varustus:** Kevyet, nahkaiset panssarit ruskean ja tummanvihreän sävyissä. Pitkä, tummanruskea viitta ja vihreä vyö. Korkeat saappaat ja ohuet hansikkaat viimeistelevät asun.
 - **Liikkeet:** Hiljaiset ja täsmälliset – kuin ei tuotaisi ääntä olenkaan.
 ---
-![[[REDACTED].png]]
+![[REDACTED.png]]
 
 ---
 
