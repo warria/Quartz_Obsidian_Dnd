@@ -30,8 +30,8 @@ Nykyhetkessä maa on jakautunut ihmisten ja taikaolentojen kesken. Rauha on kuit
     - Häntä ajaa levoton halu kiertää maailmaa, etsiä seikkailuja ja jättää jälkensä Jaconian tarinoihin.
 ---
 - **Raine** → **[[Xin-Ger]]**, Curseborn Cleric
-	- 
-	- 
+	- ww
+	- ww
 	
 ---
 - **Raine** → **[[💀 Xin-Xin]]**, Vulpin Monk
