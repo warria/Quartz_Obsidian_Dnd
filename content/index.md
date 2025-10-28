@@ -140,6 +140,6 @@ ___
 
 - Sessio 9 – [[S9 Warthin raunioihin]] 
 
-- Sessio 10 – Tulossa pian O.o
+- Sessio 10 – [[S10 Warthin Verilöylly]]
 
 ---

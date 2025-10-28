@@ -380,7 +380,7 @@ Yhdessä me puolustimme tätä maata [[Borvaria]]n pimeydeltä.”
 2. istunto – Toinen istuin
 
 “Hän oli nuorin meistä, ja hänen himonsa oli suuri, liikaa.  
-Hän halusi tuhota [[Suden autiomaa]]n ja levittää kaaosta kaikkialle: kuolemaa ja nälkää, sotaa ja petosta, tautia ja epäluuloa.
+Hän halusi tuhota [[Suden autiomaa]]n ja levittää kaaosta kaikkialle: kuolemaa ja nälkää, sotaa ja pelkoa, tautia ja epäluuloa.
 
 Hän halusi myrkyttää maaperän ja veden, kääntää ystävät vihollisiksi ja taivuttaa maan [[Ihmiset]] ja [[Taikaolennot|taikaolennot]] omaan palvelukseensa.  
 Me tiesimme, että hänen valtansa tuhoaisi kaiken.”
