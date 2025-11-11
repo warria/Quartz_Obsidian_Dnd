@@ -177,7 +177,7 @@ Kaukaisuudessa hahmo juoksee — nopeammin kuin mikään ihminen voisi. Juoksu a
 Musta lima sekoittuu kyyneleisiisi. Tunnet kuinka ajatuksesi eivät ala ola omiasi enään, haluat vain tuhota, kasvaa, vallata. Yrität sanoa anteeksi kaikesta, mutta sanoja ei tule ulos ja Viimeinen oma ajatuksesi on katumus: ettet pystynyt pitämään lupaustasi, pysyä turvassa, pysyä hengissä.
 
 ___
-![[5_hedes_wolf.png]]
+![[5_hedes.png]]
 ___
 
 Xin Xinin veri alkaa virrata puroina maata pitkin, muodostaen kiemurtelevia polkuja.
