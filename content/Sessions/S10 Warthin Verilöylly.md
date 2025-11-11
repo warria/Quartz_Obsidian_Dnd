@@ -86,9 +86,9 @@ Kun taistelu päättyi, kaikki olivat haavoittuneita, uupuneita ja kirousten run
 - Lopulta **Enan** **Eldritch Blast** päättää taistelun – mutantti sulaa maahan, jättäen jälkeensä vain mustan liman ja katkeran hiljaisuuden.
 - Sessio päättyy raunioiden keskelle: ryhmä haavoittuneena, kirousten riivaamana ja täysin uupuneena.
 
+![[Whartin_rauniot4.avif]]
 
-![[apocalyptic.avif]]
-
+![[Whartin_rauniot1.jpg]]
 
 ---
 
@@ -160,9 +160,6 @@ Liike on kankea ja vääristynyt, kuin näkymätön voima olisi repäissyt ne py
 Ennen kuin ehditte reagoida, pedot syöksyvät teitä kohti
 
 ---
-![[content/Kuvat_kartat/5_hedes_wolf.png]]
-
----
 ##### Susien mutaatio
 
 Raunioiden hiljaisuus katkeaa yhdellä, kaukaa kantautuvalla, läpitunkevalla huudolla — niin äkillisesti ettette tiedä onko se varoitus vai avun pyyntö, 
@@ -181,7 +178,11 @@ Kaukaisuudessa hahmo juoksee — nopeammin kuin mikään ihminen voisi. Juoksu a
 
 Musta lima sekoittuu kyyneleisiisi. Tunnet kuinka ajatuksesi eivät ala ola omiasi enään, haluat vain tuhota, kasvaa, vallata. Yrität sanoa anteeksi kaikesta, mutta sanoja ei tule ulos ja Viimeinen oma ajatuksesi on katumus: ettet pystynyt pitämään lupaustasi, pysyä turvassa, pysyä hengissä.
 
-![[content/Kuvat_kartat/5_hedes_wolf.png]]
+___
+![[5_hedes.png]]
+
+![[5_hedes_wolf.png]]
+___
 
 Xin Xinin veri alkaa virrata puroina maata pitkin, muodostaen kiemurtelevia polkuja.
 

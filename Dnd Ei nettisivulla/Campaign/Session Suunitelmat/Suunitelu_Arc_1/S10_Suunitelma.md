@@ -232,7 +232,7 @@ Raajoja on liikaa laskea, ja niiden joukossa voi nähdä tutut raajat, jotka kuu
 
 Edessänne kohoaa nyt jotain, joka ei tunne armoa. Musta lima liikkuu, venyy ja syöksyy eteenpäin. Kaikki, mikä on sen tiellä, on alistettu sen tahdolle.
 
-![[content/Kuvat_kartat/5_hedes_wolf.png]]
+![[5_hedes.png]]
 
 ---
 
