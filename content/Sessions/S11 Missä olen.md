@@ -15,7 +15,7 @@ draft:
 - **Silja** → [[Nerefina]], Elf Rogue
 - **Ippu** → [[Ena]], Half Elf Warlock
 - **Eemeli** → [[Lucifer]], Vampire Bard
-- **Raine** → [[💀 Xin-Xin]], Vulpin Monk
+- **Raine** → [[Xin-Ger]], Curseborn Cleric
     
 ---
 
