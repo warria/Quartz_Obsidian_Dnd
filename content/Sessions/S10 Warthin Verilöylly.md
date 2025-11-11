@@ -86,8 +86,6 @@ Kun taistelu päättyi, kaikki olivat haavoittuneita, uupuneita ja kirousten run
 - Lopulta **Enan** **Eldritch Blast** päättää taistelun – mutantti sulaa maahan, jättäen jälkeensä vain mustan liman ja katkeran hiljaisuuden.
 - Sessio päättyy raunioiden keskelle: ryhmä haavoittuneena, kirousten riivaamana ja täysin uupuneena.
 
-![[Whartin_rauniot4.avif]]
-
 ![[Whartin_rauniot1.jpg]]
 
 ---
@@ -179,8 +177,6 @@ Kaukaisuudessa hahmo juoksee — nopeammin kuin mikään ihminen voisi. Juoksu a
 Musta lima sekoittuu kyyneleisiisi. Tunnet kuinka ajatuksesi eivät ala ola omiasi enään, haluat vain tuhota, kasvaa, vallata. Yrität sanoa anteeksi kaikesta, mutta sanoja ei tule ulos ja Viimeinen oma ajatuksesi on katumus: ettet pystynyt pitämään lupaustasi, pysyä turvassa, pysyä hengissä.
 
 ___
-![[5_hedes.png]]
-
 ![[5_hedes_wolf.png]]
 ___
 
