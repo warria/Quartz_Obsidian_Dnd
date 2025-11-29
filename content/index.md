@@ -31,8 +31,8 @@ Nykyhetkessä maa on jakautunut ihmisten ja taikaolentojen kesken. Rauha on kuit
     - Häntä ajaa levoton halu kiertää maailmaa, etsiä seikkailuja ja jättää jälkensä Jaconian tarinoihin.
 ---
 - **Raine** → **[[Xin-Ger]]**, Curseborn Cleric
-	- ww
-	- ww
+	- Parantaja, jonka voimat kumpuavat sekä tuskasta että toivosta. 
+	- Hän vaeltaa paikasta toiseen tarjoten apua niille, jotka sitä tarvitsevat, mutta samalla vältellen niitä, jotka tuntisivat hänen menneisyytensä. Sisimmässään hän taistelee sen välillä, onko hänen kohtalonsa olla pelastaja vai kirouksen välikappale.
 	
 ---
 - **Raine** → **[[💀 Xin-Xin]]**, Vulpin Monk
