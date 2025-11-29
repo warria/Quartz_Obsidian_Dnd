@@ -31,22 +31,19 @@ Nykyhetkessä Jaconia on jakautunut ihmisten ja taikaolentojen kesken, mutta rau
 
 ## Yhteenveto
 
-Warthin rauniot antoivat meille ensimmäisen todellisen kuvan siitä, miten syvästi kiroukset ja musta magia ovat pesiytyneet alueelle. Taistelimme susihirviötä vastaan ja tutustuimme salaperäiseen **wolf woman** – eli **Xin-Geriin**, joka johdatti meidät ihmeen kaupalla ehjänä säilyneelle mökille.
+Warthin rauniot paljastivat ensimmäisen todellisen kuvan siitä, kuinka syvästi kiroukset ja musta magia olivat pesiytyneet alueelle. Ryhmä kohtasi susihirviön ja onnistui voittamaan sen, ja heidän tiensä risteytyi salaperäisen **wolf womanin**, Xin-Ger, kanssa. Hän johdatti heidät ihmeen kaupalla ehjänä säilyneelle mökille raunioiden keskellä.
 
-Kuitenkin heti alussa jokainen hahmo joutui omien kiroustensa armoille: **Enthyra** muuttui henkisesti viisivuotiaaksi ja jäi kiinni uteliaisuudestaan, kun varjoissa liikkui tuntematon mustaan pukeutunut hahmo.
+Heti alussa hahmot joutuivat omien kiroustensa armoille: **Enthyra** muuttui henkisesti viisivuotiaaksi ja käyttäytyi lapsenomaisesti, jääden kiinni uteliaisuudestaan, kun varjoissa liikkui tuntematon mustiin pukeutunut hahmo.
 
-Aamulla kiroukset olivat poissa, ja lähdimme jäljittämään yön epäilyttävää hahmoa, joka paljastui **Sho’ksi** – Livia oli lähettänyt hänet tarkistamaan selviämisemme (huonolla menestyksellä, koska “one died lol”). Sho liittyi seuraamme.
+Aamun koittaessa kiroukset olivat poissa. Ryhmä lähti seuraamaan yön hahmoa, joka paljastui **Sho’ksi** – Livia oli lähettänyt hänet tarkistamaan heidän selviytymisensä, ja aiempi tehtävä oli päättynyt huonosti (“one died lol”). Sho liittyi matkaseurueeseen.
 
-Matka linnaa kohti oli täynnä kirouksia ja epämiellyttäviä näkyjä: musta goop seurasi meitä ja tarkkaili. Warthin linnassa kokemamme todellisuus romahti, ja jouduimme illuusiotodellisuuteen, jossa testattiin meitä yksitellen —  
-Samuelin glitchaaminen, Retin paljastus “ei mikään ole totta”, Romeo joka vuoti mustaa goo’ta, ja Nestorin epäonnistuminen tunnistaa Enthyra.
+Matka Warthin linnaa kohti oli täynnä kirousten ja epämiellyttävien näkyjen varjostamaa maastoa. Musta goop seurasi ryhmää ja tarkkaili heidän liikkeitään. Linnaan astuttaessa todellisuus romahti: hahmot joutuivat illuusiotodellisuuteen, jossa heitä testattiin yksitellen – Samuel glitchasi, Ret paljasti, että “ei mikään ole totta”, Romeo vuoti mustaa goo’ta, ja Nestor ei onnistunut tunnistamaan Enthyraa.
 
-Lopulta heräsimme veneestä mustalla merellä, “hukkuen”, kunnes Sho herätti meidät — hän ei ollut illuusiossa lainkaan.
+Lopulta he heräsivät veneestä mustan meren keskellä, ikään kuin hukkuen, kunnes Sho herätti heidät – hän ei ollut illuusiossa lainkaan.
 
-Linnan sydämessä löysimme viisi valtaistuinta ja kartan. Kun istuimme valtaistuimille, meitä ohjasi muinainen visio: **Viisi Velhokuningasta**, yksi joka petti muut, ja neljä artefaktia jotka vangitsevat hänen voimansa. Artefaktien suojelija on epäonnistunut, ja paha alkaa palata.
+Linnan sydämessä ryhmä kohtasi viisi valtaistuinta ja keskellä olevan kartan. Istuutuessaan valtaistuimille heille avautui muinainen visio: **viisi Velhokuningasta**, joista yksi petti muut, ja neljä artefaktia, jotka vangitsivat tämän voiman. Artefaktien suojelija oli epäonnistunut, ja pahan voima alkoi palata.
 
-Kartta avautui paljastaen spiraaliportaat syvyyksiin. Jalanjäljet johtavat alas.
-
-Uusi suunta on selvä.
+Kartta avautui paljastaen pitkät spiraaliportaat syvyyksiin, joiden portaissa näkyi jalanjälkiä, jotka johtivat alaspäin. Ryhmän uusi suunta oli selvä, ja seuraava vaihe heidän matkassaan kohti Jaconian syvyyksiä oli päätetty.
 
 ![[Whartin_rauniot2.jpg]]
 
