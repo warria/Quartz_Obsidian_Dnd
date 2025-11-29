@@ -9,11 +9,11 @@ draft:
 
 ## **Ulkonäkö**
 
-- **Hiukset:** 
-- **Silmät:**
-- **Iho:** 
-- **Varustus:** 
-- **Liikkeet:** 
+- **Hiukset:** Pehmeät ja kuparinoranssit, laskeutuvat luonnollisina suortuvina kasvojen ympärille ja tuovat lämpöä sekä eloisuutta.
+- **Silmät:** Kirkas jään sininen, katse lempeä ja avoin – sellainen, joka herättää heti luottamusta ja kertoo pehmeästä luonteesta.
+- **Turkki:** Vaalea ja samettinen, kaulaa kohti sulavasti valkoiseksi vaaleneva. Kokonaisuus antaa hahmolle pehmeän, ystävällisen ja hieman unenomaisen olemuksen.
+- **Varustus:** Käytännöllinen mutta siisti kokonaisuus: tumma, väljä paita, lyhyt sinertävä hame sekä nahkaiset käsisuojat ja säärystimet. Vaatteiden alla kulkee huomaamaton suojapanssari, joka kertoo hänen olevan varautunut, vaikka ulkokuori näyttää rennolta.
+- **Liikkeet:** Luontevat, kohteliaat ja avoimet. Hän elehtii selkeästi ja pehmeästi, kuin olisi tottunut sekä opastamaan että rauhoittamaan muita, jokainen liike tasapainoinen ja lämminhenkinen.
 ---
 
 ![[Xin-gerr.png]]
@@ -28,18 +28,18 @@ draft:
 
 ## 📊 **Hahmoyhteenveto**
 
-| Stat          | Arvo      | Muuta |
-| ------------- | --------- | ----- |
-| **Pelaaja**   | Rain      |       |
-| **Nimi**      | Xin - Ger |       |
-| **Rotu**      |           |       |
-| **Luokka**    |           |       |
-| **Taso**      | 5         |       |
-| **Suuntaus**  |           |       |
-| **Ikä**       |           |       |
-| **Sukupuoli** | Nainen    |       |
-| **Koti**      |           |       |
-| **Kieli(t)**  |           |       |
+| Stat          | Arvo | Muuta |
+| ------------- | ---- | ----- |
+| **Pelaaja**   | Rain |       |
+| **Nimi**      |      |       |
+| **Rotu**      |      |       |
+| **Luokka**    |      |       |
+| **Taso**      |      |       |
+| **Suuntaus**  |      |       |
+| **Ikä**       |      |       |
+| **Sukupuoli** |      |       |
+| **Koti**      |      |       |
+| **Kieli(t)**  |      |       |
 
 ---
 
@@ -78,21 +78,13 @@ draft:
 
 #  **Suhteet**
 
-| Hahmot          | Suhde | Kuvaus |
-| --------------- | ----- | ------ |
-| **Nerejina**    |       |        |
-| **Ena**         |       |        |
-| **Lucifer**     |       |        |
-|                 |       |        |
-| **Andrew**      |       |        |
-| **Sam**         |       |        |
-| **Ret**         |       |        |
-| **Nestor**      |       |        |
-| **Romenoor**    |       |        |
-| **Sho**         |       |        |
-| **Kulta Tuuli** |       |        |
-| **Livia**       |       |        |
-| **Mona**        |       |        |
+| Hahmot       | Suhde | Kuvaus |
+| ------------ | ----- | ------ |
+| **Nerejina** |       |        |
+| **Ena**      |       |        |
+| **Lucifer**  |       |        |
+| **Käsi**     |       |        |
+
 
 ---
 

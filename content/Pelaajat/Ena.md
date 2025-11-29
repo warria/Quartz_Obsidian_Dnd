@@ -87,21 +87,13 @@ Ena on nuori puolihaltia, joka on sitonut sielunsa demoniseen suojelijaan – ei
 
 #  **Suhteet**
 
-| Hahmot          | Suhde | Kuvaus |
-| --------------- | ----- | ------ |
-| **Nerejina**    |       |        |
-| **Lucifer**     |       |        |
-| **Xin - Xin**   |       |        |
-|                 |       |        |
-| **Andrew**      |       |        |
-| **Sam**         |       |        |
-| **Ret**         |       |        |
-| **Nestor**      |       |        |
-| **Romenoor**    |       |        |
-| **Sho**         |       |        |
-| **Kulta Tuuli** |       |        |
-| **Livia**       |       |        |
-| **Mona**        |       |        |
+| Hahmot        | Suhde | Kuvaus |
+| ------------- | ----- | ------ |
+| **Nerejina**  |       |        |
+| **Lucifer**   |       |        |
+| **Xin - Xin** |       |        |
+| **Xin - Ger** |       |        |
+
 
 ---
 

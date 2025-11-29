@@ -88,22 +88,13 @@ draft:
 
 #  **Suhteet**
 
-| Hahmot          | Suhde | Kuvaus |
-| --------------- | ----- | ------ |
-| **Nerejina**    |       |        |
-| **Ena**         |       |        |
-| **Xin - Xin**   |       |        |
-|                 |       |        |
-| **Andrew**      |       |        |
-| **Sam**         |       |        |
-| **Ret**         |       |        |
-| **Nestor**      |       |        |
-| **Romenoor**    |       |        |
-| **Sho**         |       |        |
-| **Kulta Tuuli** |       |        |
-| **Livia**       |       |        |
-| **Mona**        |       |        |
-|                 |       |        |
+| Hahmot        | Suhde | Kuvaus |
+| ------------- | ----- | ------ |
+| **Nerejina**  |       |        |
+| **Ena**       |       |        |
+| **Xin - Xin** |       |        |
+| **Xin - Ger** |       |        |
+
 
 ---
 

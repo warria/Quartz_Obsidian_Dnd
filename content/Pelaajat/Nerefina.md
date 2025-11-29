@@ -99,15 +99,7 @@ draft:
 | **Lucifer**     |       |        |
 | **Xin - Xin**   |       |        |
 |                 |       |        |
-| **Andrew**      |       |        |
-| **Sam**         |       |        |
-| **Ret**         |       |        |
-| **Nestor**      |       |        |
-| **Romenoor**    |       |        |
-| **Sho**         |       |        |
-| **Kulta Tuuli** |       |        |
-| **Livia**       |       |        |
-| **Mona**        |       |        |
+
 
 ---
 
