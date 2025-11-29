@@ -39,31 +39,31 @@ draft:
 
 ## 📊 **Hahmoyhteenveto**
 
-| Stat           | Arvo                                           | Muuta                                                               |
-| -------------- | ---------------------------------------------- | ------------------------------------------------------------------- |
-| **Pelaaja**    | Silja                                          |                                                                     |
-| **Nimi**       | [REDACTED]                                     | Tunnetaan myös nimillä *Nerefina*, joku nimi, joku toinen nimi, jne |
-| **Rotu**       | Elf/Haltia                                     |                                                                     |
-| **Luokka**     | Rogue (Assassin)                               |                                                                     |
-| **Background** | Guild Artisan                                  |                                                                     |
-| **Taso**       | 5                                              |                                                                     |
-| **Suuntaus**   | Chaotic Neutral                                |                                                                     |
-| **Ikä**        | 247 (näyttää ~25)                              |                                                                     |
-| **Sukupuoli**  | Nainen                                         |                                                                     |
-| **Koti**       | Koti kylä Aeston (Whartin raunioiden vieressä) |                                                                     |
-| **Kieli(t)**   | Common, Elvish, Varkaiden, goblin, salakieli   |                                                                     |
+| Stat           | Arvo                                           | Muuta                                                       |
+| -------------- | ---------------------------------------------- | ----------------------------------------------------------- |
+| **Pelaaja**    | Silja                                          |                                                             |
+| **Nimi**       | [REDACTED]                                     | Tunnetaan myös nimillä *Nerefina*, enthyra eldersinger, jne |
+| **Rotu**       | Elf/Haltia                                     |                                                             |
+| **Luokka**     | Rogue (Assassin)                               |                                                             |
+| **Background** | Guild Artisan                                  |                                                             |
+| **Taso**       | 6                                              |                                                             |
+| **Suuntaus**   | Chaotic Neutral                                |                                                             |
+| **Ikä**        | 247 (näyttää ~25)                              |                                                             |
+| **Sukupuoli**  | Nainen                                         |                                                             |
+| **Koti**       | Koti kylä Aeston (Whartin raunioiden vieressä) |                                                             |
+| **Kieli(t)**   | Common, Elvish, goblin, Varkaiden salakieli    |                                                             |
 
 ---
 
 ## ⚔️ **Taisteluarvot**
 
-| Ominaisuus            | Arvo    | Huomio                                        |
-| --------------------- | ------- | --------------------------------------------- |
-| **Armor Class (AC)**  | 17      | Kevyt nahkapanssari                           |
-| **Hit Points (HP)**   | 36 / 36 |                                               |
-| **Speed**             | 30 ft   |                                               |
-| **Proficiency Bonus** | +2      |                                               |
-| **Initiative**        | +4      | Nopeus ja refleksejä                          |
+| Ominaisuus            | Arvo    | Huomio               |
+| --------------------- | ------- | -------------------- |
+| **Armor Class (AC)**  | 17      | Kevyt nahkapanssari  |
+| **Hit Points (HP)**   | 50 / 50 |                      |
+| **Speed**             | 30 ft   |                      |
+| **Proficiency Bonus** | +3      |                      |
+| **Initiative**        | +4      | Nopeus ja refleksejä |
 
 ---
 
@@ -82,24 +82,32 @@ draft:
 
 ## ✨ **Erikois Kyvyt**
 
-| Kyky                          | Arvo / Taso | Mod / Käyttöehdot                                                        | Huomio                                             |
-| ----------------------------- | ----------- | ------------------------------------------------------------------------ | -------------------------------------------------- |
-| **Sneak Attack**              | +3d6        | Kerran / vuoro, jos hyökkäyksessä on etu tai liittolainen 5 ft kohteesta | Lisävahinko salaisista iskuista                    |
-| **Cunning Action**            | –           | Bonus Action: Dash / Disengage / Hide                                    | Nopeus ja varjot suojaavat sinua                   |
-| **Assassinate**               | –           | Etu vihollisia vastaan, jotka eivät ole toimineet taistelussa            | Yllätyshyökkäykset ovat automaattisesti kriittisiä |
-| **Thieves’ Cant**             | –           | Rikollisten salakieli                                                    | Käytetään viestintään muiden varjojen kanssa       |
+| Kyky               | Arvo / Taso | Mod / Käyttöehdot                                                        | Huomio                                             |
+| ------------------ | ----------- | ------------------------------------------------------------------------ | -------------------------------------------------- |
+| **Sneak Attack**   | +3d6        | Kerran / vuoro, jos hyökkäyksessä on etu tai liittolainen 5 ft kohteesta | Lisävahinko salaisista iskuista                    |
+| **Cunning Action** | –           | Bonus Action: Dash / Disengage / Hide                                    | Nopeus ja varjot suojaavat sinua                   |
+| **Assassinate**    | –           | Etu vihollisia vastaan, jotka eivät ole toimineet taistelussa            | Yllätyshyökkäykset ovat automaattisesti kriittisiä |
+| **Thieves’ Cant**  | –           | Rikollisten salakieli                                                    | Käytetään viestintään muiden varjojen kanssa       |
+| **steady aim**     | -           | Bonus Action: Saat edun seuraavaan hyökkäysheittoosi, jos et liiku       | Tarkka, paikallaan tehty tappava laukaus           |
+| **uncanny dodge**  | -           | Reaction: Puolita sinuun osuneen hyökkäyksen vahinko                     | Refleksit pelastavat sinut pahimmilta iskuilta     |
+
 
 ---
 
 #  **Suhteet**
 
-| Hahmot          | Suhde | Kuvaus |
-| --------------- | ----- | ------ |
-| **Ena**         |       |        |
-| **Lucifer**     |       |        |
-| **Xin - Xin**   |       |        |
-|                 |       |        |
-
+| Hahmot        | Suhde                                                                                        |
+| ------------- | -------------------------------------------------------------------------------------------- |
+| **Ena**       | she chill, hopefully won't try to kill me                                                    |
+| **Lucifer**   | ragebait victim, suspicious of him being a vampire tho                                       |
+| **Xin - Xin** | mf almost got us killed, chilled and then died, was not a fan                                |
+| **Xin - Ger** | idk she came out of nowhere, in a week she hasn't tried to kill us yet so maybe trustworthy? |
+| **käsi**      | mf tried to kill me, but he chill                                                            |
+### Opp lista: 
+   * Andrew 
+   * Rex maximus 
+   * Romeo(we have a truce) 
+   * Mex
 
 ---
 

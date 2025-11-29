@@ -4,7 +4,6 @@ title: Xin-Ger
 draft:
 ---
 
-
 ---
 
 ## **Ulkonäkö**
@@ -28,18 +27,18 @@ draft:
 
 ## 📊 **Hahmoyhteenveto**
 
-| Stat          | Arvo | Muuta |
-| ------------- | ---- | ----- |
-| **Pelaaja**   | Rain |       |
-| **Nimi**      |      |       |
-| **Rotu**      |      |       |
-| **Luokka**    |      |       |
-| **Taso**      |      |       |
-| **Suuntaus**  |      |       |
-| **Ikä**       |      |       |
-| **Sukupuoli** |      |       |
-| **Koti**      |      |       |
-| **Kieli(t)**  |      |       |
+| Stat          | Arvo  | Muuta |
+| ------------- | ----- | ----- |
+| **Pelaaja**   | Raine |       |
+| **Nimi**      |       |       |
+| **Rotu**      |       |       |
+| **Luokka**    |       |       |
+| **Taso**      |       |       |
+| **Suuntaus**  |       |       |
+| **Ikä**       |       |       |
+| **Sukupuoli** |       |       |
+| **Koti**      |       |       |
+| **Kieli(t)**  |       |       |
 
 ---
 
