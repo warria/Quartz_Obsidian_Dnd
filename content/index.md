@@ -15,7 +15,6 @@ Nykyhetkessä maa on jakautunut ihmisten ja taikaolentojen kesken. Rauha on kuit
 ---
 
 ![[kartta_jaettu1.png]]
-![[kartta_jaettu.png]]
 
 # Pelaajat & hahmot
 ---
