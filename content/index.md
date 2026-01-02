@@ -150,4 +150,6 @@ ___
   
 - Sessio 11 – [[S11 Missä olen]]
 
+* Sessio 12 – [[S12 Dungeons and The happy reunion]]
+
 ---
