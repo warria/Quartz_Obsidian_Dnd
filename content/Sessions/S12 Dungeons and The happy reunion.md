@@ -126,7 +126,7 @@ Toisella puolella katua nuori mies vetää kiireellä pienen pojan sisälle. Hä
 
 Yksi toisensa jälkeen kyläläiset katoavat, ja jokainen ovi ja ikkuna sulkeutuu, kun kuljette ohi.
 
-  
+  ![[Phandalin-aamu.png]]
 
 KESKUSTAN GUESBORDEILLE ON ILMESTYNYT UUSI, LIPUN KOKOINEN JULISTE  
 Kulta-punainen sinetti loistaa sen yläreunassa.
@@ -246,6 +246,8 @@ Hänen äänensä kovenee, syvenee.
 (Hän kallistaa päätään.)  
 **"Saate pienen etumatkan… mutta älkää erehtykö anteliaisuudestani sillä, Seuraavalla kohtaamisellamme en aio olla yhtä armollinen, sillä kuolema odottaa teitä,  ja minä johdatan sen luoksenne."**
 
+![[Palanut-talo.png]]
+
 ---
 
 ### NPC:t
@@ -260,5 +262,5 @@ Hänen äänensä kovenee, syvenee.
 
 ---
 
-
+![[Käsi.png]]
 ___
