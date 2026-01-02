@@ -40,31 +40,31 @@ Ena on nuori puolihaltia, joka on sitonut sielunsa demoniseen suojelijaan – ei
 
 ## 📊 **Hahmoyhteenveto**
 
-| Stat           | Arvo                   | Muuta                             |
-| -------------- | ---------------------- | --------------------------------- |
-| **Pelaaja**    | Ippu                   |                                   |
-| **Nimi**       | Ena Adleth             |                                   |
-| **Rotu**       | Half-Elf (Puolihaltia) |                                   |
-| **Luokka**     | Warlock                | Patron: Fraz-Urb’luu              |
-| **Background** | Entertainer            |                                   |
-| **Taso**       | 6                      |                                   |
-| **Suuntaus**   | Chaotic Good           | Hyväsydäminen, mutta kapinallinen |
-| **Ikä**        | 23                     |                                   |
-| **Sukupuoli**  | Nainen                 |                                   |
-| **Koti**       | Jaconian eteläraja     | Lähellä Suden autiomaata          |
-| **Kieli(t)**   | Common, Elvish, Giant  |                                   |
+| Stat           | Arvo                            | Muuta                             |
+| -------------- | ------------------------------- | --------------------------------- |
+| **Pelaaja**    | Ippu                            |                                   |
+| **Nimi**       | Ena Adleth                      |                                   |
+| **Rotu**       | Half-Elf (Puolihaltia)          |                                   |
+| **Luokka**     | Warlock                         | Patron: Fraz-Urb’luu              |
+| **Background** | Entertainer                     |                                   |
+| **Taso**       | 6                               |                                   |
+| **Suuntaus**   | Chaotic Good                    | Hyväsydäminen, mutta kapinallinen |
+| **Ikä**        | 23                              |                                   |
+| **Sukupuoli**  | Nainen                          |                                   |
+| **Koti**       | Keld kylä Jaconian etelärajalla | Lähellä Suden autiomaata          |
+| **Kieli(t)**   | Common, Elvish, Giant           |                                   |
 
 ---
 
 ## ⚔️ **Taisteluarvot**
 
-| Ominaisuus            | Arvo  | Huomio               |
-| --------------------- | ----- | -------------------- |
-| **Armor Class (AC)**  | 14    | Kevyt nahkapanssari  |
-| **Hit Points (HP)**   | 51    |                      |
-| **Speed**             | 30 ft |                      |
-| **Proficiency Bonus** | +3    |                      |
-| **Initiative**        | +1    | Nopeus ja refleksejä |
+| Ominaisuus            | Arvo  |
+| --------------------- | ----- |
+| **Armor Class (AC)**  | 14    |
+| **Hit Points (HP)**   | 51    |
+| **Speed**             | 30 ft |
+| **Proficiency Bonus** | +3    |
+| **Initiative**        | +1    |
 
 ---
 

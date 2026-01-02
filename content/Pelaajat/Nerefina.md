@@ -57,13 +57,13 @@ draft:
 
 ## ⚔️ **Taisteluarvot**
 
-| Ominaisuus            | Arvo    | Huomio               |
-| --------------------- | ------- | -------------------- |
-| **Armor Class (AC)**  | 17      | Kevyt nahkapanssari  |
-| **Hit Points (HP)**   | 50 / 50 |                      |
-| **Speed**             | 30 ft   |                      |
-| **Proficiency Bonus** | +3      |                      |
-| **Initiative**        | +4      | Nopeus ja refleksejä |
+| Ominaisuus            | Arvo    |
+| --------------------- | ------- |
+| **Armor Class (AC)**  | 17      |
+| **Hit Points (HP)**   | 50 / 50 |
+| **Speed**             | 30 ft   |
+| **Proficiency Bonus** | +3      |
+| **Initiative**        | +4      |
 
 ---
 

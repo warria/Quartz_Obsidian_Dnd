@@ -21,36 +21,44 @@ draft:
 
 ## **Varusteet/Inventori**
 
-- 
+- **Warhammer** – Raskas ja murskaava ase, joka rikkoo panssarit ja luut yhtä varmasti.
+- **Scale mail** – Metallisuomuista koostuva haarniska, tarjoaa hyvän suojan kohtuullisella liikkuvuudella.
+- **light Crossbow (20 nuolta)** – Luotettava etäase, sopii vihollisten heikentämiseen ennen lähitaistelua.
+- **Explorer's pack** – Sisältää perusvarusteet matkantekoon ja selviytymiseen tuntemattomilla seuduilla.
+- **shield** – Tukeva kilpi, joka torjuu iskut ja lisää puolustusta taistelussa.
+- **a holy symbol** – Pyhä merkki, joka edustaa uskoa ja toimii kanavana jumalalliselle voimalle.
+- **Hunting trap** – Teräksinen ansa, jolla voi vangita saaliin tai hidastaa vihollisia.
+- **Playing cards** – Kuluneet kortit ajanviettoon, vedonlyöntiin ja tiedon keräämiseen.
+- **A set of traveler's clothes** – Käytännölliset vaatteet, suunniteltu pitkille matkoille ja vaihteleviin olosuhteisiin.
 
 ---
 
 ## 📊 **Hahmoyhteenveto**
 
-| Stat          | Arvo  | Muuta |
-| ------------- | ----- | ----- |
-| **Pelaaja**   | Raine |       |
-| **Nimi**      |       |       |
-| **Rotu**      |       |       |
-| **Luokka**    |       |       |
-| **Taso**      |       |       |
-| **Suuntaus**  |       |       |
-| **Ikä**       |       |       |
-| **Sukupuoli** |       |       |
-| **Koti**      |       |       |
-| **Kieli(t)**  |       |       |
+| Stat          | Arvo                     | Muuta                                |
+| ------------- | ------------------------ | ------------------------------------ |
+| **Pelaaja**   | Raine                    |                                      |
+| **Nimi**      | Xin-Ger                  | Koska se on ginger                   |
+| **Rotu**      | Curseborn                | susi                                 |
+| **Luokka**    | Cleric                   |                                      |
+| **Taso**      | 6                        |                                      |
+| **Suuntaus**  | Chaotic good             | seuraa omaa omaatuntoaan ja vapautta |
+| **Ikä**       | 300                      | (Acts like she's 25)                 |
+| **Sukupuoli** | Nainen                   |                                      |
+| **Koti**      | Idässä päin              |                                      |
+| **Kieli(t)**  | Common, Elvish, Draconic |                                      |
 
 ---
 
 ## ⚔️ **Taisteluarvot**
 
-| Ominaisuus            | Arvo | Huomio |
-| --------------------- | ---- | ------ |
-| **Armor Class (AC)**  |      |        |
-| **Hit Points (HP)**   |      |        |
-| **Speed**             |      |        |
-| **Proficiency Bonus** |      |        |
-| **Initiative**        |      |        |
+| Ominaisuus            | Arvo |
+| --------------------- | ---- |
+| **Armor Class (AC)**  | 18   |
+| **Hit Points (HP)**   | 53   |
+| **Speed**             | 35   |
+| **Proficiency Bonus** | +3   |
+| **Initiative**        | +7   |
 
 ---
 
@@ -58,20 +66,20 @@ draft:
 
 | Kyky             | Arvo | Mod | Huomio             |
 | ---------------- | ---- | --- | ------------------ |
-| **Strength**     |      | +   |                    |
-| **Dexterity**    |      | +   | Pääasiallinen kyky |
-| **Constitution** |      | +   |                    |
-| **Intelligence** |      | +   | Pääasiallinen kyky |
-| **Wisdom**       |      | +   |                    |
-| **Charisma**     |      | +   |                    |
+| **Strength**     | 11   | +0  |                    |
+| **Dexterity**    | 15   | +2  |                    |
+| **Constitution** | 14   | +2  | Pääasiallinen kyky |
+| **Intelligence** | 12   | +1  |                    |
+| **Wisdom**       | 20   | +5  | Pääasiallinen kyky |
+| **Charisma**     | 16   | +3  |                    |
 
 ---
 
 ## ✨ **Erikois Kyvyt**
 
-| Kyky             | Arvo | Mod | Huomio |
-| ---------------- | ---- | --- | ------ |
-| **Sneak Attack** |      |     |        |
+| Kyky      | Arvo            | Mod                                                            | Huomio                                            |
+| --------- | --------------- | -------------------------------------------------------------- | ------------------------------------------------- |
+| **Alert** | +5 (Initiative) | Passiivinen etu havainnoinnissa ja etuoikeus aloittaa taistelu | Et voi yllättää, olet aina valppaana ympäristölle |
 
 ---
 
