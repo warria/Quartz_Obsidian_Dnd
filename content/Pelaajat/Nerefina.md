@@ -22,7 +22,7 @@ draft:
 
 ---
 
-## 🧳 **Varusteet / Inventori**
+## **Varusteet / Inventori**
 
 - **Rapier** – Kevyt ja tarkka pistomiekka, täydellinen salamurhaajalle.
 - **Shortbow & 20 nuolta** – Hiljainen ja tehokas kaukoase.
@@ -39,19 +39,19 @@ draft:
 
 ## 📊 **Hahmoyhteenveto**
 
-| Stat           | Arvo                                           | Muuta                                                       |
-| -------------- | ---------------------------------------------- | ----------------------------------------------------------- |
-| **Pelaaja**    | Silja                                          |                                                             |
-| **Nimi**       | [REDACTED]                                     | Tunnetaan myös nimillä *Nerefina*, enthyra eldersinger, jne |
-| **Rotu**       | Elf/Haltia                                     |                                                             |
-| **Luokka**     | Rogue (Assassin)                               |                                                             |
-| **Background** | Guild Artisan                                  |                                                             |
-| **Taso**       | 6                                              |                                                             |
-| **Suuntaus**   | Chaotic Neutral                                |                                                             |
-| **Ikä**        | 247 (näyttää ~25)                              |                                                             |
-| **Sukupuoli**  | Nainen                                         |                                                             |
-| **Koti**       | Koti kylä Aeston (Whartin raunioiden vieressä) |                                                             |
-| **Kieli(t)**   | Common, Elvish, goblin, Varkaiden salakieli    |                                                             |
+| Stat           | Arvo                                        | Muuta                                                       |
+| -------------- | ------------------------------------------- | ----------------------------------------------------------- |
+| **Pelaaja**    | Silja                                       |                                                             |
+| **Nimi**       | [REDACTED]                                  | Tunnetaan myös nimillä *Nerefina*, enthyra eldersinger, jne |
+| **Rotu**       | Elf/Haltia                                  |                                                             |
+| **Luokka**     | Rogue                                       | Assassin                                                    |
+| **Background** | Guild Artisan                               |                                                             |
+| **Taso**       | 6                                           |                                                             |
+| **Suuntaus**   | Chaotic Neutral                             | Arvostaa vapautta yli kaiken                                |
+| **Ikä**        | 247 (näyttää ~25)                           |                                                             |
+| **Sukupuoli**  | Nainen                                      |                                                             |
+| **Koti**       | Koti kylä Aeston                            | Whartin raunioiden vieressä                                 |
+| **Kieli(t)**   | Common, Elvish, goblin, Varkaiden salakieli |                                                             |
 
 ---
 
