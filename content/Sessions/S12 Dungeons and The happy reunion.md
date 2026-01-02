@@ -240,8 +240,8 @@ Hänen äänensä kovenee, syvenee.
 
 (Andrew levittää kätensä hitaasti.)
 
-**"Mutta olen antelias mies."  **
-**"Kiitoksena… kaikesta avustanne…"  **
+**"Mutta olen antelias mies." 
+"Kiitoksena… kaikesta avustanne…"**
   
 (Hän kallistaa päätään.)  
 **"Saate pienen etumatkan… mutta älkää erehtykö anteliaisuudestani sillä, Seuraavalla kohtaamisellamme en aio olla yhtä armollinen, sillä kuolema odottaa teitä,  ja minä johdatan sen luoksenne."**
