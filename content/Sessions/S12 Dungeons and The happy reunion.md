@@ -86,6 +86,8 @@ Salissa on täydellinen hiljaisuus. Niskakarvoissanne kihelmöi tuttu tunne, kui
 
 Jokainen hengenveto tuntuu raskaalta, kuin hukkuisit merenpohjan paineen alle, ja suussasi maistuu hetkelisesti suolainen vesi ja kylmä viima saa ihosi nousemaan kananlihalle.
 
+![[katakombit.png]]
+
 ---
 #### Taika esineen otaminen
 
