@@ -48,7 +48,7 @@ kirjotan sen paremmin kun ehtii/on aikaa/kun jaksan 😭😭
 ---
 ## monologi Session 12
 
-#### KERTOJA
+### KERTOJA
 
 Hmm… how fascinating.  
 
@@ -66,7 +66,7 @@ As if believing the ramblings of long-dead tyrants could lead anywhere but deepe
 Every step they take in service of those “noble” ghosts only draws them closer to the end of their own story.
 
 ___
-##### Kuvaus alussa
+#### Kuvaus alussa
 
 Ilma vanhan linnan raunioissa on pysähtynyt, kylmä ja raskas, täynnä vuosisatojen ummehtunutta hiljaisuutta. Pöly leijuu sumuna ilmassa, sameana ja paksuna.
 
@@ -117,7 +117,7 @@ Aikaa ei ole paljon. Hirviö kohottaa päänsä silmät valkoista valoa hohtaen 
 
 ---
 
-#### **Paluu Phandaliniin**
+### Paluu Phandaliniin
 
 Kun tie kaartuu viimeisen kumpareen yli, Phandalin kylä avautuu eteenne — mutta jokin on pielessä. Kylä, joka ennen oli täynnä puheensorinaa, sepän takomisen kaikua ja lasten kiljuntaa, on nyt hiljainen. Liian hiljainen.
 
@@ -136,7 +136,7 @@ Kulta-punainen sinetti loistaa sen yläreunassa.
 
 ---
 
-**MARQUISATIN VIRALLINEN MÄÄRÄYS**
+##### **MARQUISATIN VIRALLINEN MÄÄRÄYS**
 
 **Kaikki, jotka piilottavat, suojelevat, avustavat tai edes vaikenevat  
 taikaolennoista, kapinallisista tai valtakuntaa vastaan toimivista rikollisista—**
@@ -154,7 +154,7 @@ Petturuus pyyhitään maasta juurineen."**
 **— Gelder**
 
 ---
-#### **Mäen Juurella**
+#### Mäen Juurella
 
 Kun pääsette majatalon mäen juurelle, edessä avautuva kammottava näky.  
   
@@ -181,7 +181,7 @@ Kun käsi pysyy liikkumattomana, pentu päästää hiljaisen, surullisen mau’u
 Sitten se kääntää katseensa teihin, silmissä avuton, yksinäinen pyyntö.
 
 ---
-#### **The happy reunion**
+#### The happy reunion
 
 Savu ja tuhka leijailevat ilmassa niin paksuina, että jokainen hengenveto maistuu karrelle palaneelta puulta. Majatalosta ei enää ole jäljellä kuin mustuneet palkit, jotka kohoavat taivasta vasten kuin nokiseksi hiiltyneet jäänteet.
 
