@@ -139,19 +139,19 @@ Kulta-punainen sinetti loistaa sen yläreunassa.
 **MARQUISATIN VIRALLINEN MÄÄRÄYS**
 
 **Kaikki, jotka piilottavat, suojelevat, avustavat tai edes vaikenevat  
-taikaolennoista, kapinallisista tai valtakuntaa vastaan toimivista rikollisista—
+taikaolennoista, kapinallisista tai valtakuntaa vastaan toimivista rikollisista—**
 
-**ovat pettureita, ja käsitellään sellaisina.
+**ovat pettureita, ja käsitellään sellaisina.**
 
 **Rangaistus: 
 VÄLITÖN KÄYTÄNTÖÖNPANO.  
-Elämästä luopuminen ilman oikeudenkäyntiä.
+Elämästä luopuminen ilman oikeudenkäyntiä.**
 
 **"Marquisat näkee jokaisen.  
 Marquisat muistaa jokaisen.  
-Petturuus pyyhitään maasta juurineen."
+Petturuus pyyhitään maasta juurineen."**
 
-**— Gelder
+**— Gelder**
 
 ---
 #### **Mäen Juurella**
