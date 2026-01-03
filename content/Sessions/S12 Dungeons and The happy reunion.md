@@ -31,6 +31,9 @@ Nykyhetkessä Jaconia on jakautunut ihmisten ja taikaolentojen kesken, mutta rau
 
 ## Yhteenveto
 
+jotain jotain rauniot -> katakombit -> taika esine -> lohikäärme -> kylä -> Andrew
+
+kirjotan sen paremmin kun ehtii/on aikaa/kun jaksan 😭😭
 
 ---
 
@@ -264,3 +267,4 @@ Hänen äänensä kovenee, syvenee.
 
 ![[Käsi.png]]
 ___
+

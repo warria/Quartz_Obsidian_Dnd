@@ -85,13 +85,13 @@ draft:
 
 #  **Suhteet**
 
-| Hahmot       | Suhde | Kuvaus |
-| ------------ | ----- | ------ |
-| **Nerejina** |       |        |
-| **Ena**      |       |        |
-| **Lucifer**  |       |        |
-| **Käsi**     |       |        |
-
+| Hahmot         | Suhde                                                                                                              |
+| -------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **[REDACTED]** | Low-key thinks she might not have kaikki muumit laaksossa (Koska ne tapas ekaa kertaa ku se oli 5v mentaliteetilt) |
+| **Ena**        | Omg that's my bestie🩷 Must cherish, must protect.                                                                 |
+| **Lucifer**    | Why doesn't he say anything to me? Is he hiding something?                                                         |
+| **Xin - Xin**  | One of my many lil bros but he's kinda dead now.                                                                   |
+| **Käsi**       | WHY WON'T YOU LOVE MEEEE?!💔                                                                                       |
 
 ---
 
