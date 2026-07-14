@@ -31,19 +31,117 @@ Nykyhetkessä Jaconia on jakautunut ihmisten ja taikaolentojen kesken, mutta rau
 
 ## Yhteenveto
 
-jotain jotain rauniot -> katakombit -> taika esine -> lohikäärme -> kylä -> Andrew
+Ryhmä laskeutui Warthin linnan alta paljastuneisiin katakombeihin, joissa muinainen pimeys tuntui puristavan jokaista hengenvetoa. Jo portaissa Enthyra joutui voimakkaan illuusion valtaan ja näki maailman, jossa sota oli voitettu ja kaikki oli hyvin, ennen kuin party onnistui herättämään hänet takaisin todellisuuteen.
 
-kirjotan sen paremmin kun ehtii/on aikaa/kun jaksan 😭😭
+Katakombit osoittautuivat olemaan täynnä ansoja, hautoja ja mustan mönjää. Matkan varrella party löysi arkun, josta Lucifer sitoutui vahingossa kirottuun laukkuun, jonka sisältä kurkottavat kädet tulivat ryhmän uudeksi, kummalliseksi matkakumppaniksi. Rotilta saatiin arvokasta tietoa edessä odottavista ansoista, mustasta mönjästä sekä valkotukkaisesta tulenkäyttäjästä, joka oli menyt ohi hetkisitten.
+
+Syvimmän ja suurimman salin keskellä ryhmä löysi luuvuoren huipulla lepäävän muinaisen artefaktin sekä haavoittuneen Romenoorin. Hänen ja Shon välinen kohtaaminen paljasti lisää heidän yhteisestä menneisyydestään: Sho oli aikoinaan Marquisatin kuuluisa "Monster Hunter", Livia oli Romenoorin kadonnut tytär ja Sho oli kasvattanut hänet omanaan. Tilanne rauhoittui vasta Xin-Gerin Calm Emotions -loitsun ansiosta.
+
+Tappelun ja keskustelun aikana Ena oli tehnyt matkaa artifaktin luokse ja tarttui siihen, artifakti imi itseensä koko katakombien mustan saastan ja puhdisti salin. Rauha jäi kuitenkin hetkelliseksi, sillä artefaktin poistaminen herätti valtavan Jabberwockin, joka syöksyi katon läpi ja alkoi jahdata erityisesti artefaktin kantajaa. Romenoor onnistui viime hetkellä teleporttaamaan koko ryhmän pois romahtavasta salista, vaikka loitsu vei häneltä lähes kaikki voimat.
+
+Palattuaan Phandaliniin ryhmä huomasi kaiken muuttuneen. Kylä oli hiljentynyt Marquisatin vallan alle, uusi Armeijan määräys julisti kaikki taikaolentoja auttavat pettureiksi ja tuomittavaksi kuolemaan. Mäen juurelta löytyneet sadat ruumiit kertoivat tragedian mittakaavasta, ja ryhmä pelasti ainoan selviytyjän – pienen orvoksi jääneen kissan. Vuoren huipulta tuli mustaa savua jossa Livian majatalo sijaitsi.
+
+Raunioituneen majatalon edessä odotti kuitenkin vielä pahempi yllätys. Andrew oli liittynyt Marquisatin riveihin ja noussut Gelderin suvun uudeksi johtohahmoksi Armeijan pääliköksi. Hän julisti sodan jatkuvan ja lupasi metsästää ryhmän loppuun asti ja antoi heille vain yhden ainoan etumatkan ennen seuraavaa kohtaamista.
+
+---
+
+![[katakombit 1.png]]
 
 ---
 
 ## Tapahtumat
 
+#### Laskeutuminen katakombeihin
 
+- Ryhmä seuraa jalanjälkiä alas spiraaliportaita.
+- Painostava taikuus voimistuu.
+- Enthyra lyyhistyy ja joutuu illuusion vangiksi.
+- Sho kertoo saman tapahtuneen aiemmin koko ryhmälle.
+- Enthyra herää "onnellisesta maailmasta", jossa sota oli voitettu.
+- Illuusio muuttuu mustaksi mereksi ennen kuin party herättää hänet.
+
+#### Katakombien tutkiminen
+
+- Katakombit ovat täynnä eläviä mustia suonia.
+- Kolme eri reittiä: hautakammiot, arkkuhuone ja syvemmälle johtava käytävä.
+- Arkusta löytyy:
+    - kirottu laukku
+    - "holy water" -pulloksi merkitty musta neste
+    - mätä omena
+- Lucifer sitoutui vahingossa kirottuun laukkuun.
+- Kävelevä "Käsi" liittyy pysyvästi ryhmän mukaan.
+
+#### Haudat ja rotat
+
+- Neljä vanhaa hautaa sisältävät luurankoja ja rikkinäitä miekkoja.
+- Viides hauta on tyhjä.
+- Rotat täyttävät viinikellarin.
+- Lucifer keskustelee rottien kanssa Ring of the Rodentsin avulla.
+- Rotat varoittavat:
+    - mustasta mönjästä
+    - tuliansoista
+    - edellä kulkeneesta valkotukkaisesta miehestä
+    - tulevista ansoista.
+
+#### Musta mönjä ja ansat
+
+- Ryhmä kulkee mustan liman läpi.
+- Lähes kaikki saavat ällöttäviä kirouksia.
+- Käytävältä löytyy tuliansa.
+- Ansa laukeaa, mutta tuli ei syty.
+- Käsi auttaa hakemaan liman keskellä olevan arkun.
+- Arkusta löytyy:
+    - 3 Fire Resistance Potionia
+    - rahaa.
+- Nuoliansa on jo lauennut aiemmin eikä enää toimi.
+
+#### Kohtaaminen Romenoorin kanssa
+
+- Ryhmä löytää haavoittuneen Romenoorin artefaktisalin reunalta.
+- Riita Shon ja Romenoorin välillä paljastaa:
+    - Sho oli Marquisatin kuuluisa Monster Hunter.
+    - Sho kasvatti Livian.
+    - Livia on Romenoorin tytär.
+- Xin-Ger rauhoittaa tilanteen Calm Emotionsilla.
+- Xin-Ger parantaa Romenoorin jalan.
+- Romenoor paljastaa osaavansa teleportata.
+
+#### Artefakti ja Jabberwock
+
+- Ena ottaa muinaisen artefaktin.
+- Artefakti imee kaiken mustan mönjän itseensä.
+- Katakombit puhdistuvat.
+- Jabberwock syöksyy katon läpi.
+- Hirviö jahtaa artefaktia kantavaa Enaa.
+- Ryhmä taistelee samalla kun sali alkaa romahtaa.
+- Romenoor teleporttaa koko ryhmän pois viime hetkellä.
+
+#### Paluu Phandaliniin
+
+- Ryhmä palaa raunioiden reunalle.
+- Romenoor kiirehtii takaisin kylään.
+- Phandalin on muuttunut:
+    - kyläläiset piiloutuvat
+    - Marquisatin määräys hallitsee kylää
+    - Gelder julistaa kaikki kapinallisten auttajat kuolemaan.
+- Mäen juurella lepää satoja peitettyjä ruumiita.
+- Ryhmä pelastaa orvoksi jääneen kissan.
+
+#### Andrew'n paljastus
+
+- Livian majatalo on poltettu maan tasalle.
+- Armeija odottaa raunioilla.
+- Andrew ilmestyy Marquisatin uudessa univormussa.
+- Vic ja Sam seisovat hänen rinnallaan.
+- Andrew ilmoittaa:
+    - liittyneensä Marquisatin puolelle
+    - jatkavansa Gelderin jalanjälkiä 
+    - metsästävänsä ryhmän loppuun asti.
+- Hän antaa ryhmälle yhden etumatkan ennen heidän seuraavaa kohtaamistaan.
 
 ---
 
-
+![[Andrew.png]]
 
 ---
 ## monologi Session 12
@@ -257,13 +355,13 @@ Hänen äänensä kovenee, syvenee.
 
 ### NPC:t
 
-- **Sho** — 
-* **The rats** —
-* **KÄSI!!!** —
-- **Romeo** — 
-- **Andrew** —
-- **Sam** —
-- **Vic** —
+- **Sho** — Entinen Marquisatin "Monster Hunter". Paljastui Livian kasvattajaksi. Romenoor syyttää häntä vaimonsa kuolemasta.
+- **The Rats** — Katakombien rotat. Kertoivat mustasta mönjästä, tulevista ansoista ja valkotukkaisesta tulenkäyttäjästä ruokaa vastaan.
+- **KÄSI!!!** — Kirotun laukun elävä käsi. Liittyi Luciferiin, rakastaa ruokaa, yrittää syödä kaikkea (myös rottia ja Luciferin riikinkukon) ja auttaa välillä ryhmää saadakseen palkkion.
+- **Romenoor** — Löydettiin haavoittuneena artefaktisalin luota. Paljasti Livian olevan hänen tyttärensä ja teleporttasi ryhmän pois Jabberwockin kynsistä.
+- **Andrew** — Liittynyt Marquisatiin. Johtaa sotilaita, julistaa metsästävänsä ryhmän kunnes ovat kuolleita kuten hänen setänsä ja antaa heille viimeisen etumatkan.
+- **Sam** — Seisoo Andrew'n rinnalla Marquisatin riveissä. Vaikuttaa peloissaan ja epävarmalta.
+- **Vic** — Andrew'n rinnalla Marquisatin sotilaana. Täynnä vihaa Romenooria kohtaan ja valmiina taistelemaan.
 
 ---
 
