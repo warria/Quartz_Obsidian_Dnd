@@ -152,4 +152,6 @@ ___
 
 * Sessio 12 – [[S12 Dungeons and The happy reunion]]
 
+- Session 13 - [[S13 Friends become fo]]
+
 ---
