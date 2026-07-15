@@ -154,4 +154,8 @@ ___
 
 - Session 13 - [[S13 Friends become fo]]
 
+- Session 14 - [[S14 Harlonin vastarinta]]
+
+- Session 15 - [[S15]]
+
 ---
