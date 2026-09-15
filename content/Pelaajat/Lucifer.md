@@ -3,7 +3,7 @@ title: Lucifer
 tags:
 draft:
 ---
-Lucifer on nuori vampyyri, joka syntyi ylellisyyden ja rakkauden keskelle – eikä ole koskaan joutunut tekemään kovaa työtä tai likaamaan käsiään elämässään. Silti hän jätti kotinsa taakseen nähdäkseen maailman kaikessa sen kauneudessa – ja ehkä jakaakseen vuoteensa muutaman kauniin sielun kanssa matkalla. Nyt hän kulkee maailmaa bardina, rinnallaan Baby, hänen albiinoriikinkukkonsa, joka on seurannut Luciferia uskollisesti kylästä toiseen. Hän kirjoittaa kotiinsa kertoakseen seikkailuistaan, mutta viime kuukausina kirjeisiin ei ole saapunut vastausta...
+**Lucifer** on nuori vampyyri, joka syntyi ylellisyyden ja rakkauden keskelle – eikä ole koskaan joutunut tekemään kovaa työtä tai likaamaan käsiään elämässään. Silti hän jätti kotinsa taakseen nähdäkseen maailman kaikessa sen kauneudessa – ja ehkä jakaakseen vuoteensa muutaman kauniin sielun kanssa matkalla. Nyt hän kulkee maailmaa bardina, rinnallaan Baby, hänen albiinoriikinkukkonsa, joka on seurannut Luciferia uskollisesti kylästä toiseen. Hän kirjoittaa kotiinsa kertoakseen seikkailuistaan, mutta viime kuukausina kirjeisiin ei ole saapunut vastausta...
 
 ---
 

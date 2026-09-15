@@ -3,7 +3,7 @@ title: Ena
 tags:
 draft:
 ---
-Ena on nuori puolihaltia, joka on sitonut sielunsa "suojelijaan" – ei vallan, vaan uteliaisuuden ja kunnianhimon tähden. Hänen silmissään palaa liekki, joka ei sammu, vaikka jokainen käytetty taika jättää häneen uuden jäljen. Ääni ja kuiskaukset seuraa häntä valveilla ja unissa, luvaten voimaa samalla kun se hivuttautuu yhä syvemmälle hänen elämäänsä. Ena ei pelkää voimiaan, hän tietää mihin suostui – mutta sitä, kuinka pitkälle se vielä hänet vie.
+**Ena** on nuori puolihaltia, joka on sitonut sielunsa "suojelijaan" – ei vallan, vaan uteliaisuuden ja kunnianhimon tähden. Hänen silmissään palaa liekki, joka ei sammu, vaikka jokainen käytetty taika jättää häneen uuden jäljen. Ääni ja kuiskaukset seuraa häntä valveilla ja unissa, luvaten voimaa samalla kun se hivuttautuu yhä syvemmälle hänen elämäänsä. Ena ei pelkää voimiaan, hän tietää mihin suostui – mutta sitä, kuinka pitkälle se vielä hänet vie.
 
 ---
 

@@ -3,7 +3,7 @@ tags:
 title: Xin-Ger
 draft:
 ---
-Xin-Ger on omien teidensä vaeltaja, joka on matkannut kauas kotinsa suojista ensin etsiessään jotain – tai paremmin sanottuna jotakuta. Nyt hän yrittää jättää menneisyytensä taakseen ja toivoo nähdä maailman sellaisena kuin se todella on, sen kauneudessa ja rumuudessa. Maailmassa on niin paljon uutta nähtävää ja opittavaa, ettei Xin-Ger ennen lähtöään osannut kuvitellakaan elämää ilman perhettään. Hänen maailmansa oli aina ollut perheensä ympärillä, eikä hän koskaan ollut osannut kaivata mitään muuta.
+**Xin-Ger** on omien teidensä vaeltaja, joka on matkannut kauas kotinsa suojista ensin etsiessään jotain – tai paremmin sanottuna jotakuta. Nyt hän yrittää jättää menneisyytensä taakseen ja toivoo nähdä maailman sellaisena kuin se todella on, sen kauneudessa ja rumuudessa. Maailmassa on niin paljon uutta nähtävää ja opittavaa, ettei Xin-Ger ennen lähtöään osannut kuvitellakaan elämää ilman perhettään. Hänen maailmansa oli aina ollut perheensä ympärillä, eikä hän koskaan ollut osannut kaivata mitään muuta.
 
 ---
 

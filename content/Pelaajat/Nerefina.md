@@ -3,7 +3,7 @@ title: "[REDACTED] Nerefina"
 tags:
 draft:
 ---
-[REDACTED] on varjoissa liikkuva rosvo, joka vaihtaa nimeä jokaisessa kylässä paetakseen menneisyyttään. Hänen todellinen nimensä on kadonnut vuosien ja lukemattomien valenimien alle, aivan kuten muistot hänen vanhemmistaan. Ainoa asia, jonka hän muistaa selvästi lapsuudestaan, on mentorinsa ja tämän toinen oppipoika, Rex... - ystävä? kilpailija ja ikuinen piiki hänen rinnallaan. Nyt [REDACTED] kulkee omia polkujaan ja tavoittelee asemaa maailman parhaana varkaana. Mutta vuosien jälkeen hän kuulee jälleen tutun nimen kuiskauksissa: Rex Maxim, varas jota kukaan ei ole koskaan onnistunut saamaan kiinni.
+**[REDACTED]** on varjoissa liikkuva rosvo, joka vaihtaa nimeä jokaisessa kylässä paetakseen menneisyyttään. Hänen todellinen nimensä on kadonnut vuosien ja lukemattomien valenimien alle, aivan kuten muistot hänen vanhemmistaan. Ainoa asia, jonka hän muistaa selvästi lapsuudestaan, on mentorinsa ja tämän toinen oppipoika, Rex... - ystävä? kilpailija ja ikuinen piiki hänen rinnallaan. Nyt [REDACTED] kulkee omia polkujaan ja tavoittelee asemaa maailman parhaana varkaana. Mutta vuosien jälkeen hän kuulee jälleen tutun nimen kuiskauksissa: Rex Maxim, varas jota kukaan ei ole koskaan onnistunut saamaan kiinni.
 
 ---
 
