@@ -3,7 +3,7 @@ title: Lucifer
 tags:
 draft:
 ---
-
+Lucifer on nuori vampyyri, joka syntyi ylellisyyden ja rakkauden keskelle – eikä ole koskaan joutunut tekemään kovaa työtä tai likaamaan käsiään elämässään. Silti hän jätti kotinsa taakseen nähdäkseen maailman kaikessa sen kauneudessa – ja ehkä jakaakseen vuoteensa muutaman kauniin sielun kanssa matkalla. Nyt hän kulkee maailmaa bardina, rinnallaan Baby, hänen albiinoriikinkukkonsa, joka on seurannut Luciferia uskollisesti kylästä toiseen. Hän kirjoittaa kotiinsa kertoakseen seikkailuistaan, mutta viime kuukausina kirjeisiin ei ole saapunut vastausta...
 
 ---
 
@@ -15,28 +15,8 @@ draft:
 - **Varustus:** Ylellinen, valkea röyhelöpaita ja tummat, istuvat housut, mustat saappaat ja kaulassa koristeelliset korut, jotka kertovat hänen menneestä loistostaan.
 - **Liikkeet:** Sulavat ja teatraaliset – kuin jokainen askel olisi osa esiintymistä.
 ---
-![[Lusifer.png]]
 
----
-
-## **Varusteet/Inventori**
-
-* **Clothes** – Perusvaatteet, mukavat ja kestävät matkoille.
-* **Incense x5** – Hieno tuoksu, jota käytetään rituaaleissa tai tunnelman luomiseen.
-* **Leather Armor** – Kevyt nahkahaarniska, joka suojaa ilman liiallista rajoitusta.
-* **Lyre** – Pieni soitin, jonka sävelet voivat viihdyttää tai lumota kuulijat.
-* **Pouch** – Nahkainen rahapussi, jossa voi kantaa kolikoita ja pieniä esineitä.
-* **Banjo** – Soitin, joka tuo rytmiä ja iloa matkoihin tai esityksiin.
-* **Vestaments** – Seremonialliset tai uskonnolliset asusteet, edustavat arvovaltaa tai tehtävää.
-* **“Viina pullo”** – Pieni pullo alkoholia, voi tarjota rohkaisua tai tehdä vaikutuksen.
-* **Spear** – Pitkä ase, käyttökelpoinen sekä heitto- että lähitaistelussa.
-* **Heal potion x2** – Parantavia juomia, jotka palauttavat vammoja nopeasti.
-* **Fancy pot.** – idk man if u dont know i dont know T.T
-* **Ring of Truth telling** –Taikasormus, joka paljastaa totuuden; saat etua Wisdom (Insight) -tarkistuksiin yrittäessäsi lukea muiden aikomuksia tai havaita valheita.
-* **Tiima lasi** – Ajastin tai hienostunut mitta väline, tarkkaa ajan seuraamiseen.
-* **3 päivää drie wolf lihaa** – Säilykkeitä pitämään nälän loitolla useamman päivän.
-* **Kulta hippuja muraalista** – Arvokkaita kulanpaloja joista voisi saada hyvän hinan kaupassa.
-* **Fire resistance potion** – Juoma, joka antaa tilapäisen suojan tulivahinkoja vastaan.
+![[lusiferr.jpg]]
 
 ---
 
@@ -80,19 +60,6 @@ draft:
 | **Intelligence** | 12   | +1  |                    |
 | **Wisdom**       | 12   | +1  |                    |
 | **Charisma**     | 18   | +4  | Pääasiallinen kyky |
-
----
-
-## ✨ **Erikois Kyvyt**
-
-| Kyky                        | Arvo | Mod          | Huomio                                                            |
-| --------------------------- | ---- | ------------ | ----------------------------------------------------------------- |
-| **Bardic Inspiration**      | d8   | 3x/long rest | Inspiroi liittolaisia sanoin tai soitolla                         |
-| **Jack of All Trades**      | —    | +1           | Pieni lisä kaikkiin heittoihin                                    |
-| **Song of Rest**            | —    | —            | Parantaa levon aikana                                             |
-| **Charm & Enthrall**        | —    | —            | Lumovoima ja hurmauskyky                                          |
-| **Enthralling performance** | —    | —            | Taitava esitys voi lumota ja vaikuttaa ihmisiin pitkään           |
-| **Countercharm**            | —    | —            | Bonuksena vastustaa pelkoa ja lumouksia itselle ja liittolaisille |
 
 ---
 

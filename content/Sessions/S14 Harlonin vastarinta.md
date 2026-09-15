@@ -112,5 +112,5 @@ Kylän Portilla seisoo vartijoita, heidän varjonsa venyvät lyhtyjen valossa. H
 - **Colin Ravenmaul** — Marquisatin korkea upseeri Harlonissa. Ryhmä murtautui hänen taloonsa istuttaakseen lavastuskirjeitä ja varastaakseen asiakirjoja.
 ---
 
-![[old cart man1.png]]
+
 ___

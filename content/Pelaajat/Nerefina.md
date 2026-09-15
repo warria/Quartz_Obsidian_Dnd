@@ -3,7 +3,7 @@ title: "[REDACTED] Nerefina"
 tags:
 draft:
 ---
-[REDACTED] on varjoissa liikkuva rosvo, joka vaihtaa nimeä jokaisessa kylässä paetakseen menneisyyttään. Häntä ajaa sammumaton kunnianhimo nousta aikansa suurimmaksi varkaaksi – vaikka hänen todellinen identiteettinsä on kadonnut sumuun, jopa häneltä itseltään, sillä hän ei enää muista oikeaa nimeään.
+[REDACTED] on varjoissa liikkuva rosvo, joka vaihtaa nimeä jokaisessa kylässä paetakseen menneisyyttään. Hänen todellinen nimensä on kadonnut vuosien ja lukemattomien valenimien alle, aivan kuten muistot hänen vanhemmistaan. Ainoa asia, jonka hän muistaa selvästi lapsuudestaan, on mentorinsa ja tämän toinen oppipoika, Rex... - ystävä? kilpailija ja ikuinen piiki hänen rinnallaan. Nyt [REDACTED] kulkee omia polkujaan ja tavoittelee asemaa maailman parhaana varkaana. Mutta vuosien jälkeen hän kuulee jälleen tutun nimen kuiskauksissa: Rex Maxim, varas jota kukaan ei ole koskaan onnistunut saamaan kiinni.
 
 ---
 
@@ -16,24 +16,6 @@ draft:
 - **Liikkeet:** Hiljaiset ja täsmälliset – kuin ei tuotaisi ääntä olenkaan.
 ---
 ![[REDACTED.png]]
-
-
-
-
----
-
-## **Varusteet / Inventori**
-
-- **Rapier** – Kevyt ja tarkka pistomiekka, täydellinen salamurhaajalle.
-- **Shortbow & 20 nuolta** – Hiljainen ja tehokas kaukoase.
-- **Leather Armor** – Kevyt nahkahaarniska, tarjoaa liikkuvuutta ja suojaa.
-- **2 Daggers** – Nopeat, helposti piilotettavat terät lähitaisteluun.
-- **Thieves’ Tools** – Lukkojen ja ansojen mestarin perusvarustus.
-- **Burglar’s Pack** – Sisältää köyden, lyhdyn, öljyä, viisi soihdun, ruokaa ja juomaleilin – kaikki, mitä yön varjo tarvitsee.
-- **Alchemist’s Tools** – Käytetään myrkkyjen, happojen ja pienten taikaseosten luomiseen.
-- **Letter of Introduction** – Enemmän symbolinen kuin käytännöllinen.
-- **Traveler’s Clothes** – Käytännölliset ja kuluneet vaatteet, mukautuvat erilaisiin valeasuihin.
-- **Pouch (31 gp)** – Pieni rahapussi, jossa kolikot kilisevät hiljaa.
 
 ---
 

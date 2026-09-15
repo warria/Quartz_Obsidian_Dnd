@@ -3,6 +3,7 @@ tags:
 title: Xin-Ger
 draft:
 ---
+Xin-Ger on omien teidensä vaeltaja, joka on matkannut kauas kotinsa suojista ensin etsiessään jotain – tai paremmin sanottuna jotakuta. Nyt hän yrittää jättää menneisyytensä taakseen ja toivoo nähdä maailman sellaisena kuin se todella on, sen kauneudessa ja rumuudessa. Maailmassa on niin paljon uutta nähtävää ja opittavaa, ettei Xin-Ger ennen lähtöään osannut kuvitellakaan elämää ilman perhettään. Hänen maailmansa oli aina ollut perheensä ympärillä, eikä hän koskaan ollut osannut kaivata mitään muuta.
 
 ---
 
@@ -16,20 +17,6 @@ draft:
 ---
 
 ![[Xin-gerr.png]]
-
----
-
-## **Varusteet/Inventori**
-
-- **Warhammer** – Raskas ja murskaava ase, joka rikkoo panssarit ja luut yhtä varmasti.
-- **Scale mail** – Metallisuomuista koostuva haarniska, tarjoaa hyvän suojan kohtuullisella liikkuvuudella.
-- **light Crossbow (20 nuolta)** – Luotettava etäase, sopii vihollisten heikentämiseen ennen lähitaistelua.
-- **Explorer's pack** – Sisältää perusvarusteet matkantekoon ja selviytymiseen tuntemattomilla seuduilla.
-- **shield** – Tukeva kilpi, joka torjuu iskut ja lisää puolustusta taistelussa.
-- **a holy symbol** – Pyhä merkki, joka edustaa uskoa ja toimii kanavana jumalalliselle voimalle.
-- **Hunting trap** – Teräksinen ansa, jolla voi vangita saaliin tai hidastaa vihollisia.
-- **Playing cards** – Kuluneet kortit ajanviettoon, vedonlyöntiin ja tiedon keräämiseen.
-- **A set of traveler's clothes** – Käytännölliset vaatteet, suunniteltu pitkille matkoille ja vaihteleviin olosuhteisiin.
 
 ---
 
@@ -72,14 +59,6 @@ draft:
 | **Intelligence** | 12   | +1  |                    |
 | **Wisdom**       | 20   | +5  | Pääasiallinen kyky |
 | **Charisma**     | 16   | +3  |                    |
-
----
-
-## ✨ **Erikois Kyvyt**
-
-| Kyky      | Arvo            | Mod                                                            | Huomio                                            |
-| --------- | --------------- | -------------------------------------------------------------- | ------------------------------------------------- |
-| **Alert** | +5 (Initiative) | Passiivinen etu havainnoinnissa ja etuoikeus aloittaa taistelu | Et voi yllättää, olet aina valppaana ympäristölle |
 
 ---
 

@@ -156,6 +156,8 @@ ___
 
 - Session 14 - [[S14 Harlonin vastarinta]]
 
-- Session 15 - [[S15]]
+- Session 15 - [[S15 Let it burn]]
+
+- Session 16 - [[S16]]
 
 ---
