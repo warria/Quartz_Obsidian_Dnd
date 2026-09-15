@@ -43,7 +43,7 @@ Nykyhetkessä Jaconia on jakautunut ihmisten ja taikaolentojen kesken, mutta rau
 
 
 ---
-## monologi Session 14
+## monologi Session 15
 
 #### KERTOJA
 
@@ -73,9 +73,9 @@ I suppose...
 we'll find out soon enough."
 
 ---
-
 ![[nuoli.jpg]]
 
+---
 #### Kuvaus alussa
 
 Vielä hetki sitten pengoitte Colin Ravenmaulin, kylän armeijan kapteenin, työhuonetta.  
@@ -101,8 +101,10 @@ Swomp. 
 
 Verta niin paljon verta 
 
+---
 ![[blood_neck.jpg]]
 
+---
 Colinin kädet syöksyvät vaistomaisesti hänen kaulalleen, ja hänen kätensä peittyvät välittömästi lämpimään vereen. 
 Verta alkaa valua Colini kaulasta alas, nuolen vartta pitkin.
 
@@ -144,6 +146,7 @@ Kaupungin uumenista alkaa kuulua hälytyskellojen ääntä.
 Huudot täyttävät kadut.
 Ja yön hiljaisuuden rikkoo yhä voimistuva sireenien ulvonta, kun vartijat ja palokunta kiiruhtavat kohti leviävää tulipaloa.
 
+---
 ![[palavat_talo 1.jpg]]
 
 ---
