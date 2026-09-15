@@ -73,6 +73,7 @@ how many little mice will still be breathing when it does?
 I suppose...
 we'll find out soon enough."
 
+---
 ![[nuoli.jpg]]
 
 ---
@@ -97,11 +98,11 @@ Hänen olonsa rentoutuu ja hänen silmissään pomppii Ymmärrys. tunnistaminen
 Hän katsoo teitä kohti ja huutaa sanat:
 "Valkoinen kruunu... kul—"
 
-Swomp. 
-
-Verta niin paljon verta
+**Swomp**
 
 ![[blood_neck.jpg]]
+
+Verta niin paljon verta
 
 Colinin kädet syöksyvät vaistomaisesti hänen kaulalleen, ja hänen kätensä peittyvät välittömästi lämpimään vereen. 
 Verta alkaa valua Colini kaulasta alas, nuolen vartta pitkin.
