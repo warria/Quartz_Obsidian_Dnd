@@ -3,6 +3,7 @@ tags:
 title: Session 15
 draft:
 ---
+# Let it burn
 ---
 
 **Päiväys:** 18.7.2026  
