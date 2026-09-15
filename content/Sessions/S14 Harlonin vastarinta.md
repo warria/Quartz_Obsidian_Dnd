@@ -103,8 +103,6 @@ Kun party tutki Ravenmaulin toimistoa, he kuulivat tämän saapuvan kotiin. Aske
 - Ena näkee unta mustasta merestä ja tuntee hukkuvansa.
 - Herätessään Ena yskii suustaan mustaa mönjää.
 
-![[Xin-ger_Ena.jpg]]
-
 - Xin-Ger ja Enthyra alkavat tutkia Salenin antamaa kirjettä vastoin ohjeita.
 - He onnistuvat murtamaan Thieves' Cant -salakirjoituksen.
 - Kirje paljastaa tietoa Marquisatin joukkojen liikkeistä.
