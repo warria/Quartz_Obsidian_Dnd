@@ -71,6 +71,8 @@ Raunioituneen majatalon edessä odotti kuitenkin vielä pahempi yllätys. Andrew
 - Lucifer sitoutui vahingossa kirottuun laukkuun.
 - Kävelevä "Käsi" liittyy pysyvästi ryhmän mukaan.
 
+![[rats.jpeg]]
+
 #### Haudat ja rotat
 
 - Neljä vanhaa hautaa sisältävät luurankoja ja rikkinäitä miekkoja.
@@ -115,6 +117,8 @@ Raunioituneen majatalon edessä odotti kuitenkin vielä pahempi yllätys. Andrew
 - Hirviö jahtaa artefaktia kantavaa Enaa.
 - Ryhmä taistelee samalla kun sali alkaa romahtaa.
 - Romenoor teleporttaa koko ryhmän pois viime hetkellä.
+
+![[Ena_taikaesine.png]]
 
 #### Paluu Phandaliniin
 

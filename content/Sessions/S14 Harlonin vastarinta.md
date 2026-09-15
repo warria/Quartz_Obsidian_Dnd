@@ -51,6 +51,8 @@ Ryhmä onnistui kuitenkin istuttamaan lavastuskirjeet ja löysi samalla mielenki
 
 Kun party tutki Ravenmaulin toimistoa, he kuulivat tämän saapuvan kotiin. Askeleet lähestyivät ovea, joten ryhmä juoksi toimiston halki ikkunalle ja hyppäsivät ulos juuri sillä hetkellä, kun toimiston ovi avautui.
 
+![[salen npc.jpg]]
+
 ---
 
 ## Tapahtumat
@@ -73,6 +75,8 @@ Kun party tutki Ravenmaulin toimistoa, he kuulivat tämän saapuvan kotiin. Aske
 - Jäljellä on vain pieni joukko piileskeleviä selviytyjiä.
 - Salen pyytää ryhmää kuljettamaan salatun kirjeen Crowmarshiin, sillä kuulemma ovat jo valmiiksi menossa siihen suuntaan.
 - Kirje sisältää tietoa Marquisatin joukkojen liikkeistä ja tulevasta tapaamisesta.
+
+![[tunnelit_maan_alla.jpg]]
 
 #### Vastarinnan jäsenet
 
@@ -99,12 +103,16 @@ Kun party tutki Ravenmaulin toimistoa, he kuulivat tämän saapuvan kotiin. Aske
 - Ena näkee unta mustasta merestä ja tuntee hukkuvansa.
 - Herätessään Ena yskii suustaan mustaa mönjää.
 
+![[Xin-ger_Ena.jpg]]
+
 - Xin-Ger ja Enthyra alkavat tutkia Salenin antamaa kirjettä vastoin ohjeita.
 - He onnistuvat murtamaan Thieves' Cant -salakirjoituksen.
 - Kirje paljastaa tietoa Marquisatin joukkojen liikkeistä.
 - Kirje sisältää evakuointikäskyn.
 - Kirjeessä mainitaan salaperäinen Mestari V.
 - Mestari V herättää erityisesti Xin-Gerin ja Romenoorin kiinnostuksen.
+
+![[sala_kirje.jpg]]
 
 #### Karrun suunnitelma
 
@@ -133,6 +141,8 @@ Kun party tutki Ravenmaulin toimistoa, he kuulivat tämän saapuvan kotiin. Aske
 - Ena saa kirouksen, jossa kuvitteellinen anoppi alkaa arvostella kaikkea hänen tekemäänsä.
 - Pääsevät Työhuoneeseen ja lukitsevat oven takanaan ettei elävät haarniskat pääsisi ryhmän kimpuun.
 
+![[enemy animeited1.jpg]]
+
 #### Asiakirjat ja pako
 
 - Ryhmä istuttaa **Ravenmaulin** taloon lavastuskirjeet.
@@ -142,6 +152,8 @@ Kun party tutki Ravenmaulin toimistoa, he kuulivat tämän saapuvan kotiin. Aske
 - Askeleet lähestyvät toimiston ovea.
 - Ryhmä juoksee toimiston ikkunalle.
 - Kaikki hyppäävät ulos juuri sillä hetkellä, kun toimiston ovi avautuu.
+---
+![[Liitouman_tunneleissa.png]]
 
 ---
 ## monologi Session 14
