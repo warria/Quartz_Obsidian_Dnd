@@ -73,7 +73,6 @@ how many little mice will still be breathing when it does?
 I suppose...
 we'll find out soon enough."
 
----
 ![[nuoli.jpg]]
 
 ---
@@ -100,12 +99,10 @@ Hän katsoo teitä kohti ja huutaa sanat:
 
 Swomp. 
 
-Verta niin paljon verta 
+Verta niin paljon verta
 
----
 ![[blood_neck.jpg]]
 
----
 Colinin kädet syöksyvät vaistomaisesti hänen kaulalleen, ja hänen kätensä peittyvät välittömästi lämpimään vereen. 
 Verta alkaa valua Colini kaulasta alas, nuolen vartta pitkin.
 
@@ -134,7 +131,9 @@ Vain yksi ainoa kirkkaan sininen valonpilkahdus.
 Sitten...
 
 **BOOOOOM**!
+
 ![[räjähddys.jpg]]
+
 Korvia repivä räjähdys halkaisee yön, 
 Silmiä sokaiseva valonvälähdys nielee kaiken näkyvistänne.
 
@@ -147,7 +146,6 @@ Kaupungin uumenista alkaa kuulua hälytyskellojen ääntä.
 Huudot täyttävät kadut.
 Ja yön hiljaisuuden rikkoo yhä voimistuva sireenien ulvonta, kun vartijat ja palokunta kiiruhtavat kohti leviävää tulipaloa.
 
----
 ![[palavat_talo 1.jpg]]
 
 ---
