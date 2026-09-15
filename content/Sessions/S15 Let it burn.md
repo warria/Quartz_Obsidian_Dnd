@@ -101,6 +101,8 @@ Swomp. 
 
 Verta niin paljon verta 
 
+![[blood_neck.jpg]]
+
 Colinin kädet syöksyvät vaistomaisesti hänen kaulalleen, ja hänen kätensä peittyvät välittömästi lämpimään vereen. 
 Verta alkaa valua Colini kaulasta alas, nuolen vartta pitkin.
 
@@ -129,7 +131,7 @@ Vain yksi ainoa kirkkaan sininen valonpilkahdus.
 Sitten...
 
 **BOOOOOM**!
-
+![[räjähddys.jpg]]
 Korvia repivä räjähdys halkaisee yön, 
 Silmiä sokaiseva valonvälähdys nielee kaiken näkyvistänne.
 
@@ -141,10 +143,6 @@ Hetkeä myöhemmin liekit syöksyvät ulos rakennuksesta. Työhuoneesta ei ole e
 Kaupungin uumenista alkaa kuulua hälytyskellojen ääntä.
 Huudot täyttävät kadut.
 Ja yön hiljaisuuden rikkoo yhä voimistuva sireenien ulvonta, kun vartijat ja palokunta kiiruhtavat kohti leviävää tulipaloa.
-
-
-
-![[räjähddys.jpg]]
 
 ![[palavat_talo 1.jpg]]
 
