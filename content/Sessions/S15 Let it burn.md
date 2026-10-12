@@ -31,10 +31,33 @@ Nykyhetkessä Jaconia on jakautunut ihmisten ja taikaolentojen kesken, mutta rau
 
 ## Yhteenveto
 
+Ryhmä pakenee Colin Ravenmaulin talosta hyppäämällä ikkunasta. Colin tunnistaa heidät vastarintaan liittyviksi ja yrittää sanoa salasanan, mutta hänet ammutaan kaulaan ennen kuin hän ehtii lausua sitä loppuun. Nuolessa on pieni kilisevä pussi, johon osuu toinen, sinisen energian ympäröimä nuoli. Pussi räjähtää valtavasti, tuhoten osan talon yläkerrasta ja sytyttäen rakennuksen tuleen. Räjähdys paiskaa ryhmän maahan, ja Enan päähän osuu putoava rakennuksen osa, jolloin hän menettää tajuntansa.
 
+Enthyra kantaa Enan kohti sepänpajaa, Xin-Ger ja Lucifer perässä. Xin-Ger palaa hetkeksi palavan talon luo selvittämään tilannetta. Hän ei löydä selviytyjiä ja saa armeijan sotilaalta kuulla, ettei paikalle voida lähettää lisää joukkoja, koska toinen suunnitelma on jo käynnissä. Xin-Ger palaa sepänpajalle, mutta sytyttää matkalla armeijan ruokakojun tuleen. Sillä välin sepänpajassa Enthyra lupaa odottaa Xin-Ger paluuta sillävälin kun Lucifer vie tajuttoman Enan vastarinnan tunneleihin turvaan. Hetken päästä kaikki ovat yhdessä tunneleissa.
 
+Romenoor auttaa Enan kanssa ja kysyy ryhmältä, mitä oikein tapahtui. Salenin ääni kaikuu tunneleissa, kun hän raivoaa Karrulle Ravenmaulin talon tapahtumista. Sitten hän kääntyy ryhmän puoleen ja vaatii selitystä räjähdykselle sekä syytä sille, miksi he olivat Ravenmaulin talossa. Enthyra huomaa Karrun yrittävän poistua tilanteesta ja seuraa tätä.
 
+Karru menee kahden muun henkilön luokse, jotka tuovat tynnyreitä suureen vastarinnan saliin. Keskustelusta selviää, että Karru oli huijattu uskomaan Ravenmaulin syrjäyttämisen olevan vastarinnalle hyödyksi. Enthyra astuu keskusteluun ja kyseenalaistaa tynnyreitä sekä kysyy suoraan, aikovatko he räjäyttää koko paikan. Iso ihmis­mies heittää Enthyralle kolikkopussin, kiittää häntä ja ryhmää avusta ja kehottaa heitä olemaan työntämättä nenäänsä muiden asioihin.
 
+Enthyra ottaa rahat ja lähtee varoittamaan muuta ryhmää.
+
+Ennen kuin Enthyra ehtii varoittaa muita mies juoksee saliin huutaen piirityksestä ja armeijasta kunnes nuoli menee hänen päänsä läpi ja hän kaatuu maahan pää edellä paljastaen selän joka on täynnä nuolia , armeija hyökkää tunneleihin ja piirittää vastarinnan. Sotilaat muodostavat kilpimuureja, joiden yhteyteen syntyy maagisia muureja, ja uloskäynnit suljetaan. Karrun niin sanotut ystävät pääsevät poistumaan paikalta, kun armeija antaa heille tietä. Tynnyreihin ammutaan sytytetty nuoli, mikä aiheuttaa valtavan räjähdyksen.
+
+Valtava räjähdys on tapahtumassa, joka tappaisi koko vastarinnan väen, joka ikisen ihmisen tunneleissa paitsi armeijan. Mutta jokin tai joku estää sen...
+
+Kuin aistien lähestyvän räjähdyksen, Ena nousee yhtäkkiä koomastaan. Hän säikäyttää ympärillään olevat eikä vastaa heidän kysymyksiin voinistaan, mykkänä hän lähtee kävelemään rauhallisesti kaikkien heidän ohi  kohti tapahtuvaa kaaosta. Paniikissa olevat vastarinnan jäsenet juoksevat Enan ohitseen vastakkaiseen suuntaan, kohti mitä tahansa pakoreittiä, kun taas Ena kävelee suoraan kohti mellakkaa ja lähestyvää räjähdystä.
+
+Ena ohittaa Enthyraan juuri sillä hetkellä, kun hän on kääntymässä takaisin varoittamaan muita, samalla hetkellä kun räjähdys tapahtuu.
+
+Ena heilauttaa kättään ja luo valtavan maagisen suojakilven, joka peittää suuren osan vastarinnan väestä ja suojaa heidät räjähdykseltä. Suurin osa selviää, mutta ei kaikki.
+
+Enthyra seisoo pysähtyneenä sumun hälvetessä ja korvien ringigän loppuessa, hän kutsuu enan nimeään. Ena kääntyy katsomaan häntä, ja hetken ajan hänen silmänsä välähtävät mustina. Sitten hän kääntyy takaisin armeijan sotilaita kohti jotka alkavat lähestyä.
+
+Armeijan vallatessa tunneleita ryhmä yrittää epätoivoisesti löytää tien ulos. Romenoor alkaa teleportata ihmisiä yksi kerrallaan turvaan, Lilja ensimmäisenä. Vähitellen ryhmä onnistuu pääsemään tunneleista ulos yhdessä useiden vastarinnan jäsenten kanssa. Myös Salen ja useita muita onnistuu pakenemaan.
+
+Kun ryhmä on päässyt takaisin ylös, Enthyra yrittää lähestyä Enaa ja koskettaa tätä olkapäälle. Ena kääntyy, ja hänen silmänsä välähtävät jälleen mustina. Hän näyttää sekavalta ja kärsivän kovan päänsäryn kaltaisesta kivusta.
+
+Enthyra huomaa, että Enan sormien väri on alkanut muuttua. Hänen sormiinsa ilmestyy mustien suonten kaltaisia kuvioita, jotka näyttävät leviävän hitaasti hänen ihollaan. Samalla Enan mukana oleva artefakti alkaa hohtaa.
 
 ---
 
