@@ -7,6 +7,7 @@ draft:
 
 Tämä sivu sisältää listan D&D-kampanjan aikana tavatuista NPC-hahmoista, heidän taustoistaan, tuntomerkeistään ja suhteistaan ryhmään. Hakemisto päivittyy kampanjan edetessä.
 
+---
 ## Tärkeät NPC:t
 
 - [[Romenoor Belos]] - Salaperäinen haltia, joka väittää tulleensa lavastetuksi vaimonsa murhasta. [[Livia]]n isä, joka haluaa vapauttaa tyttärensä. Epäluotettava ja [[Sho Dusk]]in vihollinen.
@@ -25,10 +26,9 @@ Tämä sivu sisältää listan D&D-kampanjan aikana tavatuista NPC-hahmoista, he
     
 - [[Salen Grayfist]] - Harlonin vastarinnan johtaja ja entinen rikollinen. Pyytää ryhmää kuljettamaan salatun kirjeen [[Crowmarsh]]iin.
     
-
+---
 ## Vankila
-
-#### Vartijat/Armeija
+### Vartijat/Armeija
 
 - [[Sam Redraven]] - Suurikokoinen, pitkähiuksinen ja ystävällinen perheenisä. Auttoi salaa vankeja ja [[Ret]]in pakosuunnitelmaa, mutta nähtiin myöhemmin Marquisatin riveissä.
     
@@ -62,8 +62,8 @@ Tämä sivu sisältää listan D&D-kampanjan aikana tavatuista NPC-hahmoista, he
     
 - [[Marquisatin armeija]] - Sotilasorganisaatio, jonka riveissä [[Andrew Gelder]], [[Sam Redraven]] ja [[Vic]] nähtiin myöhemmissä tapahtumissa.
     
-
-#### Vangit
+---
+### Vangit
 
 - [[Ret]] - Goblinjohtaja, jonka pakosuunnitelmat epäonnistuvat usein. Toimi ryhmän oppaana vankilan käytävissä ja katakombeissa.
     - [[Bait]]
@@ -98,7 +98,7 @@ Tämä sivu sisältää listan D&D-kampanjan aikana tavatuista NPC-hahmoista, he
     
 - [[Tilk Zorkin lapset]] - [[Tilk Zork]]in lapset, joiden luo hän haluaa päästä. Nimiä ja tarkempia tietoja ei ole annettu.
     
-
+---
 ## Muut NPC
 
 - [[Salen Grayfist]] - Harlonin vastarinnan johtaja ja entinen rikollinen, jonka poskessa on [[Artanten varkaat|Artanten varkaiden]] merkki. Pyytää ryhmää kuljettamaan salatun kirjeen [[Crowmarsh]]iin.
@@ -177,7 +177,7 @@ Tämä sivu sisältää listan D&D-kampanjan aikana tavatuista NPC-hahmoista, he
     
 - [[Dire wolfit]] - [[Warth]]in raunioiden ulkopuolella kohdattu uhka. [[Sho Dusk]] kertoi, ettei niiden näkeminen siellä ole tavallista.
     
-
+---
 ## Viholliset
 
 - [[Erowitsh Wood]] - Rasistinen kenraali, joka lähettää vankeja rintamalle.
