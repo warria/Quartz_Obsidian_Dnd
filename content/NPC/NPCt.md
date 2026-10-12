@@ -5,130 +5,153 @@ draft:
 ---
 # 📜 NPC-hakemisto
 
-> [!abstract] Kampanjan henkilöhakemisto  
-> Tähän on koottu kampanjassa kohdatut NPC-hahmot. Lyhyet kuvaukset auttavat muistamaan, kuka kukin on. Avaa hahmon linkki lukeaksesi lisää hänen taustastaan, suhteistaan ja tapahtumistaan.
+## Tärkeät NPC:t
 
-## Vartijat ja armeija
-
-#### Vankilan vartijat
-
-- [[Sam Redraven]] - Iso ja ystävällinen vartija, perheellinen mies, joka kohtelee vankeja hyvin.
+- [[Romenoor]] -
     
-- [[Andrew Gelder]] - Kömpelö mutta hyvää tarkoittava blondi vartija, joka vaikutti läheiseltä Romenoorin kanssa.
+* [[Livia]] -
     
-- [[Vic]] - Pitkä, laiha ja rasistinen vartija, joka kohtelee vankeja väkivaltaisesti.
+* [[Sho]] -
     
-- [[Isaac]] - Arpi poskessa, rasistinen mutta tunnollinen vartija.
+* [[Kulta Tuuli]]  -
     
-- [[Mira]] - Pitkä mustatukkainen, narsistinen ja laiska vartija.
+* [[Nestor]] -
     
-- [[Cassidy]] - Nuori, pienikokoinen vartija, joka tuo ruokaa ja juttelee vangeille.
+* [[Andrew]] - 
     
-- [[Nicola]] - Rento, siilitukkainen vartija, joka soittaa huuliharppua.
+- [[Ret]] -
     
-- [[Pei]] - Punatukkainen ja pisamainen vartija, joka pitää ruoasta.
-    
-- [[Ven]] - Kalju vartija, jolla on arpi oikean silmän kohdalla.
-    
-- [[Dan]] - Lihaksikas ja kokenut vartija, joka kertoo mielellään tarinoita.
-    
-- [[Wendell]] - Tiukka ja väkivaltainen vartija, joka kohtelee vankeja rajusti.
-    
-- [[Mhical]] - Masentunut ja epäsiisti vartija, joka kamppailee alkoholin kanssa.
+* [[Salen]] - 
 	
-* [[Marqusat Armeija]] - Armeijaan liittyvä NPC; tarkemmat tiedot lisätään myöhemmin.
+* 
 
-#### Vankilan johto
+## Vankila
 
-- [[Erowitsh Wood]] - Vanha ja kokenut kenraali, joka lähettää vankeja eturintamalle.
+### Vartijat/Armeija
+
+- [[Sam Redraven]] — Suurikokoinen, pitkähiuksinen ja ystävällinen perheenisä.
     
-- [[Zeldon Gelder]] - Vanha ritari ja vankilan johtaja, joka noudattaa ylempiensä käskyjä.
+- [[Andrew Gelder]] — Vaaleahiuksinen ja kömpelö, mutta yritteliäs ja ystävällinen. Vaikutti läheiseltä Romenoorin kanssa.
+    
+- [[Vic]] — Pitkä, laiha ja ruskeahiuksinen rasisti, joka kohtelee vankeja huonosti.
+    
+- [[Isaac]] — Poskessa arpi. Rasisti, mutta hoitaa työnsä kunnolla.
+    
+- [[Mira]] — Pitkä musta tukka, itsekeskeinen diiva ja laiska.
+    
+- [[Cassidy]] — Nuori ja pienikokoinen, kiharat hiukset. Tuo vangeille ruokaa ja juttelee heidän kanssaan.
+    
+- [[Nicola]] — Siilitukka, rento ja soittaa huuliharppua.
+    
+- [[Pei]] — Pisamainen punapää, joka pitää ruoasta ja hoitaa työnsä kunnolla.
+    
+- [[Ven]] — Kalju, arpi oikean silmän vieressä. Hoitaa työnsä.
+    
+- [[Dan]] — Lihaksikas ja kokenut vartija, joka kertoo äänekkäästi tarinoita.
+    
+- [[Wendell]] — Lyhyet mustat hiukset ja parta. Ankara ja kovakourainen vankeja kohtaan.
+    
+- [[Mhical]] — Masentunut, epäsiisti ja alkoholisoitunut, mutta yrittää hoitaa työnsä.
+    
+- [[Erowitsh Wood]] — Kenraali. Vanha ja kokenut johtaja, joka lähettää vankeja rintamalle. Rasistinen, mutta selvin päin hyvä johtaja.
+    
+- [[Zeldon Gelder]] — Vankilanjohtaja ja vanha ritari, jolla on harmaa-musta tukka ja parta. Noudattaa ylempiä käskyjä.
+    
+- [[Sho Dusk]] — Vanha armeijan jäsen. Tummat vaatteet, pitkät mustat hiukset, miekka ja jousi. Sarkastinen, väsynyt ja hiljainen.
+    
+- [[Marqusat Armeija]] — Armeijaan liittyvä NPC; tarkemmat tiedot puuttuvat.
     
 
-#### Armeijan muut henkilöt
+### Vangit
 
-- [[Sho Dusk]] - Vähäpuheinen, sarkastinen armeijan veteraani, joka kantaa miekkaa ja jousta.
-    
-- [[Marqusat Armeija]] - Armeijaan liittyvä NPC; tarkemmat tiedot lisätään myöhemmin.
-    
-
----
-
-## Vangit
-
-#### Vangit
-
-- [[Romenoor Belos]] - Salaperäinen haltia, joka väittää tulleensa lavastetuksi vaimonsa murhasta. Yrittää pelastaa tyttärensä armeijalta.
-    
-- [[Ret]] - Goblinien kaoottinen johtaja, joka suunnittelee jatkuvasti epäonnistuvia pakoyrityksiä ja pitää juomisesta.
+- [[Ret]] — Peikkojohtaja, joka yrittää järjestää pakoyrityksiä.
     
     - Bait
+        
     - Brainmush
+        
     - Worm
+        
     - No-Toes
+        
     - Nagi
+        
     - Gob
+        
     - Ragg
+        
     - Rallelk
+        
     - Gallat
+        
     - Snot
+        
     - Snotnose
         
-- [[Nestor Morgar]] - Vanhempi, punainen dragonborn, jolla on armeijan tavoittelemia tärkeitä tietoja.
+- [[Nestor Morgar]] — Vanhempi punainen lohikäärmesyntyinen, joka ei halua jäädä kiinni. Hänellä on armeijan haluamia tärkeitä tietoja.
     
-- [[Tibby Zelin]] - Valkoturkkinen harengon, joka osallistuu pakosuunnitelmaan ja varoittaa ryhmää luottamasta Romenooriin.
+- [[Tibby Zelin]] — Valkoturkkinen jänissyntyinen, ystävällinen ja levoton. Järjestelee pakosuunnitelmaa ja varoittaa: ”Älä luota Romenooriin.”
     
-- [[Tilk Zork]] - Suuri bugbear-äiti, joka haluaa päästä takaisin lastensa luokse.
+- [[Tilk Zork]] — Suuri ja pelottava bugbear-äiti, joka haluaa päästä lastensa luo eikä siedä meteliä.
     
-- [[Valser Darkwood]] - Älykäs gnome, entinen alkemisti ja taitava rakentelija.
+- [[Valser Darkwood]] — Älykäs gnomi, keksijä, rakentaja ja entinen alkemisti. Auttaa Tibbyä pakosuunnitelmassa.
     
-- [[Mexs]] - Salaperäinen tiefling, joka pyörittää salaista liiketoimintaa.
+- [[Mexs]] — Salaperäinen tiefling, jonka motiiveihin ei voi luottaa. Pääsee sellistään epäilyttävistä syistä.
     
-- [[Lare Ironwatc]] - Suuri ja itsepäinen centaur, joka luottaa lähinnä itseensä.
+- [[Lare Ironwatc]] — Suuri ja lihaksikas kentauri. Itsepäinen, varautunut ja luottaa vain itseensä.
     
-- [[Falac Mist]] - Vetäytyvä, musta panterimainen tabaxi, jonka poskessa on varkaan merkki.
+- [[Falac Mist]] — Mustaa pantteria muistuttava tabaxi, jolla on varkaan merkki poskessaan. Varautunut ja hiljainen.
     
-- [[Lu Wan]] - Hiljainen tortle, jonka kilpi on täynnä naarmuja ja riimuja. Puhuu kohtalosta ja jumalista.
+- [[Lu Wan]] — Kilpikonnamainen tortle, jonka suuressa kilvessä on naarmuja ja riimuja. Vakava ja hiljainen, puhuu kohtalosta ja jumalista.
     
-- [[Nimeämätön örkkisotilas]] - Vanha sotilas, joka vastustaa teloitustaan ja haluaa palata kotiin.
-    
----
-
-## Muut NPC
-
-- [[Salen Grayfist]] - Ihminen ja vastarintaan liittyvä hahmo.
-    
-- [[Karru Bivr]] - Kääpiö, joka joutui huijatuksi uskomaan Ravenmaulin syrjäyttämisen hyödyttävän vastarintaa. Kolby Bivirin veli.
-    
-- [[Kolby Bivir]] - Kääpiö ja Karru Bivrin veli.
-    
-- [[Bella Smugbelt]] - Kääpiö.
-    
-- [[Gloth]] - Örkki.
-    
-- [[Agdon Longscarf]] - Harengon.
-    
-- [[Thorgar]] - Puoliörkki.
-    
-- [[Rim]] - Tabaxi.
-    
-- [[Lilja Walthal]] - Haltia, joka pääsi ensimmäisten joukossa turvaan tunneleista. Varic Walthalin tytär.
-    
-- [[Varic Walthal]] - Haltia ja Lilja Walthalin isä.
-    
-- [[Helm]] - Tiefling.
-    
-- [[Fom Bivrisk]] - Tiefling.
-    
-- [[Old Man Arvin]] - Vanhempi mies, jonka tarkemmat tiedot odottavat täydentämistä.
-    
-- [[Colin Ravenmaul]] - Hahmo, jonka talosta ryhmä pakeni. Tunnisti ryhmän vastarintaan liittyväksi ennen kuolemaansa.
-	
-- [[Kulta Tuuli (Owen)]] — Kultatukkainen haltia ja viulisti, joka kutsuu itseään Jaconian parhaaksi muusikoksi.
-    
-- [[Livia (Lili)]] — Ystävällinen noitanainen, joka pyörittää taianomaista majataloa.
-    
-- [[Mona]] — Majatalon vahvarakenteinen örkkiportsari, joka pitää järjestystä ja vaikuttaa kiinnostuneelta Luciferista.
+- [[Nimetön örkkisotilas]] — Vanha sotilas, joka vastustaa teloitusta ja haluaisi päästä kotiin.
     
 
----
+## Muut NPC:t
+
+- [[Salen Grayfist]] — Ihminen, jolla on yhteyksiä vastarintaan. Raivostuu Karrulle Ravenmaulin räjähdyksen vuoksi.
+    
+- [[Karru Bivr]] — Kääpiö ja Kolby Bivirin veli. Hänet huijattiin uskomaan, että Ravenmaulin syrjäyttäminen auttoi vastarintaa.
+    
+- [[Kolby Bivir]] — Kääpiö ja Karru Bivirin veli.
+    
+- [[Bella Smugbelt]] — Kääpiö.
+    
+- [[Gloth]] — Örkki.
+    
+- [[Agdon Longscarf]] — Jänissyntyinen.
+    
+- [[Thorgar]] — Puoliörkki.
+    
+- [[Rim]] — Tabaxi.
+    
+- [[Lilja Walthal]] — Haltia ja Varic Walthalin tytär. Pakeni tunneleista ensimmäisenä.
+    
+- [[Varic Walthal]] — Haltia ja Liljan isä.
+    
+- [[Helm]] — Tiefling.
+    
+- [[Fom Bivrisk]] — Tiefling.
+    
+- [[Old Man Arvin]] — Vanhempi mies; tarkemmat tiedot puuttuvat.
+    
+- [[Colin Ravenmaul]] — Talon omistaja, jonka luo ryhmä pakeni. Tunnisti ryhmän vastarinnaksi, mutta hänet ammuttiin kaulaan ennen kuin hän ehti kertoa salasanaa.
+    
+- [[Kulta Tuuli]] / [[Owen]] — Pitkä, kultahiuksinen ja vihreäsilmäinen haltia. Viulisti, joka väittää olevansa Jaconian paras muusikko.
+    
+- [[Livia]] / [[Lili]] — Nuori sinisilmäinen noita hienossa mekossa. Ystävällinen ja pyörittää maagista majataloa.
+    
+- [[Mona]] — Liviaan liittyvän majatalon örkkijärjestyksenvalvoja. Pitkä ja vahva, tummansinertävä iho ja tummanruskeat letit. Ammattimainen ja pelottava; vaikuttaa kiinnostuneelta Luciferista.
+    
+
+## Viholliset
+
+- [[Erowitsh Wood]] — Rasistinen kenraali, joka lähettää vankeja rintamalle.
+    
+- [[Vic]] — Rasistinen vartija, joka pahoinpitelee ja nöyryyttää vankeja.
+    
+- [[Isaac]] — Rasistinen vartija.
+    
+- [[Wendell]] — Kovaotteinen ja ankara vartija.
+    
+- [[Colin Ravenmaul]] — Kuolemaansa liittyvät tapahtumat ja yhteys vastarintaan voivat olla tarinan kannalta merkittäviä.
