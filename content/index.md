@@ -13,7 +13,18 @@ Muinaiset **Velhokuninkaat** ovat kuolleet kauan sitten, eikä kukaan enää mui
 Nykyhetkessä maa on jakautunut ihmisten ja taikaolentojen kesken. Rauha on kuitenkin hauras: taikuutta pelätään, taikaolentoja halveksitaan ja pohjoisessa ihmisten välinen sodan uhka kasvaa. Maan keski osassa sijaitseva Jaconian pääkaupunki **Farrignia** se on valtakunnan sydän – ja seikkailujen lähtöpiste.
 
 ---
+## Sivu lista
 
+* Maailman NPC - [[NPCt]]
+
+* Kaikki opittu Lore - [[Lore]]
+
+* Vastaan tulleet tehtävät - [[Tehtävät]]
+  
+* Vastaan tulleet ilmoitukset - [[ilmoitukset]]
+
+* Muu - [[Muu]]
+---
 ![[kartta_jaettu1.png]]
 
 # Pelaajat & hahmot
@@ -41,18 +52,6 @@ Nykyhetkessä maa on jakautunut ihmisten ja taikaolentojen kesken. Rauha on kuit
 ---
 ![[party2.png]]
 
----
-# Tärkeimät sivut:
-
-* Maailman NPC - [[NPCt]]
-
-* Kaikki opittu Lore - [[Lore]]
-
-* Vastaan tulleet tehtävät - [[Tehtävät]]
-  
-* Vastaan tulleet ilmoitukset - [[ilmoitukset]]
-
-* Muu - [[Muu]]
 ---
 ## 🌍 Maailma lyhyesti
 
