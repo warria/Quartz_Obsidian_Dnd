@@ -1,6 +1,6 @@
 ---
 tags:
-title: Maailman NPC:t
+title: NPCt
 draft:
 ---
 # 📜 NPC-hakemisto

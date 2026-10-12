@@ -1,0 +1,52 @@
+.npc-search {
+  margin: 1rem 0 1.5rem;
+  padding: 1rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 12px;
+  background: var(--light);
+}
+
+.npc-search label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+}
+
+.npc-search input {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--gray);
+  border-radius: 8px;
+  background: var(--light);
+  color: var(--dark);
+  font: inherit;
+}
+
+#npc-search-results {
+  display: grid;
+  gap: 0.25rem;
+  margin-top: 0.5rem;
+}
+
+#npc-search-results a {
+  display: block;
+  padding: 0.5rem 0.75rem;
+  border-radius: 6px;
+  text-decoration: none;
+}
+
+#npc-search-results a:hover,
+#npc-search-results a:focus {
+  background: var(--highlight);
+}
+
+.npc-search-empty {
+  margin: 0;
+  padding: 0.5rem 0.75rem;
+  color: var(--darkgray);
+}
+
+article li[id^="npc-"] {
+  scroll-margin-top: 5rem;
+}
