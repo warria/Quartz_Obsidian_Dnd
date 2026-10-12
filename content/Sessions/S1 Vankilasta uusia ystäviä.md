@@ -37,6 +37,7 @@ Nykyhetkessä Jaconia on jakautunut ihmisten ja taikaolentojen kesken, mutta rau
 - Siirto suurten sellien puolelle muiden taikaolentojen joukkoon.
 - Tutustuvat uusiin NPC:ihin: Romenoor, Ret, Tibby.
 - Saa tietää puheessa että vangit lähetetään eturintamalle.
+- Lucifer ei tykkää kuulemastaan ja keskeyttää puheen -> ena joutuu ottamaan syyt niskoilleen.
 - Pakoyritys epäonnistuu osittain, mutta pelaajat onnistuvat pakenemaan vartijoiden saapuessa.
 ---
 ![[vankila.png]]
@@ -49,7 +50,7 @@ Nykyhetkessä Jaconia on jakautunut ihmisten ja taikaolentojen kesken, mutta rau
 - Siirto suurten sellien puolelle muiden taikaolentojen joukkoon.
 - Tutustuminen NPC:ihin -> kato lista alhaalta
 - Kenraali pitää puheen: vangit lähetetään eturintamalle.
-- Lucifer protestoi, Ena ottaa syyt niskoilleen ja välttyy teloitukselta.
+- Lucifer protestoi, Ena ottaa syyt niskoilleen, rizz uppaa vankilan johtajan ja välttyy teloitukselta.
 - Orc teloitetaan julmasti kaikkien nähden.
 - Romenoor katoaa yhdessä Vicin kanssa.
 - Tibby kutsuu pelaajat tapaamiseen suuren puun juurelle.
@@ -78,7 +79,7 @@ Nykyhetkessä Jaconia on jakautunut ihmisten ja taikaolentojen kesken, mutta rau
 
 - **Kenraali (Erowitsh Wood)** – vanha ja kokenut, komentaa vankeja eturintamalle, rasistinen mutta selvin päin hyvä johtaja.
 - **Vankilan johtaja (Zeldon Gelder)** – vanha ritari, harmaat/mustat hiukset ja parta, noudattaa ylempiä käskyjä, keskustelee kenraalin kanssa.
-- **Ostaja (Hotch Twinwood)** – hoikahko ja salaperäinen, ystävällinen, mahdollisesti tiedonvälittäjä.
+
 ---
 
 ### Vankilan vartijat
