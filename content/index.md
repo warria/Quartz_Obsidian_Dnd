@@ -20,6 +20,8 @@ Nykyhetkessä maa on jakautunut ihmisten ja taikaolentojen kesken. Rauha on kuit
 * Maailman NPC - [[NPCt]]
 
 * Kaikki opittu Lore - [[Lore]]
+  
+* Mitä Jaconiasta löytyy - [[Maailma]]
 
 * Vastaan tulleet tehtävät - [[Tehtävät]]
   

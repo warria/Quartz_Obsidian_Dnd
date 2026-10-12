@@ -130,4 +130,3 @@ Alla lista [[Jaconia]]n kartassa näkyvistä nimetyistä paikoista:
 - Toivo: että ahneuden aloittama sota lopulta sammuu.
 
 
-![[5_hedes.png]]
