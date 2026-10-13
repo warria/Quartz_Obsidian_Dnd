@@ -5,22 +5,22 @@ draft:
 ---
 # 📜 NPC-hakemisto
 
-Kokoelma kampanjan aikana kohdatuista NPC-hahmoista, heidän taustoistaan, suhteistaan ja tärkeistä tapahtumistaan. Jokaisen hahmon kohdalla on linkki hahmosivulle sekä sessioon, jossa hän **esiintyi/mainittiin ensimmäistä kertaa**.
+Kokoelma kampanjan aikana kohdatuista NPC-hahmoista. Jokaisen hahmon kohdalla on linkki hahmosivulle sekä sessioon, jossa hän **esiintyi/mainittiin ensimmäistä kertaa**.
 
 Avaa hahmon linkki lukeaksesi lisää lempi-NPC:stäsi :3
 
 ---
 ## Tärkeät NPC
 
-- [[Romenoor Belos]] – Salaperäinen haltia ja Livian isä, jota syytetään vaimonsa murhasta. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
-- [[Andrew Gelder]] – Entinen vartija, joka kääntyi myöhemmin ryhmää vastaan. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
-- [[Ret]] – Kaoottinen goblinjohtaja ja vankilan salakäytävien tuntija. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
+- [[Romenoor Belos]] – Salaperäinen tutkija ja Livian isä, jota syytetään vaimonsa murhasta. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
+- [[Andrew Gelder]] – Entinen ystävä, joka kääntyi myöhemmin ryhmää vastaan. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
+- [[Ret]] – Kaoottinen goblinjohtaja ja pakosuunitelmien keksijä. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
 - [[Nestor Morgar]] – Punainen dragonborn ja muinaisten taikaesineiden tuntija. · **Ensiesiintyminen:** [[S2 Vankilan salaisuudet|session 2]]
 - [[Sho Dusk]] – Sarkastinen Monster Hunter, vampyyri ja Livian kasvattaja. · **Ensiesiintyminen:** [[S4 Vapaus kutsuu|session 4]]
 - [[Kulta Tuuli]] – Kultahiuksinen haltia ja itsevarma viulisti. · **Ensiesiintyminen:** [[S4 Vapaus kutsuu|session 4]]
 - [[Livia]] – Nuori noita ja maagisen majatalon omistaja. · **Ensiesiintyminen:** [[S6 Phandalin kylä|session 6]]
-- [[Kertoja]] – Salaperäinen kertojaääni, joka kommentoi sankarien kohtaloa sessioiden alussa ja lopussa. · **Ensiesiintyminen:** [[S10 Warthin Verilöylly|session 10]]
-- [[Salen Grayfist]] – Harlonin vastarinnan johtaja ja entinen rikollinen. · **Ensiesiintyminen:** [[S14 Harlonin vastarinta|session 14]]
+- [[Kertoja]] – Salaperäinen kertojaääni, joka kommentoi sankarien kohtaloa sessioiden alussa. · **Ensiesiintyminen:** [[S10 Warthin Verilöylly|session 10]]
+- [[Salen Grayfist]] – Harlonin vastarinnan johtaja. · **Ensiesiintyminen:** [[S14 Harlonin vastarinta|session 14]]
 
 ---
 ## Vankila
@@ -53,9 +53,23 @@ Avaa hahmon linkki lukeaksesi lisää lempi-NPC:stäsi :3
 - [[Lare Ironwatc]] – Suuri ja itsepäinen kentauri. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
 - [[Falac Mist]] – Hiljainen tabaxi, jolla on varkaan merkki. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
 - [[Lu Wan]] – Vakava tortle, joka puhuu kohtalosta ja jumalista. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
-- [[Nimetön örkkisotilas]] – haluaa kotiin teloituksen sijaan -> teloitetaan. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
+- [[Nimetön örkkisotilas]] – Teloitetaan puheen aikana buuaamisesta. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
 - [[Tilk Zorkin lapset]] – Lapset, joiden luo Tilk yrittää päästä. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
 - [[Nestor Morgar]] – Taikaesineiden tuntija ja entinen vanki. · **Ensiesiintyminen:** [[S2 Vankilan salaisuudet|session 2]]
+---
+## Livian majatalo ja Phandalin kylä
+
+- [[Livia]] – Nuori noita ja maagisen majatalon omistaja. · **Ensiesiintyminen:** [[S6 Phandalin kylä|session 6]]
+- [[Mona]] – Livian majatalon vahva örkkiportsari. · **Ensiesiintyminen:** [[S6 Phandalin kylä|session 6]]
+- [[Sho Dusk]] – Monster Hunter ja Livian kasvattaja. · **Ensiesiintyminen:** [[S4 Vapaus kutsuu|session 4]]
+- [[Kulta Tuuli]] – Viulisti, joka matkaa Shon mukana. · **Ensiesiintyminen:** [[S4 Vapaus kutsuu|session 4]]
+- [[Carp]] – Kalastajan poika maatilalta. · **Ensiesiintyminen:** [[S8 Phandalin kylän askareet|session 8]]
+- [[Maatilan nuori tyttö]] – Pisamainen, letitetty tyttö, joka jahtaa kissaa. · **Ensiesiintyminen:** [[S8 Phandalin kylän askareet|session 8]]
+- [[Maatilan isäntä]] – Antoi ryhmälle neljä hevosta kiitokseksi parantavista juomista. · **Ensiesiintyminen:** [[S8 Phandalin kylän askareet|session 8]]
+- [[Maatilan emäntä]] – Sairas vaimo, jota Livian lähettämät parantavat juomat auttoivat. · **Ensiesiintyminen:** [[S8 Phandalin kylän askareet|session 8]]
+- [[Vanhus (Nerefinan tehtävä)]] – Vanha mies, jota Nerefina auttoi ja jolta hän huijasi enemmän palkkaa. · **Ensiesiintyminen:** [[S8 Phandalin kylän askareet|session 8]]
+- [[Kadonneen maatilan tyttären veli]] – Löydettiin kuolleena limakasana. · **Ensiesiintyminen:** [[S8 Phandalin kylän askareet|session 8]] (löydetty kuoleena [[S9 Warthin raunioihin|sessiossa 9]])
+- [[Hiram Quill]] – Tutkimusmatkailija, joka etsii suojelijaa raunioille. · **Ensiesiintyminen:** löydetty kuoleena [[S9 Warthin raunioihin|session 9]]
 ---
 ## Harlonin vastarinta
 
@@ -69,13 +83,6 @@ Avaa hahmon linkki lukeaksesi lisää lempi-NPC:stäsi :3
 - [[Fom Bivrisk]] – Tiefling. · **Ensiesiintyminen:** [[S14 Harlonin vastarinta|session 14]]
 - [[Old Man Arvin]] – Vanhempi mies. · **Ensiesiintyminen:** [[S14 Harlonin vastarinta|session 14]]
 ---
-## Petturit ja kaksoispelurit
-
-- [[Romenoor Belos]] – Salaperäinen haltia, joka ryösti ryhmän tavarat ja katosi. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
-- [[Andrew Gelder]] – Entinen vartija, joka kääntyi myöhemmin ryhmää vastaan. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
-- [[Bella Smugbelt]] – Kääpiö, joka toi räjähdetynnyrit vastarinnan saliin. · **Ensiesiintyminen:** [[S15 Let it burn|session 15]]
-- [[Thorgar]] – Puoliörkki, joka toi räjähdetynnyrit vastarinnan saliin. · **Ensiesiintyminen:** [[S15 Let it burn|session 15]]
----
 ## Marquisat ja armeija
 
 - [[Zeldon Gelder]] – Vankilanjohtaja ja vanha ritari, joka etsii tietoa taikaesineistä. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
@@ -86,19 +93,12 @@ Avaa hahmon linkki lukeaksesi lisää lempi-NPC:stäsi :3
 - [[Marquisatin armeija]] – Sotilasorganisaatio, jonka riveihin entisiä vartijoita liittyi. · **Ensiesiintyminen:** [[S6 Phandalin kylä|session 6]]
 - [[Colin Ravenmaul]] – Marquisatin korkea upseeri, joka ammuttiin ja räjäytettiin. · **Ensiesiintyminen:** [[S14 Harlonin vastarinta|session 14]]
 ---
-## Livian majatalo ja Phandalin
+## Petturit ja kaksoispelurit
 
-- [[Livia]] – Nuori noita ja maagisen majatalon omistaja. · **Ensiesiintyminen:** [[S6 Phandalin kylä|session 6]]
-- [[Mona]] – Livian majatalon vahva örkkiportsari. · **Ensiesiintyminen:** [[S6 Phandalin kylä|session 6]]
-- [[Sho Dusk]] – Monster Hunter ja Livian kasvattaja. · **Ensiesiintyminen:** [[S4 Vapaus kutsuu|session 4]]
-- [[Kulta Tuuli]] – Viulisti, joka matkaa Shon mukana. · **Ensiesiintyminen:** [[S4 Vapaus kutsuu|session 4]]
-- [[Carp]] – Kalastajan poika maatilalta. · **Ensiesiintyminen:** [[S8 Phandalin kylän askareet|session 8]]
-- [[Maatilan nuori tyttö]] – Pisamainen, letitetty tyttö, joka jahtaa kissaa. · **Ensiesiintyminen:** [[S8 Phandalin kylän askareet|session 8]]
-- [[Maatilan isäntä]] – Antoi ryhmälle neljä hevosta kiitokseksi parantavista juomista. · **Ensiesiintyminen:** [[S8 Phandalin kylän askareet|session 8]]
-- [[Maatilan emäntä]] – Sairas vaimo, jota Livian lähettämät parantavat juomat auttoivat. · **Ensiesiintyminen:** [[S8 Phandalin kylän askareet|session 8]]
-- [[Vanhus (Nerefinan tehtävä)]] – Vanha mies, jota Nerefina auttoi ja jolta hän huijasi enemmän palkkaa. · **Ensiesiintyminen:** [[S8 Phandalin kylän askareet|session 8]]
-- [[Kadonneen maatilan tyttären veli]] – Löydettiin kuolleena limakasana. · **Ensiesiintyminen:** [[S8 Phandalin kylän askareet|session 8]] (löydetty kuoleena [[S9 Warthin raunioihin|sessiossa 9]])
-- [[Hiram Quill]] – Tutkimusmatkailija, joka etsii suojelijaa raunioille. · **Ensiesiintyminen:** löydetty kuoleena [[S9 Warthin raunioihin|session 9]]
+- [[Romenoor Belos]] – Salaperäinen haltia, joka ryösti ryhmän tavarat ja katosi. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
+- [[Andrew Gelder]] – Entinen vartija, joka kääntyi myöhemmin ryhmää vastaan. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
+- [[Bella Smugbelt]] – Kääpiö, joka toi räjähdetynnyrit vastarinnan saliin. · **Ensiesiintyminen:** [[S15 Let it burn|session 15]]
+- [[Thorgar]] – Puoliörkki, joka toi räjähdetynnyrit vastarinnan saliin. · **Ensiesiintyminen:** [[S15 Let it burn|session 15]]
 ---
 ## Matkalla kohdatut
 
@@ -135,6 +135,7 @@ Avaa hahmon linkki lukeaksesi lisää lempi-NPC:stäsi :3
 - [[Zeldon Gelder]] – Kaatui taistelussa ryhmää vastaan. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
 - [[Isaac]] – Kuoli vankilan tulipalossa. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
 - [[Kadonneen maatilan tyttären veli]] – Muuttui limakasaksi. · **Ensiesiintyminen:** [[S8 Phandalin kylän askareet|session 8]]
+- [[Hiram Quill]] – Muutui lima kasaksi. · **Ensiesiintyminen:** [[S9 Warthin raunioihin|session 9]]
 - [[Colin Ravenmaul]] – Ammuttiin kaulaan. · **Ensiesiintyminen:** [[S14 Harlonin vastarinta|session 14]]
 ---
 ## Mysteerit ja muinaiset voimat
