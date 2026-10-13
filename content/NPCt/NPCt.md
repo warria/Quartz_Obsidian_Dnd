@@ -15,20 +15,20 @@ Avaa hahmon linkki lukeaksesi lisää lempi-NPC:stäsi :3
 - [[Romenoor Belos]] – Salaperäinen tutkija ja Livian isä, jota syytetään vaimonsa murhasta. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
 - [[Andrew Gelder]] – Entinen ystävä, joka kääntyi myöhemmin ryhmää vastaan. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
 - [[Ret]] – Kaoottinen goblinjohtaja ja pakosuunitelmien keksijä. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
-- [[Nestor Morgar]] – Punainen dragonborn ja muinaisten taikaesineiden tuntija. · **Ensiesiintyminen:** [[S2 Vankilan salaisuudet|session 2]]
-- [[Sho Dusk]] – Sarkastinen Monster Hunter, vampyyri ja Livian kasvattaja. · **Ensiesiintyminen:** [[S4 Vapaus kutsuu|session 4]]
+- [[Nestor]] – Punainen dragonborn ja muinaisten taikaesineiden tuntija. · **Ensiesiintyminen:** [[S2 Vankilan salaisuudet|session 2]]
+- [[Sho]] – Sarkastinen Monster Hunter, vampyyri ja Livian kasvattaja. · **Ensiesiintyminen:** [[S4 Vapaus kutsuu|session 4]]
 - [[Kulta Tuuli]] – Kultahiuksinen haltia ja itsevarma viulisti. · **Ensiesiintyminen:** [[S4 Vapaus kutsuu|session 4]]
 - [[Livia]] – Nuori noita ja maagisen majatalon omistaja. · **Ensiesiintyminen:** [[S6 Phandalin kylä|session 6]]
 - [[Kertoja]] – Salaperäinen kertojaääni, joka kommentoi sankarien kohtaloa sessioiden alussa. · **Ensiesiintyminen:** [[S10 Warthin Verilöylly|session 10]]
-- [[Salen Grayfist]] – Harlonin vastarinnan johtaja. · **Ensiesiintyminen:** [[S14 Harlonin vastarinta|session 14]]
+- [[Salen]] – Harlonin vastarinnan johtaja. · **Ensiesiintyminen:** [[S14 Harlonin vastarinta|session 14]]
 
 ---
 ## Vankila
 ### Vartijat ja armeija
 
 - [[Andrew Gelder]] – Kömpelö vartija, joka auttoi vankeja mutta liittyi myöhemmin Marquisatin armeijaan. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
-- [[Sam Redraven]] – Ystävällinen vartija, joka auttoi vankeja salaa. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
-- [[Vic]] – Väkivaltainen ja rasistinen vartija. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
+- [[Sam]] – Ystävällinen vartija, joka auttoi vankeja salaa. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
+- [[Vic]] – Katkera vartija ja Andrew oikea käsi · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
 - [[Isaac]] – Arpikasvoinen vartija, joka kuoli tulipalossa. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
 - [[Mira]] – Laiska vartija, jonka keihäs päätyi ryhmälle. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
 - [[Cassidy]] – Nuori vartija, joka auttoi loukkaantuneita vankeja. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
@@ -38,49 +38,48 @@ Avaa hahmon linkki lukeaksesi lisää lempi-NPC:stäsi :3
 - [[Dan]] – Lihaksikas ja tarinoita kertova vartija. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
 - [[Wendell]] – Ankara ja kovakourainen vartija. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
 - [[Mhical]] – Masentunut ja alkoholisoitunut vartija. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
-- [[Erowitsh Wood]] – Rasistinen kenraali, joka lähettää vankeja rintamalle. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
+- [[Erowitsh Wood]] – Armeijan yli kenraali, pitää puheen vankilassa vankijen lähettämisestä rintamalle. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
 - [[Zeldon Gelder]] – Vankilanjohtaja ja vanha ritari, joka etsii tietoa taikaesineistä. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
-- [[Sho Dusk]] – Väsynyt ja sarkastinen entinen sotilas. · **Ensiesiintyminen:** [[S4 Vapaus kutsuu|session 4]]
+- [[Sho]] – Väsynyt ja sarkastinen entinen sotilas. · **Ensiesiintyminen:** [[S4 Vapaus kutsuu|session 4]]
 - [[Marquisatin armeija]] – Sotilasorganisaatio, jonka riveihin entisiä vartijoita liittyi. · **Ensiesiintyminen:** [[S6 Phandalin kylä|session 6]]
 ### Vangit
 
 - [[Ret]] – Goblinjohtaja, joka suunnittelee pakoyrityksiä. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
 	* Bait · Brainmush · Worm · No-Toes · Nagi · Gob · Ragg · Rallelk · Gallat · Snot · Snotnose. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
-- [[Tibby Zelin]] – Valkoturkkinen harengon, joka varoittaa luottamasta Romenooriin. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
+- [[Tibby]] – Valkoturkkinen harengon, joka varoittaa luottamasta Romenooriin. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
 - [[Tilk Zork]] – Voimakas bugbear-äiti, joka haluaa lastensa luo. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
-- [[Valser Darkwood]] – Gnomikeksijä ja Tibbyn liittolainen. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
-- [[Mexs]] – Salaperäinen tiefling, jonka motiivit ovat epäselvät. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
-- [[Lare Ironwatc]] – Suuri ja itsepäinen kentauri. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
-- [[Falac Mist]] – Hiljainen tabaxi, jolla on varkaan merkki. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
+- [[Valser]] – Gnom keksijä ja Tibbyn liittolainen. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
+- [[Mexs]] – Salaperäinen tiefling. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
+- [[Lare]] – Suuri ja itsepäinen kentauri. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
+- [[Falac]] – Hiljainen tabaxi, jolla on varkaan merkki. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
 - [[Lu Wan]] – Vakava tortle, joka puhuu kohtalosta ja jumalista. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
 - [[Nimetön örkkisotilas]] – Teloitetaan puheen aikana buuaamisesta. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
-- [[Tilk Zorkin lapset]] – Lapset, joiden luo Tilk yrittää päästä. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
-- [[Nestor Morgar]] – Taikaesineiden tuntija ja entinen vanki. · **Ensiesiintyminen:** [[S2 Vankilan salaisuudet|session 2]]
+- [[Nestor]] – Taikaesineiden tuntija ja entinen vanki. · **Ensiesiintyminen:** [[S2 Vankilan salaisuudet|session 2]]
 ---
 ## Livian majatalo ja Phandalin kylä
 
 - [[Livia]] – Nuori noita ja maagisen majatalon omistaja. · **Ensiesiintyminen:** [[S6 Phandalin kylä|session 6]]
 - [[Mona]] – Livian majatalon vahva örkkiportsari. · **Ensiesiintyminen:** [[S6 Phandalin kylä|session 6]]
-- [[Sho Dusk]] – Monster Hunter ja Livian kasvattaja. · **Ensiesiintyminen:** [[S4 Vapaus kutsuu|session 4]]
+- [[Sho]] – Monster Hunter ja Livian kasvattaja. · **Ensiesiintyminen:** [[S4 Vapaus kutsuu|session 4]]
 - [[Kulta Tuuli]] – Viulisti, joka matkaa Shon mukana. · **Ensiesiintyminen:** [[S4 Vapaus kutsuu|session 4]]
 - [[Carp]] – Kalastajan poika maatilalta. · **Ensiesiintyminen:** [[S8 Phandalin kylän askareet|session 8]]
-- [[Maatilan nuori tyttö]] – Pisamainen, letitetty tyttö, joka jahtaa kissaa. · **Ensiesiintyminen:** [[S8 Phandalin kylän askareet|session 8]]
+- [[Maatilan tyttö]] – Pisamainen, letitetty tyttö, joka jahtaa kissaa. · **Ensiesiintyminen:** [[S8 Phandalin kylän askareet|session 8]]
 - [[Maatilan isäntä]] – Antoi ryhmälle neljä hevosta kiitokseksi parantavista juomista. · **Ensiesiintyminen:** [[S8 Phandalin kylän askareet|session 8]]
 - [[Maatilan emäntä]] – Sairas vaimo, jota Livian lähettämät parantavat juomat auttoivat. · **Ensiesiintyminen:** [[S8 Phandalin kylän askareet|session 8]]
 - [[Vanhus (Nerefinan tehtävä)]] – Vanha mies, jota Nerefina auttoi ja jolta hän huijasi enemmän palkkaa. · **Ensiesiintyminen:** [[S8 Phandalin kylän askareet|session 8]]
-- [[Kadonneen maatilan tyttären veli]] – Löydettiin kuolleena limakasana. · **Ensiesiintyminen:** [[S8 Phandalin kylän askareet|session 8]] (löydetty kuoleena [[S9 Warthin raunioihin|sessiossa 9]])
+- [[Maatilan tyttön veli]] – Löydettiin kuolleena limakasana. · **Ensiesiintyminen:** [[S8 Phandalin kylän askareet|session 8]] (löydetty kuoleena [[S9 Warthin raunioihin|sessiossa 9]])
 - [[Hiram Quill]] – Tutkimusmatkailija, joka etsii suojelijaa raunioille. · **Ensiesiintyminen:** löydetty kuoleena [[S9 Warthin raunioihin|session 9]]
 ---
 ## Harlonin vastarinta
 
-- [[Salen Grayfist]] – Harlonin vastarinnan johtaja, joka kuljetuttaa salatun kirjeen Crowmarshiin. · **Ensiesiintyminen:** [[S14 Harlonin vastarinta|session 14]]
+- [[Salen]] – Harlonin vastarinnan johtaja, joka kuljetuttaa salatun kirjeen Crowmarshiin. · **Ensiesiintyminen:** [[S14 Harlonin vastarinta|session 14]]
 - [[Karru Bivr]] – Kääpiö ja Salenin oikea käsi; palkkasi ryhmän vastarinnan tehtävään. · **Ensiesiintyminen:** [[S14 Harlonin vastarinta|session 14]]
 - [[Gloth]] – Vanha örkki, joka auttaa Salenia. · **Ensiesiintyminen:** [[S14 Harlonin vastarinta|session 14]]
 - [[Rim]] – Tabaxi-riimuseppä ja uhkapeluri, joka tietää Xin-Geristä. · **Ensiesiintyminen:** [[S14 Harlonin vastarinta|session 14]]
 - [[Lilja Walthal]] – Haltia ja Varicin tytär. · **Ensiesiintyminen:** [[S14 Harlonin vastarinta|session 14]]
 - [[Helm]] – Tiefling, joka suojelee lapsia vastarinnan piilopaikassa. · **Ensiesiintyminen:** [[S14 Harlonin vastarinta|session 14]]
 - [[Agdon Longscarf]] – Harengon. · **Ensiesiintyminen:** [[S14 Harlonin vastarinta|session 14]]
-- [[Fom Bivrisk]] – Tiefling. · **Ensiesiintyminen:** [[S14 Harlonin vastarinta|session 14]]
+- [[Fom]] – Tiefling. · **Ensiesiintyminen:** [[S14 Harlonin vastarinta|session 14]]
 - [[Old Man Arvin]] – Vanhempi mies. · **Ensiesiintyminen:** [[S14 Harlonin vastarinta|session 14]]
 ---
 ## Marquisat ja armeija
@@ -88,7 +87,7 @@ Avaa hahmon linkki lukeaksesi lisää lempi-NPC:stäsi :3
 - [[Zeldon Gelder]] – Vankilanjohtaja ja vanha ritari, joka etsii tietoa taikaesineistä. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
 - [[Erowitsh Wood]] – Rasistinen kenraali, joka lähettää vankeja rintamalle. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
 - [[Andrew Gelder]] – Entinen vartija, josta tuli Marquisatin armeijan päällikkö. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
-- [[Sam Redraven]] – Vartija, joka seisoo nyt Andrew'n rinnalla. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
+- [[Sam]] – Vartija, joka seisoo nyt Andrew'n rinnalla. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
 - [[Vic]] – Väkivaltainen vartija, joka vihaa Romenooria. · **Ensiesiintyminen:** [[S1 Vankilasta uusia ystäviä|session 1]]
 - [[Marquisatin armeija]] – Sotilasorganisaatio, jonka riveihin entisiä vartijoita liittyi. · **Ensiesiintyminen:** [[S6 Phandalin kylä|session 6]]
 - [[Colin Ravenmaul]] – Marquisatin korkea upseeri, joka ammuttiin ja räjäytettiin. · **Ensiesiintyminen:** [[S14 Harlonin vastarinta|session 14]]
